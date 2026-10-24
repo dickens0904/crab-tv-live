@@ -3341,6 +3341,8 @@ http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
 https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/hlg4kvideo/playlist.m3u8
 #EXTINF:-1 tvg-name="4K60PSDR-H264-AAC测试" tvg-logo="https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/tg.jpg" group-title="其他",4K60PSDR-H264-AAC测试
 https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/sdr4kvideo/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://screenshot-storage.yy.com/screenshot/1356212303_357260002_b831d177-5648-4fe1-ba30-81fcc1a1f563.jpg?x-oss-process=image/resize,w_400,h_500,m_mfit/crop,g_north,w_400,h_500" group-title="其他",24h 我爱我家 喜剧
+https://live.ottiptv.cc/yy/1356212303
 #EXTINF:-1 tvg-logo="https://mobilelivephoto.bs2dl.yy.com/group16/M00/b60b4cbc1f264ae783fd34c8117a33c8.jpg?imageview/4/0/w/400/h/500/q/80" group-title="其他",24H地下交通站全
 https://live.ottiptv.cc/yy/37880083
 #EXTINF:-1 tvg-logo="http://emyfs.bs2cdn.yy.com/ai/OTUyZWNiY2ItY2VlMC00ZDgxLWEwOGQtNjY4ZmUyZThmNWZh.jpg?imageview/4/0/w/400/h/500/q/80" group-title="其他",24小时循环播电视剧
@@ -3391,16 +3393,6 @@ http://zby.lskk.top/cdnlive.php?mode=play&id=719f97d8d7f370913f80a4e5b92316cb&to
 https://live.ottiptv.cc/yy/1382745124
 #EXTINF:-1 tvg-logo="https://emyfs.bs2cdn.yy.com/anchorCover/1L9vYm0OYwjamTAOWhXXlU.png?imageview/4/0/w/400/h/500/q/80" group-title="其他",PK地球神
 https://live.ottiptv.cc/yy/1382736872
-#EXTINF:-1 tvg-logo="http://screenshot-storage.yy.com/screenshot/1356212303_357260002_b831d177-5648-4fe1-ba30-81fcc1a1f563.jpg?x-oss-process=image/resize,w_400,h_500,m_mfit/crop,g_north,w_400,h_500" group-title="其他",w_400,h_500,m_mfit/crop,g_north,w_400,h_500" group-title="zonghe", 24h 我爱我家 喜剧
-https://live.ottiptv.cc/yy/1356212303
-#EXTINF:-1 tvg-logo="http://screenshot-cdn.yy.com/screenshot/1394000563_636843bb-033d-4a60-bcec-fa65d0744983.jpg?x-oss-process=image/resize,w_400,h_500,m_mfit/crop,g_north,w_400,h_500" group-title="其他",w_400,h_500,m_mfit/crop,g_north,w_400,h_500" group-title="zonghe", 《武林外传》武侠
-https://live.ottiptv.cc/yy/1394000563
-#EXTINF:-1 tvg-logo="http://screenshot-storage.yy.com/screenshot/1382851459_7ebf7663-900d-41fa-ad28-a1d6cbbe073b.jpg?x-oss-process=image/resize,w_400,h_500,m_mfit/crop,g_north,w_400,h_500" group-title="其他",w_400,h_500,m_mfit/crop,g_north,w_400,h_500" group-title="zonghe", 【新三国】吕布
-https://live.ottiptv.cc/yy/1382851459
-#EXTINF:-1 tvg-logo="http://screenshot-storage.yy.com/screenshot/1382773714_31b51e7d-4d44-4492-82a3-b0c653154937.jpg?x-oss-process=image/resize,w_400,h_500,m_mfit/crop,g_north,w_400,h_500" group-title="其他",w_400,h_500,m_mfit/crop,g_north,w_400,h_500" group-title="zonghe", 战狼7吴京退役
-https://live.ottiptv.cc/yy/1382773714
-#EXTINF:-1 tvg-logo="http://screenshot-cdn.yy.com/screenshot/1382773686_cd097fe2-9567-428d-b280-756a115d1ca8.jpg?x-oss-process=image/resize,w_400,h_500,m_mfit/crop,g_north,w_400,h_500" group-title="其他",w_400,h_500,m_mfit/crop,g_north,w_400,h_500" group-title="zonghe", 战狼10086
-https://live.ottiptv.cc/yy/1382773686
 #EXTINF:-1 tvg-logo="http://emyfs.bs2cdn.yy.com/OGQ3MjhjOTctM2YxOS00NDI2LWE3ODQtNWRlNTcyZmNlODQ4.jpg?imageview/4/0/w/400/h/500/q/80" group-title="其他",YY用户
 https://live.ottiptv.cc/yy/1382745114
 #EXTINF:-1 tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/64bf7857fef11f0828fa8305.jpg?imageview/4/0/w/400/h/500/q/80" group-title="其他",YY用户
@@ -3427,6 +3419,8 @@ https://live.ottiptv.cc/yy/1382851583
 https://live.ottiptv.cc/yy/1382736795
 #EXTINF:-1 tvg-logo="http://emyfs.bs2cdn.yy.com/MTQxYzE1MzctNzlmYS00MDI3LWJhMGMtYTAzMDg2ZmFlNDMx.jpg?imageview/4/0/w/400/h/500/q/80" group-title="其他",《东北小品》
 https://live.ottiptv.cc/yy/29600150
+#EXTINF:-1 tvg-logo="http://screenshot-cdn.yy.com/screenshot/1394000563_636843bb-033d-4a60-bcec-fa65d0744983.jpg?x-oss-process=image/resize,w_400,h_500,m_mfit/crop,g_north,w_400,h_500" group-title="其他",《武林外传》武侠
+https://live.ottiptv.cc/yy/1394000563
 #EXTINF:-1 tvg-logo="https://emyfs.bs2cdn.yy.com/anchorCover/2tvChDyMXV7bsHNcn4TNb7.jpg?imageview/4/0/w/400/h/500/q/80" group-title="其他",《玉簟秋》精彩花絮
 https://live.ottiptv.cc/yy/1354808044
 #EXTINF:-1 tvg-logo="https://mobilelivephoto.bs2dl.yy.com/group16/M00/febde9f608c741c5a89fe612f280f95f.jpg?imageview/4/0/w/400/h/500/q/80" group-title="其他",《石敢当》六耳猕猴
@@ -3437,6 +3431,8 @@ https://live.ottiptv.cc/yy/22490906
 https://live.ottiptv.cc/yy/38670875
 #EXTINF:-1 tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/64c24093fef11f0828fac64c.jpg?imageview/4/0/w/400/h/500/q/80" group-title="其他",【新三国】
 https://live.ottiptv.cc/yy/1382851415
+#EXTINF:-1 tvg-logo="http://screenshot-storage.yy.com/screenshot/1382851459_7ebf7663-900d-41fa-ad28-a1d6cbbe073b.jpg?x-oss-process=image/resize,w_400,h_500,m_mfit/crop,g_north,w_400,h_500" group-title="其他",【新三国】吕布
+https://live.ottiptv.cc/yy/1382851459
 #EXTINF:-1 tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/64c2314efef11f0828fac608.jpg?imageview/4/0/w/400/h/500/q/80" group-title="其他",【新三国】日版
 https://live.ottiptv.cc/yy/1382851457
 #EXTINF:-1 tvg-logo="https://mobilelivephoto.bs2dl.yy.com/group16/M00/7f5e5eb205ae431aadb051e88d380679.jpg?imageview/4/0/w/400/h/500/q/80" group-title="其他",【武林客栈】
@@ -3881,6 +3877,10 @@ https://live.ottiptv.cc/yy/1382745179
 https://live.ottiptv.cc/yy/1354930915
 #EXTINF:-1 tvg-logo="http://emyfs.bs2cdn.yy.com/OTcxZTIzYmMtMTFlYi00MWNlLWFlM2ItN2MyZDk3NTc1Yzgx.png?imageview/4/0/w/400/h/500/q/80" group-title="其他",战地：异种浩劫
 https://live.ottiptv.cc/yy/1382736804
+#EXTINF:-1 tvg-logo="http://screenshot-storage.yy.com/screenshot/1382773714_31b51e7d-4d44-4492-82a3-b0c653154937.jpg?x-oss-process=image/resize,w_400,h_500,m_mfit/crop,g_north,w_400,h_500" group-title="其他",战狼7吴京退役
+https://live.ottiptv.cc/yy/1382773714
+#EXTINF:-1 tvg-logo="http://screenshot-cdn.yy.com/screenshot/1382773686_cd097fe2-9567-428d-b280-756a115d1ca8.jpg?x-oss-process=image/resize,w_400,h_500,m_mfit/crop,g_north,w_400,h_500" group-title="其他",战狼10086
+https://live.ottiptv.cc/yy/1382773686
 #EXTINF:-1 tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/385h1nBdBkCrY7LmMuazYE.jpg?imageview/4/0/w/400/h/500/q/80" group-title="其他",打破第四面墙
 https://live.ottiptv.cc/yy/1382745090
 #EXTINF:-1 tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/38HkfSCpNmyskiD7w18rvv.jpg?imageview/4/0/w/400/h/500/q/80" group-title="其他",抗日神片，燃爆抗战热血魂
