@@ -19,10 +19,10 @@ http://110.53.235.13:19901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1
 http://111.59.24.227:8181/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1
 #EXTINF:-1 tvg-name="CCTV-1" tvg-logo="https://i.imgur.com/TpA3cUl.png" group-title="央视",CCTV-1
 http://112.123.243.37:50085/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1
+#EXTINF:-1 tvg-name="CCTV-1" tvg-logo="https://i.imgur.com/TpA3cUl.png" group-title="央视",CCTV-1
+http://112.27.5.218:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV1.png" group-title="央视",CCTV-1
 http://120.40.39.246:352/newlive/live/hls/1/live.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV1.png" group-title="央视",CCTV-1
-http://124.228.160.112:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV-2" tvg-logo="https://i.imgur.com/ILamhwU.png" group-title="央视",CCTV-2
 http://101.66.194.176:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1
 #EXTINF:-1 tvg-name="CCTV-2" tvg-logo="https://i.imgur.com/ILamhwU.png" group-title="央视",CCTV-2
@@ -43,10 +43,10 @@ http://111.59.139.82:11888/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1
 http://111.59.24.227:8181/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1
 #EXTINF:-1 tvg-name="CCTV-2" tvg-logo="https://i.imgur.com/ILamhwU.png" group-title="央视",CCTV-2
 http://112.123.243.37:50085/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1
+#EXTINF:-1 tvg-name="CCTV-2" tvg-logo="https://i.imgur.com/ILamhwU.png" group-title="央视",CCTV-2
+http://112.27.5.218:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV2.png" group-title="央视",CCTV-2
 http://120.40.39.246:352/newlive/live/hls/2/live.m3u8
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV2.png" group-title="央视",CCTV-2
-http://116.128.243.121:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV2.png" group-title="央视",CCTV-2财经
 http://113.25.252.226:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV-3" tvg-logo="https://i.imgur.com/iFlkIuw.png" group-title="央视",CCTV-3
@@ -69,10 +69,10 @@ http://111.59.139.82:11888/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1
 http://112.123.243.37:50085/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1
 #EXTINF:-1 tvg-name="CCTV-3" tvg-logo="https://i.imgur.com/iFlkIuw.png" group-title="央视",CCTV-3
 http://112.27.5.218:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1
+#EXTINF:-1 tvg-name="CCTV-3" tvg-logo="https://i.imgur.com/iFlkIuw.png" group-title="央视",CCTV-3
+http://113.15.109.216:59901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV3.png" group-title="央视",CCTV-3
 http://112.27.145.212:9902/tsfile/live/1502_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV3.png" group-title="央视",CCTV-3
-http://58.57.40.22:9901/tsfile/live/1002_1.m3u8
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV4.png" group-title="央视",CCTV-4
 http://113.57.140.161:10081/newlive/live/hls/4/live.m3u8
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV4.png" group-title="央视",CCTV-4
@@ -117,6 +117,8 @@ http://116.77.33.98:44330/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1
 http://118.193.115.2:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1
 #EXTINF:-1 tvg-name="CCTV-4 America" tvg-logo="https://i.imgur.com/gBbLyqh.png" group-title="央视",CCTV-4 America
 http://119.39.9.8:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1
+#EXTINF:-1 tvg-name="CCTV-4 America" tvg-logo="https://i.imgur.com/gBbLyqh.png" group-title="央视",CCTV-4 America
+http://124.165.251.82:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1
 #EXTINF:-1 tvg-id="CCTV4America.cn@SD" tvg-logo="https://i.imgur.com/gBbLyqh.png" group-title="央视",CCTV-4 America
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 #EXTINF:-1 tvg-id="CCTV4Asia.cn@SD" tvg-logo="https://i.imgur.com/tWt4Wou.png" group-title="央视",CCTV-4 Asia
@@ -155,10 +157,10 @@ http://111.59.139.82:11888/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1
 http://112.123.243.37:50085/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1
 #EXTINF:-1 tvg-name="CCTV-5" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV5.png" group-title="央视",CCTV-5
 http://112.27.5.218:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1
+#EXTINF:-1 tvg-name="CCTV-5" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV5.png" group-title="央视",CCTV-5
+http://113.15.109.216:59901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV5.png" group-title="央视",CCTV-5
 http://112.27.145.212:9902/tsfile/live/1504_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV5.png" group-title="央视",CCTV-5
-http://58.57.40.22:9901/tsfile/live/1004_1.m3u8
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV5+.png" group-title="央视",CCTV-5+
 http://183.129.255.66:8480/hls/6/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV5+.png" group-title="央视",CCTV-5+
@@ -3391,6 +3393,8 @@ https://live.ottiptv.cc/yy/1356363815
 https://live.ottiptv.cc/yy/29197808
 #EXTINF:-1 tvg-logo="http://emyfs.bs2cdn.yy.com/offlineIndividuationCover/5vP0SDXW34LLPX3wNTiSwm.jpg?imageview/4/0/w/400/h/500/q/80" group-title="其他",8090年的热血与回忆
 https://live.ottiptv.cc/yy/1356243352
+#EXTINF:-1 tvg-logo="https://mobilelivephoto.bs2dl.yy.com/group16/M00/dbf09bd45b4a4f2d8be2724967109fda.jpg?imageview/4/0/w/400/h/500/q/80" group-title="其他",Baby影视
+https://live.ottiptv.cc/yy/1414838466
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV5.png" group-title="其他",CCTV-5
 http://120.198.95.220:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV5.png" group-title="其他",CCTV-5
@@ -3585,6 +3589,8 @@ https://live.ottiptv.cc/yy/33300793
 https://live.ottiptv.cc/yy/1507704566
 #EXTINF:-1 tvg-logo="https://emyfs.bs2cdn.yy.com/anchorCover/44LiI5O9lBZVzFozGwsmUw.png?imageview/4/0/w/400/h/500/q/80" group-title="其他",儿大不由爹
 https://live.ottiptv.cc/yy/1382745106
+#EXTINF:-1 tvg-logo="http://zonemin.bs2dl.yy.com/group16/M00/2eaaa7f3c21e4b2c87a25fab4d068eb8.jpg?imageview/4/0/w/400/h/500/q/80" group-title="其他",兔牙妹吖正在直播
+https://live.ottiptv.cc/yy/1353782648
 #EXTINF:-1 tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/OGVjNTYyNTgtODRlMC00MDEwLWEzNzAtNjQyNzQ2MjcxYWZh.jpg?imageview/4/0/w/400/h/500/q/80" group-title="其他",公主嫁到
 https://live.ottiptv.cc/yy/1382736915
 #EXTINF:-1 tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/NmRmYmI4MDgtMjRkYy00YzU2LThjZGEtNzE4ZDJhMWEyMjcy.jpg?imageview/4/0/w/400/h/500/q/80" group-title="其他",兴风作浪 2：爆笑搞事再升级
@@ -4415,6 +4421,8 @@ https://live.ottiptv.cc/yy/1354932362
 https://live.ottiptv.cc/yy/1355052097
 #EXTINF:-1 tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/657c06b242c73a743686a5ce.jpg?imageview/4/0/w/400/h/500/q/80" group-title="其他",谍影重重五季全
 https://live.ottiptv.cc/yy/1382735570
+#EXTINF:-1 tvg-logo="http://emyfs.bs2cdn.yy.com/YjAwZWE5YzctNmZjMi00MzhjLWJhZGEtNDJmZjg2MTk4YzY0.jpg?imageview/4/0/w/400/h/500/q/80" group-title="其他",豪哥带我们发财
+https://live.ottiptv.cc/yy/23402146
 #EXTINF:-1 tvg-name="贾玲小品" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/贾玲小品.png" group-title="其他",贾玲小品
 http://zzy789.xyz/douyu1.php?id=10419541
 #EXTINF:-1 tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/YzgxZjgwYWUtNTNjNy00MDUzLWI4NTQtYzA5MTBhZTZiOWMx.jpg?imageview/4/0/w/400/h/500/q/80" group-title="其他",贾玲春晚小品
