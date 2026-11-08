@@ -5,17 +5,18 @@
 
 ## 订阅地址
 
-**推荐（raw 代理，无 CDN 陈旧缓存，手机 5G 实测 1.9s）**
+**推荐（与 App 内置地址一致，raw 代理无 CDN 陈旧缓存）**
 ```
-https://ghfast.top/https://raw.githubusercontent.com/dickens0904/crab-tv-live/main/merged.m3u
+https://gh-proxy.com/https://raw.githubusercontent.com/dickens0904/crab-tv-live/main/merged.m3u
 ```
 
-**备选（jsDelivr，国内更快 1.5s，但分支缓存刷新慢，EPG 指针可能滞后几小时）**
+**备选（jsDelivr，但分支缓存刷新慢，EPG 指针可能滞后几小时）**
 ```
 https://cdn.jsdelivr.net/gh/dickens0904/crab-tv-live@main/merged.m3u
 ```
 
-> `raw.githubusercontent.com` 在国内直连不通（实测 HTTP 000），故用 raw 代理。
+> `raw.githubusercontent.com` 国内直连不通（实测 HTTP 000），故用 raw 代理。
+> 2026-11-08：`ghfast.top` 实测已整段不可达（HTTP 000），订阅地址统一改用 `gh-proxy.com`。
 
 ## 文件
 | 文件 | 说明 |
