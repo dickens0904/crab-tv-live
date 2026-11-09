@@ -83,6 +83,31 @@
    },
    "device_probe": 77,
    "device_ok": 6
+  },
+  "vod_config": {
+   "file": "蟹老板tv(点播).json",
+   "type": "站点配置 JSON（不是影片片单 m3u）",
+   "sites": 75,
+   "kind": {
+    "CMS/HTTP": 21,
+    "drpy/js": 24,
+    "csp/fan.txt": 26,
+    "csp/vip.jar": 4
+   },
+   "spider": "fan.txt(顶层) + vip.jar(逐站点 jar)",
+   "resources_published": [
+    "lib/drpy2.min.js",
+    "lib/cheerio.min.js",
+    "lib/crypto-js.js",
+    "lib/moban.js",
+    "lib/gbk.js",
+    "lib/BT.js",
+    "jar/vip.jar",
+    "fan.txt"
+   ],
+   "list_csv": "蟹老板tv(点播)片单.csv：名称/海报/上映年份/打分，319 部",
+   "movie_m3u": "蟹老板tv(点播).m3u：319 部影片片单（播放器用，非站点配置）",
+   "tested_sites": 149
   }
  }
 }
