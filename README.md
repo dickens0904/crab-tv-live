@@ -39,11 +39,16 @@ https://cdn.jsdelivr.net/gh/dickens0904/crab-tv-live@main/merged.m3u
 | 订阅 | 地址 | 内容 |
 |---|---|---|
 | 蟹老板tv(直播) | `.../main/蟹老板tv(直播).m3u`（URL 需编码中文与括号） | 2,765 条中文直播线路，全量复核真实可用 98.6%、假活 0 |
-| 蟹老板tv(点播) | `.../main/蟹老板tv(点播).m3u` | 319 部影片，每条 `#EXTINF` 带 `tvg-name` 名称、`tvg-logo` 海报、`x-year` 上映年份、`x-rating` 打分 |
+| **蟹老板tv(点播)** | **`.../main/蟹老板tv(点播).json`** | **站点配置**：75 个实测可用点播站点，填进 App 的「点播配置」地址栏 |
+| 蟹老板tv(点播)片单 | `.../main/蟹老板tv(点播)片单.csv` | 影片清单，表头 `名称 / 海报 / 上映年份 / 打分 / 来源站点 / 播放地址`，319 部 |
+| 蟹老板tv(点播).m3u | `.../main/蟹老板tv(点播).m3u` | 同一份 319 部影片的 m3u 片单（播放器用），每条 `#EXTINF` 带 `tvg-name` / `tvg-logo` / `x-year` / `x-rating` |
 
+- **站点配置 JSON 才是 App 用的订阅**；`.m3u` 与 `.csv` 是影片片单，给 VLC / PotPlayer 或表格查看，不能填进「点播配置」。
+- 四字段（名称/海报/上映年份/打分）来自各站点片单的 `vod_name` / `vod_pic` / `vod_year` / `vod_score`，App 首页卡片会自动显示；CSV 是这四项的静态清单。TVBox 站点配置格式本身没有「表头」这一层。
+- 站点配置全量测试过：149 站去重、75 站可用，其中 21 个 CMS、24 个 drpy/js、26 个 `fan.txt` 爬虫站、4 个 `vip.jar` 解析站。FongMi 的 `Site` 支持逐站点 `jar` 字段，所以两套 spider 能共存于一份配置。
+- `lib/*.js`（drpy2 运行时与两个BT规则）、`jar/vip.jar`、`fan.txt` 同仓发布，配置内全部用 gh-proxy 绝对 URL，不依赖家庭局域网 8099；不带 `lives`（避免改掉直播订阅）、不带 `hosts` / `proxy`。
 - 两个中文名文件与 `merged.m3u` / `merged_all.m3u` 同仓库同分支同步发布；`merged.m3u` 保持 App 内置地址不变以兼容老订阅。
 - 直播侧：从 25 个订阅种子挖出 764 条新地址、严格验活留 161 条，再从 49 份中文聚合清单扩池补 31 条备用线路；`dead_urls.txt`（348 条）与 `extra_live.json`（192 条）是持久清单，删掉即回滚。
-- 点播侧：**蟹老板tv(点播).m3u 是「影片片单」，不是 TVBox/FongMi 的站点配置 JSON**，请用播放器（VLC / PotPlayer / m3u 兼容播放器）加载；App 里的点播订阅仍应填 `mobile_vod.json` 这类站点配置。
 - 片单打分来自各 CMS 的 `vod_score`，无评分字段的站填 `0.0`；每部片只取第 1 集播放地址，且全部 319 条都经过逐条播放地址验活。
 
 ## 2026-11-08 有效性修复
