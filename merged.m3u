@@ -5467,3 +5467,65 @@ http://113.90.154.189:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=
 http://183.129.255.66:8480/hls/18/index.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV17.png" group-title="央视",CCTV-17
 http://218.104.239.114:9901/tsfile/live/0019_2.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="地方",南京少儿
+http://ls.qingting.fm/live/3701149.m3u8
+#EXTINF:-1 group-title="地方",岷县
+http://play.kankanlive.com/live/1614311581479927.m3u8
+#EXTINF:-1 group-title="地方",浙江民生
+http://ls.qingting.fm/live/23891.m3u8
+#EXTINF:-1 tvg-name="CGTN法语" tvg-id="CGTN法语" tvg-logo="https://tb.zbds.top/logo/CGTN法语.png" group-title="央视",CGTN法语
+http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
+#EXTINF:-1 group-title="地方",宿州新闻
+http://live.ahsz.tv/video/s10001-szzh/index.m3u8?zanhd
+#EXTINF:-1 tvg-name="春晚2024" tvg-logo="https://epg.112114.xyz/logo/春晚2024.png" group-title="其他",春晚2024
+https://v.cdnlz13.com/20240210/24176_cd3c5aff/index.m3u8
+#EXTINF:-1 group-title="地方",璧山
+http://222.179.42.129:8181/hls1.m3u8
+#EXTINF:-1 group-title="地方",定西公共
+http://play.kankanlive.com/live/1645680054929933.m3u8
+#EXTINF:-1 group-title="地方",定西公共
+https://play.kankanlive.com/live/1645680054929933.m3u8
+#EXTINF:-1 group-title="地方",东阳影视生活
+http://204.11.235.251:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
+#EXTINF:-1 group-title="地方",甘孜
+http://tv.drs.ganzitv.com:8100/channellive/gztv.flv?zsicd
+#EXTINF:-1 group-title="地方",广南
+http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel19/playlist.m3u8
+#EXTINF:-1 group-title="地方",金川
+https://play.kankanlive.com/live/1625041962958919.m3u8
+#EXTINF:-1 group-title="地方",句容影院
+http://jrlive.jrntv.com/live/_definst_/yingshis/playlist.m3u8?zjiangsd
+#EXTINF:-1 group-title="地方",可克达拉
+http://test5.btzx.com.cn:80/live/kkdl.stream/playlist.m3u8
+#EXTINF:-1 group-title="地方",临洮
+https://play.kankanlive.com/live/1638428318510977.m3u8
+#EXTINF:-1 group-title="地方",龙泉驿新闻
+https://live-pull.newslqy.com/live/fmzb1682404988829.m3u8
+#EXTINF:-1 group-title="地方",沐川
+http://tvfile.mcrm.org.cn/nmip-media/channellive/channel103064/playlist.m3u8
+#EXTINF:-1 group-title="地方",荣昌
+http://183.64.181.25:40023/rongchang01.m3u8?zzhongqd
+#EXTINF:-1 group-title="地方",宿州公共
+http://live.ahsz.tv/video/s10001-ggpd/index.m3u8?zanhd
+#EXTINF:-1 group-title="地方",武胜
+http://live2.gatv.com.cn:86/live/WS.m3u8?zsicd
+#EXTINF:-1 group-title="地方",新野
+http://live.dxhmt.cn:9081/tv/11329-1.m3u8
+#EXTINF:-1 group-title="地方",新野
+http://tvpull.dxhmt.cn:9081/tv/11329-1.m3u8
+#EXTINF:-1 group-title="地方",烟台经济科技
+http://live.yantaitv.cn/live/27f84144e95a4652ae9e5c211b2a6b55/405f3e33ba384aa0a16014d0becd1261-1.m3u8?shandd
+#EXTINF:-1 group-title="地方",伊犁哈萨克
+http://110.153.180.106:55555/out_3/index.m3u8
+#EXTINF:-1 group-title="地方",伊犁维吾尔
+http://110.153.180.106:55555/out_2/index.m3u8
+#EXTINF:-1 group-title="地方",黑龙江文体
+https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8?zheild
+#EXTINF:-1 group-title="其他",雍正王朝
+https://txdirect.hls.huya.com/huyalive/29359996-2689277426-11550358594541060096-2847699098-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-name="猫和老鼠" tvg-id="猫和老鼠" tvg-logo="https://tb.zbds.top/logo/猫和老鼠.png" group-title="其他",猫和老鼠
+https://live.metshop.top/huya/11352879
+#EXTINF:-1 group-title="地方",定西
+https://play.kankanlive.com/live/1645679947087932.m3u8
+#EXTINF:-1 tvg-name="CGTN" tvg-id="CGTN" group-title="央视",CGTN英语
+https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
