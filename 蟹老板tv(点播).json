@@ -420,22 +420,6 @@
    "changeable": 0
   },
   {
-   "key": "斗鱼js",
-   "name": "🐟斗鱼┃直播",
-   "type": 3,
-   "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-   "ext": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/斗鱼直播.js",
-   "style": {
-    "type": "rect",
-    "ratio": 1.755
-   },
-   "timeout": 10,
-   "playerType": "2",
-   "searchable": 1,
-   "quickSearch": 0,
-   "changeable": 0
-  },
-  {
    "key": "Bili",
    "name": "🅱哔哔合集┃弹幕",
    "type": 3,
@@ -574,137 +558,6 @@
    "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/dickens0904/crab-tv-live/main/lib/BT.js"
   },
   {
-   "key": "AppYs_南瓜",
-   "name": "🍚VIP专享1080P-A",
-   "type": 3,
-   "playerType": 2,
-   "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
-   "changeable": 0,
-   "searchable": 1,
-   "quickSearch": 1,
-   "ext": "https://gitcode.net/m0_73989217/ymz/-/raw/master/JS/%E5%8D%97%E7%93%9C.js"
-  },
-  {
-   "key": "好趣网",
-   "name": "📺电视直播",
-   "type": 3,
-   "api": "https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js",
-   "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/JS/%e5%a5%bd%e8%b6%a3%e7%bd%91.js"
-  },
-  {
-   "key": "drpy_js_超前点播",
-   "name": "🍌VIP影视",
-   "type": 3,
-   "api": "https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js",
-   "ext": "https://jihulab.com/ygbh1/box/-/raw/main/yg/js/%E8%B6%85%E5%89%8D%E7%82%B9%E6%92%AD.js"
-  },
-  {
-   "key": "drpy_js_蛋蛋剧",
-   "name": "🥚蛋蛋影视剧",
-   "type": 3,
-   "api": "https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js",
-   "ext": "https://jihulab.com/ygbh1/box/-/raw/main/yg/js/%E8%9B%8B%E8%9B%8B%E5%89%A7.js"
-  },
-  {
-   "key": "drpy_js_Voflix",
-   "name": "🍭Voflix",
-   "type": 3,
-   "api": "https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js",
-   "ext": "https://xhdwc.tk/js/Voflix.js"
-  },
-  {
-   "key": "drpy_js_子子影视",
-   "name": "🥏子子影视",
-   "type": 3,
-   "api": "https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js",
-   "ext": "https://xhdwc.tk/js/子子影视.js"
-  },
-  {
-   "key": "drpy_js_素白白",
-   "name": "🍧素白白",
-   "type": 3,
-   "api": "https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js",
-   "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/h/sbb.js"
-  },
-  {
-   "key": "drpy_js_sh",
-   "name": "💄骚火电影",
-   "type": 3,
-   "api": "https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js",
-   "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/h/sh.js"
-  },
-  {
-   "key": "荐片",
-   "name": "🧲荐片磁力",
-   "type": 3,
-   "playerType": "1",
-   "api": "https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js",
-   "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/JS/jp.js"
-  },
-  {
-   "key": "drpy_js_007",
-   "name": "🎫007电影",
-   "type": 3,
-   "api": "https://agit.ai/guot54/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
-   "ext": "http://52bsj.vip:81/api/v3/file/get/155350/007%E5%BD%B1%E8%A7%86.js?sign=EkntLloZ5Uy72KNgioKclay4YDRZtPXWpw2hCdQApuE%3D%3A0"
-  },
-  {
-   "key": "drpy_js_NIKE影视",
-   "name": "📞NIKE影视",
-   "type": 3,
-   "api": "https://agit.ai/guot54/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
-   "ext": "http://52bsj.vip:81/api/v3/file/get/155398/Nike%E5%BD%B1%E8%A7%86.js?sign=EdVfcAVZsJLm7zD131x4NvQIQj2B3ZAfB3y3JFFLP7o%3D%3A0"
-  },
-  {
-   "key": "drpy_js_139",
-   "name": "🎞139电影",
-   "type": 3,
-   "api": "https://agit.ai/guot54/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
-   "ext": "http://52bsj.vip:81/api/v3/file/get/155352/139%E5%BD%B1%E8%A7%86.js?sign=ezVUJAHaQY2oCFMZaSeE9XYlaZpamu_Hr35Fz1JH7s8%3D%3A0"
-  },
-  {
-   "key": "drpy_js_8k影视",
-   "name": "🎠8K影视",
-   "type": 3,
-   "api": "https://agit.ai/guot54/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
-   "ext": "http://52bsj.vip:81/api/v3/file/get/155366/8K%E5%BD%B1%E8%A7%86.js?sign=BsI4EAocrguSxa8rzS0TJtft-Vy7qrb6uatmPfIw3nY%3D%3A0"
-  },
-  {
-   "key": "drpy_js_263",
-   "name": "🎟MV263",
-   "type": 3,
-   "api": "https://agit.ai/guot54/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
-   "ext": "http://52bsj.vip:81/api/v3/file/get/155397/MV263.js?sign=ZGUTsiwGV5cpOqA2m27WBkbX_qDrmQoKfa4KKbGIORo%3D%3A0"
-  },
-  {
-   "key": "drpy_js_乐于",
-   "name": "🧧乐鱼影视",
-   "type": 3,
-   "api": "https://agit.ai/guot54/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
-   "ext": "http://52bsj.vip:81/api/v3/file/get/155416/%E4%B9%90%E9%B1%BC%E5%BD%B1%E8%A7%86.js?sign=5cbuYtzuDSGA47liLWDNOMFVO7YonaWL89C7r-ADO5U%3D%3A0"
-  },
-  {
-   "key": "drpy_js_7喜",
-   "name": "🎯7喜影院",
-   "type": 3,
-   "api": "https://agit.ai/guot54/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
-   "ext": "http://52bsj.vip:81/api/v3/file/get/155364/7%E5%96%9C%E5%BD%B1%E9%99%A2.js?sign=Eq8B6YPER0qmF5uZyFMnl6qWJVHSU53V_zmz-6Yvq9o%3D%3A0"
-  },
-  {
-   "key": "drpy_js_多米",
-   "name": "🍚多米影视",
-   "type": 3,
-   "api": "https://agit.ai/guot54/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
-   "ext": "http://52bsj.vip:81/api/v3/file/get/155398/Nike%E5%BD%B1%E8%A7%86.js?sign=EdVfcAVZsJLm7zD131x4NvQIQj2B3ZAfB3y3JFFLP7o%3D%3A0"
-  },
-  {
-   "key": "drpy_js_人人影视",
-   "name": "📞人人影视",
-   "type": 3,
-   "api": "https://agit.ai/guot54/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
-   "ext": "http://52bsj.vip:81/api/v3/file/get/155433/%E5%86%B7%E6%9B%A6%E5%BD%B1%E8%A7%86.js?sign=taamroaWkefLuU96niZUnEAk2ZU7O4H7sVkQTy6Fn5w%3D%3A0"
-  },
-  {
    "key": "csp_SP33",
    "name": "📺三三┃解析",
    "type": 3,
@@ -736,20 +589,6 @@
    "filterable": 1,
    "changeable": 0,
    "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/dickens0904/crab-tv-live/main/jar/vip.jar"
-  },
-  {
-   "key": "drpy_js_虎牙",
-   "name": "🦷虎牙直播",
-   "type": 3,
-   "api": "https://agit.ai/guot54/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
-   "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/JS/HY%e7%9b%b4%e6%92%ad.js"
-  },
-  {
-   "key": "drpy_js_兔小贝",
-   "name": "🎈兔小贝",
-   "type": 3,
-   "api": "https://agit.ai/guot54/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
-   "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/JS/%e5%85%94%e5%b0%8f%e8%b4%9d.js"
   },
   {
    "key": "csp_Dm84",
