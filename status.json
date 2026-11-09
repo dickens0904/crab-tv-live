@@ -1,5 +1,5 @@
 {
- "time": "2026-11-09T13:07:14",
+ "time": "2026-11-09T13:50:35",
  "scanned_this_run": 0,
  "alive_this_run": 0,
  "dead_this_run": 0,
@@ -9,8 +9,8 @@
  "hard_dead_this_run": 0,
  "adult_dropped_this_run": 0,
  "db_total": 28732,
- "exported_channels": 10801,
- "published_merged_lines": 2734,
+ "exported_channels": 10832,
+ "published_merged_lines": 2765,
  "gate": {
   "checked": 12118,
   "alive": 10972,
@@ -49,12 +49,27 @@
   "https://raw.githubusercontent.com/best-fan/iptv-sources/main/cn_cctv.m3u8": 148
  },
  "audit": {
-  "time": "2026-11-09 13:09:23",
-  "channels": 2734,
-  "real_ok": 2699,
-  "real_ok_pct": 98.7,
-  "fake_200": 0,
+  "time": "2026-11-09 13:48:59",
+  "live_channels": 2765,
+  "live_real_ok_pct": 98.7,
   "dead_blacklist": 348,
-  "harvested": 161
+  "harvested": 161,
+  "expanded": 31,
+  "extra_total": 192,
+  "vod": {
+   "sites_checked": 149,
+   "movies": 319,
+   "play_probe": {
+    "checked": 458,
+    "ok": 319,
+    "mode": "full"
+   },
+   "fields": [
+    "名称",
+    "海报",
+    "上映年份",
+    "打分"
+   ]
+  }
  }
 }
