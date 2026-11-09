@@ -34,6 +34,18 @@ https://cdn.jsdelivr.net/gh/dickens0904/crab-tv-live@main/merged.m3u
 - **成人过滤**：频道级硬词拦截，黄台不会出现在电视列表。
 - **EPG**：本机 serve.py 后台缓存公网 EPG，电视/手机走局域网取（5.4s → 0.26s）。发布到 GitHub 时首行 `x-tvg-url` 会改写为公网地址，离开家庭网络也能取到节目单。
 
+## 2026-11-09 命名订阅
+
+| 订阅 | 地址 | 内容 |
+|---|---|---|
+| 蟹老板tv(直播) | `.../main/蟹老板tv(直播).m3u`（URL 需编码中文与括号） | 2,765 条中文直播线路，全量复核真实可用 98.6%、假活 0 |
+| 蟹老板tv(点播) | `.../main/蟹老板tv(点播).m3u` | 319 部影片，每条 `#EXTINF` 带 `tvg-name` 名称、`tvg-logo` 海报、`x-year` 上映年份、`x-rating` 打分 |
+
+- 两个中文名文件与 `merged.m3u` / `merged_all.m3u` 同仓库同分支同步发布；`merged.m3u` 保持 App 内置地址不变以兼容老订阅。
+- 直播侧：从 25 个订阅种子挖出 764 条新地址、严格验活留 161 条，再从 49 份中文聚合清单扩池补 31 条备用线路；`dead_urls.txt`（348 条）与 `extra_live.json`（192 条）是持久清单，删掉即回滚。
+- 点播侧：**蟹老板tv(点播).m3u 是「影片片单」，不是 TVBox/FongMi 的站点配置 JSON**，请用播放器（VLC / PotPlayer / m3u 兼容播放器）加载；App 里的点播订阅仍应填 `mobile_vod.json` 这类站点配置。
+- 片单打分来自各 CMS 的 `vod_score`，无评分字段的站填 `0.0`；每部片只取第 1 集播放地址，且全部 319 条都经过逐条播放地址验活。
+
 ## 2026-11-08 有效性修复
 此前 `upsert()` 的 UPDATE 参数顺序错位（`pid` 塞给 `name`、`logo` 塞给 `WHERE id=?`），
 导致 **UPDATE 永远匹配 0 行**：每轮探测结论全部丢弃，库里 14476 行的 `last_seen`
