@@ -1,22 +1,23 @@
 {
- "time": "2026-11-09T00:48:28",
- "scanned_this_run": 21352,
- "alive_this_run": 10409,
- "dead_this_run": 10439,
- "unprobeable_this_run": 167,
- "soft_fail_this_run": 7081,
- "kept_by_grace_this_run": 337,
- "hard_dead_this_run": 3695,
- "adult_dropped_this_run": 3,
+ "time": "2026-11-09T13:07:14",
+ "scanned_this_run": 0,
+ "alive_this_run": 0,
+ "dead_this_run": 0,
+ "unprobeable_this_run": 0,
+ "soft_fail_this_run": 0,
+ "kept_by_grace_this_run": 0,
+ "hard_dead_this_run": 0,
+ "adult_dropped_this_run": 0,
  "db_total": 28732,
- "exported_channels": 10987,
- "published_merged_lines": 2923,
+ "exported_channels": 10801,
+ "published_merged_lines": 2734,
  "gate": {
   "checked": 12118,
   "alive": 10972,
   "soft_kept": 708,
   "dropped": 282,
-  "unprobeable": 156
+  "unprobeable": 156,
+  "reexport_mode": "from-db"
  },
  "merged_m3u": "I:\\Temp\\opencode\\live_source_db\\merged.m3u",
  "epg_url": "http://192.168.31.29:8099/epg.xml.gz",
@@ -46,5 +47,14 @@
   "https://raw.githubusercontent.com/CCSH/IPTV/main/live_platforms.m3u": 9230,
   "https://raw.githubusercontent.com/EvilCult/iptv-m3u-maker/master/http/tv.m3u": 266,
   "https://raw.githubusercontent.com/best-fan/iptv-sources/main/cn_cctv.m3u8": 148
+ },
+ "audit": {
+  "time": "2026-11-09 13:09:23",
+  "channels": 2734,
+  "real_ok": 2699,
+  "real_ok_pct": 98.7,
+  "fake_200": 0,
+  "dead_blacklist": 348,
+  "harvested": 161
  }
 }
