@@ -1,925 +1,585 @@
 #EXTM3U x-tvg-url="https://iptv.yang-1989.xyz/epg.xml.gz" x-name="蟹老板tv(点播)"
-#EXTINF:-1 tvg-name="This is 炫茂路" tvg-logo="https://p.bfp261112.com/upload/vod/20260921-1/9b14c72cde8e4bf053b12ab506880bd3.jpg" x-year="2026" x-rating="10.0" group-title="暴风采集",This is 炫茂路 (2026)
-https://fengbao12.com/video/Thisisxuanmaolu/0d2cd09e08b9/index.m3u8
-#EXTINF:-1 tvg-name="一觉醒来坐拥神装和飞船，我决定以买一套独门独户的房子为目标作为佣兵自由地活下去" tvg-logo="https://snzypic.vip/upload/vod/20261004-1/36cdbd1ba42d226d57b3161f6d3ba65e.jpg" x-year="2026" x-rating="10.0" group-title="🌍VIP专享2K",一觉醒来坐拥神装和飞船，我决定以买一套独门独户的房子为目标作为佣兵自由地活下去 (2026)
-https://v15.rstu6.com/202610/04/vfFZ8CdgUA27/video/index.m3u8
 #EXTINF:-1 tvg-name="不当后爸的我，起飞了" tvg-logo="https://img.spzyz.vip/images/20251216/不当后爸的我，起飞了.jpg" x-year="2025" x-rating="10.0" group-title="大众资源",不当后爸的我，起飞了 (2025)
 https://cdn.dzzybf3.com/20260629/F7CTriVa/index.m3u8
-#EXTINF:-1 tvg-name="不想睡的星期五" tvg-logo="http://www.maoyanimg.top/upload/vod/20260816-1/36fa871cdb3201bd5fb379cf5d962f9b.jpg" x-year="2026" x-rating="10.0" group-title="猫眼资源",不想睡的星期五 (2026)
-https://play.maoyanplay.top/20260816/qMBqxe5v/index.m3u8
-#EXTINF:-1 tvg-name="东京复仇者三天战争篇" tvg-logo="http://www.maoyanimg.top/upload/vod/20261003-1/9611c9c9e4cc473f7911da08594fee13.webp" x-year="2026" x-rating="10.0" group-title="猫眼资源",东京复仇者三天战争篇 (2026)
-https://play.maoyanplay.top/20261003/iTZyB1nr/index.m3u8
-#EXTINF:-1 tvg-name="仙逆" tvg-logo="http://www.maoyanimg.top/upload/vod/20251228-1/9794fdbb80bc39076fca564743c35f43.jpg" x-year="2023" x-rating="10.0" group-title="猫眼资源",仙逆 (2023)
-https://play.maoyanplay.top/20260916/5Qasi9ST/index.m3u8
+#EXTINF:-1 tvg-name="哈德森与雷克斯第九季" tvg-logo="https://snzypic.vip/upload/vod/20261110-1/777d87e22578cbd138bb8d3c83c857a1.jpg" x-year="2026" x-rating="10.0" group-title="🌍VIP专享2K",哈德森与雷克斯第九季 (2026)
+https://v15.rstu6.com/202611/10/b9tSwVTw6t27/video/index.m3u8
 #EXTINF:-1 tvg-name="在七零年代我被团宠了" tvg-logo="https://img.spzyz.vip/images/20251216/在七零年代我被团宠了.jpg#err" x-year="2025" x-rating="10.0" group-title="大众资源",在七零年代我被团宠了 (2025)
 https://cdn.dzzybf3.com/20260629/6rRC7IOd/index.m3u8
-#EXTINF:-1 tvg-name="大周第一婿" tvg-logo="http://www.maoyanimg.top/upload/vod/20261015-1/77b8da732ea08e00e1b57ce97f725107.jpg" x-year="2025" x-rating="10.0" group-title="猫眼资源",大周第一婿 (2025)
-https://play.maoyanplay.top/20261015/TWrNtJN6/index.m3u8
-#EXTINF:-1 tvg-name="大理寺日志第三季" tvg-logo="http://www.maoyanimg.top/upload/vod/20261017-1/2947242eca234c9917de807257324c34.jpg" x-year="2026" x-rating="10.0" group-title="猫眼资源",大理寺日志第三季 (2026)
-https://play.maoyanplay.top/20261015/gr4hZBkL/index.m3u8
-#EXTINF:-1 tvg-name="好男孩" tvg-logo="https://snzypic.vip/upload/vod/20261102-1/0ab83bb0c953e08b43864da364ec11e9.jpg" x-year="2026" x-rating="10.0" group-title="🌍VIP专享2K",好男孩 (2026)
-https://v13.rstu6.com/202611/02/rnyCK7hxPT27/video/index.m3u8
 #EXTINF:-1 tvg-name="妈妈开门我带心声救全家" tvg-logo="https://img.spzyz.vip/images/20251216/妈妈开门我带心声救全家.jpg#err" x-year="2025" x-rating="10.0" group-title="大众资源",妈妈开门我带心声救全家 (2025)
 https://cdn.dzzybf3.com/20260629/lQRkZuBw/index.m3u8
 #EXTINF:-1 tvg-name="嫡女有毒" tvg-logo="https://img.spzyz.vip/images/20251216/嫡女有毒.jpg" x-year="2025" x-rating="10.0" group-title="大众资源",嫡女有毒 (2025)
 https://cdn.dzzybf3.com/20260629/bNaAcbtH/index.m3u8
-#EXTINF:-1 tvg-name="打卡修仙万年执灯" tvg-logo="http://www.maoyanimg.top/upload/vod/20261114-1/faa11fd94ade216d2022a4e5889153b9.jpg" x-year="2026" x-rating="10.0" group-title="猫眼资源",打卡修仙万年执灯 (2026)
-https://play.maoyanplay.top/20261114/Q4WgBbvo/index.m3u8
-#EXTINF:-1 tvg-name="法律与秩序第二十六季" tvg-logo="https://snzypic.vip/upload/vod/20261115-1/e36f8689d9ca506901f99ef88612e3ff.jpg" x-year="2026" x-rating="10.0" group-title="🌍VIP专享2K",法律与秩序第二十六季 (2026)
-https://v13.rstu6.com/202611/15/W9H5vwbMu427/video/index.m3u8
-#EXTINF:-1 tvg-name="现在就出发第四季" tvg-logo="http://www.maoyanimg.top/upload/vod/20261022-1/c94ffc816299ce5a7017e6b8bf69fcbd.jpg" x-year="2026" x-rating="10.0" group-title="猫眼资源",现在就出发第四季 (2026)
-https://play.maoyanplay.top/20261002/HbKlMjxh/index.m3u8
-#EXTINF:-1 tvg-name="百日谎言" tvg-logo="https://snzypic.vip/upload/vod/20261010-1/907b7c50fd7b4c4f8f9df70e5b3f013e.jpg" x-year="2026" x-rating="10.0" group-title="🌍VIP专享2K",百日谎言 (2026)
-https://v14.rstu6.com/202610/10/vWkzcLXkv927/video/index.m3u8
-#EXTINF:-1 tvg-name="瞬间喜剧挑战赛" tvg-logo="http://www.maoyanimg.top/upload/vod/20261110-1/f0b46bc88193f9c6bc4e114ca1ad6c78.jpg" x-year="2026" x-rating="10.0" group-title="猫眼资源",瞬间喜剧挑战赛 (2026)
-https://play.maoyanplay.top/20261110/X2bMyoNY/index.m3u8
+#EXTINF:-1 tvg-name="家庭关系证明书" tvg-logo="https://empimage.slcache.com/metadata/artwork/tmdb/tv/320406/poster/6fab472e7171a9883fc730cefc6c8ba729dadb5b43a3f67d4339fcf72178febd.webp" x-year="2026" x-rating="10.0" group-title="juliang",家庭关系证明书 (2026)
+https://jimaoys94.com/public/playback/3eea886c2cea58b51526a708a491a7ba/smart.m3u8
+#EXTINF:-1 tvg-name="男子气概" tvg-logo="https://empimage.slcache.com/metadata/artwork/source/poster/72384c8706bbccb8fc93dbebc487aa2573725e6edacebd62eb095b76a49815a4.webp" x-year="2026" x-rating="10.0" group-title="juliang",男子气概 (2026)
+https://jimaoys96.com/public/playback/4121a00eb98dfcd09f9c47163d0411a7/smart.m3u8
 #EXTINF:-1 tvg-name="穿到荒年，我靠空间带全家吃肉" tvg-logo="https://img.spzyz.vip/images/20251216/穿到荒年，我靠空间带全家吃肉.jpg#err" x-year="2025" x-rating="10.0" group-title="大众资源",穿到荒年，我靠空间带全家吃肉 (2025)
 https://cdn.dzzybf3.com/20260629/U5Q27Map/index.m3u8
-#EXTINF:-1 tvg-name="苍绝剑尊" tvg-logo="http://www.maoyanimg.top/upload/vod/20260425-1/22cdc2e7bde2dfceb3294260d2ca4b40.jpg" x-year="2025" x-rating="10.0" group-title="猫眼资源",苍绝剑尊 (2025)
-https://play.maoyanplay.top/20260425/eEEIIufp/index.m3u8
 #EXTINF:-1 tvg-name="裂缝里的阳光" tvg-logo="https://img.spzyz.vip/images/20251216/裂缝里的阳光.png#err" x-year="2025" x-rating="10.0" group-title="大众资源",裂缝里的阳光 (2025)
 https://cdn.dzzybf3.com/20260629/qJ7nEz3R/index.m3u8
-#EXTINF:-1 tvg-name="装备我最强" tvg-logo="https://p.bfp261112.com/upload/vod/20260914-fix/baaf8f9124b22554224cb23ac95f6753.jpg" x-year="2026" x-rating="10.0" group-title="暴风采集",装备我最强 (2026)
-https://v.fengbao14.com/video/zhuangbeiwozuiqiang/86c743a6f640/index.m3u8
 #EXTINF:-1 tvg-name="透视后，揽尽天下至宝" tvg-logo="https://img.spzyz.vip/images/20260110/1768047726_777.png" x-year="2025" x-rating="10.0" group-title="大众资源",透视后，揽尽天下至宝 (2025)
 https://cdn.dzzybf3.com/20260629/HF5wq8KY/index.m3u8
-#EXTINF:-1 tvg-name="重生密码" tvg-logo="https://snzypic.vip/upload/vod/20261113-1/721718f6096d969ded227b6a0eff6a04.jpg" x-year="2026" x-rating="10.0" group-title="🌍VIP专享2K",重生密码 (2026)
-https://v13.rstu6.com/202611/13/MfAheMJbRi27/video/index.m3u8
-#EXTINF:-1 tvg-name="凡人修仙传" tvg-logo="http://www.maoyanimg.top/upload/vod/20250715-1/17e21222afd22ea7e7def38bda72c86b.jpg" x-year="2020" x-rating="9.3" group-title="猫眼资源",凡人修仙传 (2020)
-https://play.maoyanplay.top/20250714/pxfA48TO/index.m3u8
-#EXTINF:-1 tvg-name="你好时光第二季" tvg-logo="http://www.maoyanimg.top/upload/vod/20260823-1/d8a63fbe33b8b9f1f316986aa3a74a53.jpg" x-year="2026" x-rating="9.0" group-title="猫眼资源",你好时光第二季 (2026)
-https://play.maoyanplay.top/20260823/Y220OcI5/index.m3u8
-#EXTINF:-1 tvg-name="全民诡异：开局掌握零元购" tvg-logo="http://www.maoyanimg.top/upload/vod/20251217-1/d4a12f142a58bb1cf391763ba07acb73.jpg" x-year="2025" x-rating="9.0" group-title="猫眼资源",全民诡异：开局掌握零元购 (2025)
-https://play.maoyanplay.top/20250723/fV9TKLap/index.m3u8
+#EXTINF:-1 tvg-name="​一念永恒 完结季​" tvg-logo="https://p.bfp261112.com/upload/vod/20260722-1/68ada61ef7d83f4739990512258e4497.webp" x-year="2026" x-rating="9.0" group-title="暴风采集",​一念永恒 完结季​ (2026)
+https://bfeng11.com/video/yinianyonghengwanjieji/0f53dd064abd/index.m3u8
+#EXTINF:-1 tvg-name="乔丹・门多萨的梦魇" tvg-logo="https://snzypic.vip/upload/vod/20260922-1/73c35cad469ccca48b513135491b3e17.jpg" x-year="2026" x-rating="9.0" group-title="🌍VIP专享2K",乔丹・门多萨的梦魇 (2026)
+https://v15.rstu6.com/202609/22/8eZbgSsBwh27/video/index.m3u8
 #EXTINF:-1 tvg-name="出狱后妈咪被宠上天" tvg-logo="https://img.spzyz.vip/images/20251216/出狱后妈咪被宠上天.jpg#err" x-year="2025" x-rating="9.0" group-title="大众资源",出狱后妈咪被宠上天 (2025)
 https://cdn.dzzybf3.com/20260629/Z0dw6Vli/index.m3u8
-#EXTINF:-1 tvg-name="后会友期" tvg-logo="http://www.maoyanimg.top/upload/vod/20261106-1/d13eba20e0e65db6aab0f71172acd007.jpg" x-year="2026" x-rating="9.0" group-title="猫眼资源",后会友期 (2026)
-https://play.maoyanplay.top/20261024/15Hd6WTg/index.m3u8
 #EXTINF:-1 tvg-name="妙琪的心事" tvg-logo="https://img.spzyz.vip/images/20251216/妙琪的心事.jpg#err" x-year="2025" x-rating="9.0" group-title="大众资源",妙琪的心事 (2025)
 https://cdn.dzzybf3.com/20260629/leqt1DPA/index.m3u8
 #EXTINF:-1 tvg-name="婚无戏言" tvg-logo="https://img.spzyz.vip/images/20251216/婚无戏言.jpg#err" x-year="2025" x-rating="9.0" group-title="大众资源",婚无戏言 (2025)
 https://cdn.dzzybf3.com/20260629/F31XHEJT/index.m3u8
-#EXTINF:-1 tvg-name="我只想安静地打游戏" tvg-logo="http://www.maoyanimg.top/upload/vod/20260301-1/dffc9a536bac3a9a35651c1351a9b98a.jpg" x-year="2025" x-rating="9.0" group-title="猫眼资源",我只想安静地打游戏 (2025)
-https://play.maoyanplay.top/20260301/uBZxVd56/index.m3u8
-#EXTINF:-1 tvg-name="我和老婆制霸三界" tvg-logo="http://www.maoyanimg.top/upload/vod/20260928-1/b8f1473e7176dd3a867f3f78a28a3292.jpg" x-year="2025" x-rating="9.0" group-title="猫眼资源",我和老婆制霸三界 (2025)
-https://play.maoyanplay.top/20261005/3SgKZENY/index.m3u8
+#EXTINF:-1 tvg-name="幻想水浒传" tvg-logo="https://snzypic.vip/upload/vod/20261003-1/80ef8d47dfc75dd6f273edb676c1cca8.jpg" x-year="2026" x-rating="9.0" group-title="🌍VIP专享2K",幻想水浒传 (2026)
+https://v14.rstu6.com/202610/03/KzTS3m8D7B27/video/index.m3u8
 #EXTINF:-1 tvg-name="我被竹马偏爱了" tvg-logo="https://img.spzyz.vip/images/20251216/我被竹马偏爱了.jpg" x-year="2025" x-rating="9.0" group-title="大众资源",我被竹马偏爱了 (2025)
 https://cdn.dzzybf3.com/20260629/B5GtbFkf/index.m3u8
-#EXTINF:-1 tvg-name="技能无限增幅，爽得我不想当辅助了！" tvg-logo="http://www.maoyanimg.top/upload/vod/20251030-1/593cf4457949660035aa40a02c7ae995.jpg" x-year="2025" x-rating="9.0" group-title="猫眼资源",技能无限增幅，爽得我不想当辅助了！ (2025)
-https://play.maoyanplay.top/20251030/OpwcQhv1/index.m3u8
-#EXTINF:-1 tvg-name="文武" tvg-logo="https://snzypic.vip/upload/vod/20261114-1/8e3097ea0b717c26c6d61ec8a56ee9b8.jpg" x-year="2026" x-rating="9.0" group-title="🌍VIP专享2K",文武 (2026)
-https://v14.rstu6.com/202611/14/CJYzKhzrL227/video/index.m3u8
-#EXTINF:-1 tvg-name="暴富系统：我有999个新马甲" tvg-logo="http://www.maoyanimg.top/upload/vod/20251218-1/d5e939d6e8ea67a68e6eda82d6f8f9aa.jpg" x-year="2024" x-rating="9.0" group-title="猫眼资源",暴富系统：我有999个新马甲 (2024)
-https://play.maoyanplay.top/20250819/4OldVZvM/index.m3u8
-#EXTINF:-1 tvg-name="末世后的酒店" tvg-logo="http://www.maoyanimg.top/upload/vod/20261106-1/32dd634547b651f54906c72234dfef11.jpg" x-year="2026" x-rating="9.0" group-title="猫眼资源",末世后的酒店 (2026)
-https://play.maoyanplay.top/20261106/uJsTanhn/index.m3u8
+#EXTINF:-1 tvg-name="新老娘舅" tvg-logo="https://p.bfp261112.com/upload/vod/20240622-1/3147d340a3575ce57e2f3b54fe54433b.jpg" x-year="2012" x-rating="9.0" group-title="暴风采集",新老娘舅 (2012)
+https://c1.ddbbffcdn.com/video/xinlaoniangjiu/20240621/index.m3u8
 #EXTINF:-1 tvg-name="温情缺席" tvg-logo="https://img.spzyz.vip/images/20251216/温情缺席.jpg#err" x-year="2025" x-rating="9.0" group-title="大众资源",温情缺席 (2025)
 https://cdn.dzzybf3.com/20260629/RDbqkKnR/index.m3u8
-#EXTINF:-1 tvg-name="猎魔女团之星光征程" tvg-logo="http://www.maoyanimg.top/upload/vod/20260531-1/cc527868cfd398ef319849faacd21014.jpg" x-year="2025" x-rating="9.0" group-title="猫眼资源",猎魔女团之星光征程 (2025)
-https://play.maoyanplay.top/20260531/vBq4clvS/index.m3u8
-#EXTINF:-1 tvg-name="罗梅莉亚战记" tvg-logo="http://www.maoyanimg.top/upload/vod/20261101-1/c85853eb73a587d3b5b277c0709a9860.jpg" x-year="2026" x-rating="9.0" group-title="猫眼资源",罗梅莉亚战记 (2026)
-https://play.maoyanplay.top/20261101/XLg8EH0V/index.m3u8
+#EXTINF:-1 tvg-name="现在就出发 第四季" tvg-logo="https://snzypic.vip/upload/vod/20261011-1/7612d9a2568fec54dd64e96dde8bb1e0.jpg" x-year="2026" x-rating="9.0" group-title="🌍VIP专享2K",现在就出发 第四季 (2026)
+https://v15.rstu6.com/202609/14/v9WzjJMFjQ27/video/index.m3u8
+#EXTINF:-1 tvg-name="生死制暴" tvg-logo="https://snzypic.vip/upload/vod/20261117-1/3c8662ae98ea6b5e2f761a693577a879.jpg" x-year="2026" x-rating="9.0" group-title="🌍VIP专享2K",生死制暴 (2026)
+https://v15.rstu6.com/202611/17/rt0yzV0LSp27/video/index.m3u8
 #EXTINF:-1 tvg-name="美人为陷诱他出局" tvg-logo="https://img.spzyz.vip/images/20251216/美人为陷诱他出局.jpg#err" x-year="2025" x-rating="9.0" group-title="大众资源",美人为陷诱他出局 (2025)
 https://cdn.dzzybf3.com/20260629/FvAPUb0v/index.m3u8
-#EXTINF:-1 tvg-name="负狐" tvg-logo="http://www.maoyanimg.top/upload/vod/20261113-1/98dc46e97662b6b68d4a2ac59295682a.jpg" x-year="2025" x-rating="9.0" group-title="猫眼资源",负狐 (2025)
-https://play.maoyanplay.top/20261113/Av7GQOTz/index.m3u8
-#EXTINF:-1 tvg-name="走马上任" tvg-logo="http://www.maoyanimg.top/upload/vod/20261102-1/4d401e99f5fd2e2d78900d3d71c14916.jpg" x-year="2026" x-rating="9.0" group-title="猫眼资源",走马上任 (2026)
-https://play.maoyanplay.top/20261102/vVBmaL40/index.m3u8
-#EXTINF:-1 tvg-name="逆天至尊" tvg-logo="https://image.jinyingimage.com/cover/bc44b9e1df4dfc8cbf8a5f08f4ac01a8.jpg" x-year="2021" x-rating="9.0" group-title="💖分享金鹰",逆天至尊 (2021)
-https://hd.kuktxu.com/play/neg5VG6b/index.m3u8
+#EXTINF:-1 tvg-name="豆腐妈妈" tvg-logo="https://p.bfp261112.com/upload/vod/20260412-1/531f4dc6e5514430ab21b2999fec90b2.webp" x-year="2025" x-rating="9.0" group-title="暴风采集",豆腐妈妈 (2025)
+https://s3.bfllvip.com/video/doufumama/0db914c56dc7/index.m3u8
+#EXTINF:-1 tvg-name="超巡！超条前辈" tvg-logo="https://snzypic.vip/upload/vod/20261007-1/e9abbe78b61b9a3d2cda63e9052d3da8.jpg" x-year="2026" x-rating="9.0" group-title="🌍VIP专享2K",超巡！超条前辈 (2026)
+https://v14.rstu6.com/202610/06/MMPJF1f2Fs27/video/index.m3u8
 #EXTINF:-1 tvg-name="重回八零，她的破晓时分" tvg-logo="https://img.spzyz.vip/images/20251216/重回八零，她的破晓时分.jpg" x-year="2025" x-rating="9.0" group-title="大众资源",重回八零，她的破晓时分 (2025)
 https://cdn.dzzybf3.com/20260629/Bft3t3cd/index.m3u8
-#EXTINF:-1 tvg-name="青之箱第二季" tvg-logo="https://snzypic.vip/upload/vod/20261004-1/e71904599eff73d228e45fae05346131.jpg" x-year="2026" x-rating="9.0" group-title="🌍VIP专享2K",青之箱第二季 (2026)
-https://v14.rstu6.com/202610/04/8MpdHF5Es227/video/index.m3u8
-#EXTINF:-1 tvg-name="顶点武装" tvg-logo="http://www.maoyanimg.top/upload/vod/20261004-1/2254e35c8cebb4ba4ef85e2cdf5d97bd.jpg" x-year="2026" x-rating="9.0" group-title="猫眼资源",顶点武装 (2026)
-https://play.maoyanplay.top/20261004/Fka3tAoy/index.m3u8
-#EXTINF:-1 tvg-name="扯淡电影史" tvg-logo="https://img.ukuapi88.com/upload/vod/20261115-1/05063c9d01b10552d48217fb4011f502.webp" x-year="2026" x-rating="8.8" group-title="U酷",扯淡电影史 (2026)
-https://ukzy.ukubf8.com/share/abPub2POHc
-#EXTINF:-1 tvg-name="最后的餐桌" tvg-logo="https://empimage.slcache.com/metadata/artwork/source/poster/4d853c487bacef5e08cb8cba3f86848fa7f726ab996969c550ed7ab0a10adb31.jpg" x-year="2026" x-rating="8.8" group-title="juliang",最后的餐桌 (2026)
-https://jimaoys94.com/public/playback/9fc829ed3ad910dd0e4d6285e9ed6d97/smart.m3u8
-#EXTINF:-1 tvg-name="拜托了冰箱" tvg-logo="https://snzypic.vip/upload/vod/20241215-1/317c6f93d2fb6cd2f22e3939b7793b16.jpg" x-year="2014" x-rating="8.4" group-title="🌍VIP专享2K",拜托了冰箱 (2014)
-https://v6.rstu6.com/202412/15/RDtZ7eqxZR22/video/index.m3u8
-#EXTINF:-1 tvg-name="拜托了冰箱2" tvg-logo="https://www.imgzy360.com:7788/upload/vod/20250625-1/ce7d511607c319b46b14216d1cf236a2.jpg" x-year="2024" x-rating="8.4" group-title="360资源站",拜托了冰箱2 (2024)
-https://vod1.maowushi.com/20250622/oCHTVvh9/index.m3u8
-#EXTINF:-1 tvg-name="拜托了冰箱2" tvg-logo="https://www.mdzypic.com/upload/vod/20241223-1/582ff5a7320eab943d235ea8f6014dc7.jpg" x-year="2014" x-rating="8.4" group-title="魔都资源网",拜托了冰箱2 (2014)
-https://play.modujx16.com/20241215/HblZV6tu/index.m3u8
-#EXTINF:-1 tvg-name="异能研究所第二季" tvg-logo="https://snzypic.vip/upload/vod/20261108-1/85e3350a367694b2e9fb7360061930f9.jpg" x-year="2026" x-rating="8.0" group-title="🌍VIP专享2K",异能研究所第二季 (2026)
-https://v15.rstu6.com/202611/08/5bah7xf1fu27/video/index.m3u8
-#EXTINF:-1 tvg-name="我家的弟弟们真是让您费心了" tvg-logo="http://www.maoyanimg.top/upload/vod/20260704-1/728f8302accbd338857cf35838c5fd50.webp" x-year="2026" x-rating="8.0" group-title="猫眼资源",我家的弟弟们真是让您费心了 (2026)
-https://play.maoyanplay.top/20260704/rrOz402T/index.m3u8
-#EXTINF:-1 tvg-name="我都大帝了怎么还被抢婚" tvg-logo="http://www.maoyanimg.top/upload/vod/20261105-1/e8ebd40853a00b4af95468b53531f880.jpg" x-year="2026" x-rating="8.0" group-title="猫眼资源",我都大帝了怎么还被抢婚 (2026)
-https://play.maoyanplay.top/20261105/cwGgSfhA/index.m3u8
+#EXTINF:-1 tvg-name="综艺玩很大" tvg-logo="https://www.mdzypic.com/upload/vod/20240630-1/39b42caca340feb8eeaf388357ebdac1.jpg" x-year="2014" x-rating="8.7" group-title="魔都资源网",综艺玩很大 (2014)
+https://play.modujx12.com/20240630/rmkkkodc/index.m3u8
+#EXTINF:-1 tvg-name="综艺玩很大" tvg-logo="https://www.imgzy360.com:7788/upload/vod/20250629-1/b4a567e4762bd06ec083470e3d76618c.jpg" x-year="2024" x-rating="8.7" group-title="360资源站",综艺玩很大 (2024)
+https://vod1.maowushi.com/20250627/86df8vnX/index.m3u8
+#EXTINF:-1 tvg-name="全民星攻略" tvg-logo="https://snzypic.vip/upload/vod/20230909-1/16df5b9e0eebf5eeefe97645145a12cd.jpg" x-year="2020" x-rating="8.0" group-title="🌍VIP专享2K",全民星攻略 (2020)
+https://v5.rstu6.com/202308/28/vH78gjXV9N1/video/index.m3u8
+#EXTINF:-1 tvg-name="小姐不熙娣" tvg-logo="https://p.bfp261112.com/upload/vod/20230424-39/fb267f6fd83e5f9f68b94715bb5f9861.jpg" x-year="2022" x-rating="8.0" group-title="暴风采集",小姐不熙娣 (2022)
+https://c1.rrcdnbf6.com/video/xiaojiebuxidi/2020619/index.m3u8
 #EXTINF:-1 tvg-name="旧庭空锁迟来悔" tvg-logo="https://img.spzyz.vip/images/20251216/旧庭空锁迟来悔.jpg" x-year="2025" x-rating="8.0" group-title="大众资源",旧庭空锁迟来悔 (2025)
 https://cdn.dzzybf3.com/20260629/YBVYePMf/index.m3u8
 #EXTINF:-1 tvg-name="暗恋十年被弹幕剧透" tvg-logo="https://img.spzyz.vip/images/20251216/暗恋十年被弹幕剧透.jpg" x-year="2025" x-rating="8.0" group-title="大众资源",暗恋十年被弹幕剧透 (2025)
 https://cdn.dzzybf3.com/20260629/BvbNQk8J/index.m3u8
 #EXTINF:-1 tvg-name="欢乐集结号" tvg-logo="https://p.bfp261112.com/upload/vod/20240622-1/d76dde37762be05add26b7694b8588f9.jpg" x-year="2009" x-rating="8.0" group-title="暴风采集",欢乐集结号 (2009)
 https://c1.ddbbffcdn.com/video/huanlejijiehao/20240621/index.m3u8
-#EXTINF:-1 tvg-name="死灵法师！我即是天灾" tvg-logo="http://www.maoyanimg.top/upload/vod/20250729-1/91f1d1d34892890207bd2714625e971c.jpg" x-year="2024" x-rating="8.0" group-title="猫眼资源",死灵法师！我即是天灾 (2024)
-https://play.maoyanplay.top/20250728/ogB3Z7yD/index.m3u8
-#EXTINF:-1 tvg-name="石纪元第二季" tvg-logo="http://www.maoyanimg.top/upload/vod/20261113-1/ecd019bd8969863fc8360749a7a2eef7.jpg" x-year="2025" x-rating="8.0" group-title="猫眼资源",石纪元第二季 (2025)
-https://play.maoyanplay.top/20250725/tDlDVTda/index.m3u8
+#EXTINF:-1 tvg-name="灵珠传：神妙奇珠" tvg-logo="https://snzypic.vip/upload/vod/20260718-1/860c47c8f6dd60389d9b6eae9ceed0e6.jpg" x-year="2026" x-rating="8.0" group-title="🌍VIP专享2K",灵珠传：神妙奇珠 (2026)
+https://v14.rstu6.com/202607/18/EMLGU1vYeA27/video/index.m3u8
 #EXTINF:-1 tvg-name="租个男友回家见亲戚" tvg-logo="https://img.spzyz.vip/images/20251216/租个男友回家见亲戚.jpg#err" x-year="2025" x-rating="8.0" group-title="大众资源",租个男友回家见亲戚 (2025)
 https://cdn.dzzybf3.com/20260629/EwuvndGD/index.m3u8
 #EXTINF:-1 tvg-name="穿越后，毒医夫人惊艳全城" tvg-logo="https://img.spzyz.vip/images/20251216/穿越后，毒医夫人惊艳全城.jpg#err" x-year="2025" x-rating="8.0" group-title="大众资源",穿越后，毒医夫人惊艳全城 (2025)
 https://cdn.dzzybf3.com/20260629/QhDxFbxg/index.m3u8
 #EXTINF:-1 tvg-name="蔷薇之恋" tvg-logo="https://img.spzyz.vip/images/20251216/蔷薇之恋.jpg#err" x-year="2025" x-rating="8.0" group-title="大众资源",蔷薇之恋 (2025)
 https://cdn.dzzybf3.com/20260629/lWopqaq8/index.m3u8
+#EXTINF:-1 tvg-name="逆天至尊" tvg-logo="https://xl.xltupian.com/cover/bc44b9e1df4dfc8cbf8a5f08f4ac01a8.jpg" x-year="2021" x-rating="8.0" group-title="subocj",逆天至尊 (2021)
+https://play.xluuss.com/play/Xe0gymXd/index.m3u8
 #EXTINF:-1 tvg-name="顶级狂妄" tvg-logo="https://img.spzyz.vip/images/20251216/顶级狂妄.jpg" x-year="2025" x-rating="8.0" group-title="大众资源",顶级狂妄 (2025)
 https://cdn.dzzybf3.com/20260629/KetqbEOw/index.m3u8
-#EXTINF:-1 tvg-name="黑色五叶草第二季" tvg-logo="http://www.maoyanimg.top/upload/vod/20261004-1/7482daa1d1d4db1c0df2d9d5e47a2e89.jpg" x-year="2026" x-rating="8.0" group-title="猫眼资源",黑色五叶草第二季 (2026)
-https://play.maoyanplay.top/20261004/pHxwjy2V/index.m3u8
-#EXTINF:-1 tvg-name="惊人的星期六" tvg-logo="https://www.mdzypic.com/upload/vod/20240625-1/2c00a5f5e036dadaba68945b6fe9ac60.jpg" x-year="2018" x-rating="7.5" group-title="魔都资源网",惊人的星期六 (2018)
-https://play.modujx12.com/20240623/XdaNZO6W/index.m3u8
-#EXTINF:-1 tvg-name="斗破苍穹年番" tvg-logo="http://www.maoyanimg.top/upload/vod/20250621-1/c9ca24884213b7611ae28c22c275a2b0.jpg" x-year="2022" x-rating="7.2" group-title="猫眼资源",斗破苍穹年番 (2022)
-https://play.maoyanplay.top/20230719/3MNtdiJn/index.m3u8
+#EXTINF:-1 tvg-name="11点热吵店" tvg-logo="https://www.mdzypic.com/upload/vod/20240614-1/be071926638e63f1e703b05f97bb595c.jpg" x-year="2020" x-rating="7.6" group-title="魔都资源网",11点热吵店 (2020)
+https://play.modujx12.com/20240626/Xwte3ASr/index.m3u8
+#EXTINF:-1 tvg-name="型男大主厨" tvg-logo="https://www.mdzypic.com/upload/vod/20240614-1/e175c92fb3d060545a103c3ca40a3a79.jpg" x-year="2006" x-rating="7.5" group-title="魔都资源网",型男大主厨 (2006)
+https://play.modujx12.com/20240629/dNjaNDz9/index.m3u8
+#EXTINF:-1 tvg-name="救命病栋24小时" tvg-logo="https://empimage.slcache.com/metadata/artwork/source/poster/bda35320715a250c4c1b180d707919ccb581287bf34da3c4a4bde33e03c8253c.jpg" x-year="1999" x-rating="7.4" group-title="juliang",救命病栋24小时 (1999)
+https://jimaoys94.com/public/playback/59fbb96f400fe55eef580b96644967d6/smart.m3u8
 #EXTINF:-1 tvg-name="七零替嫁，被全家团宠" tvg-logo="https://img.spzyz.vip/images/20251216/七零替嫁，被全家团宠.jpg#err" x-year="2025" x-rating="7.0" group-title="大众资源",七零替嫁，被全家团宠 (2025)
 https://cdn.dzzybf3.com/20260629/3tV55534/index.m3u8
-#EXTINF:-1 tvg-name="上帝之城：斗争蔓延第二季" tvg-logo="https://snzypic.vip/upload/vod/20261108-1/a3f9377db97387df05fd5f8753916e65.jpg" x-year="2026" x-rating="7.0" group-title="🌍VIP专享2K",上帝之城：斗争蔓延第二季 (2026)
-https://v15.rstu6.com/202611/08/DRuw7PJg5u27/video/index.m3u8
 #EXTINF:-1 tvg-name="卿色无双" tvg-logo="https://img.spzyz.vip/images/20251216/卿色无双.jpg" x-year="2025" x-rating="7.0" group-title="大众资源",卿色无双 (2025)
 https://cdn.dzzybf3.com/20260629/MjW9SQNg/index.m3u8
 #EXTINF:-1 tvg-name="只是当时已惘然" tvg-logo="https://img.spzyz.vip/images/20251216/只是当时已惘然.jpg#err" x-year="2025" x-rating="7.0" group-title="大众资源",只是当时已惘然 (2025)
 https://cdn.dzzybf3.com/20260629/peujSVQQ/index.m3u8
-#EXTINF:-1 tvg-name="听，谁在唱歌第二季" tvg-logo="https://p.bfp261112.com/upload/vod/20261011-1/2fbb32d82b0ff52d74845b96aa5f8751.webp" x-year="2026" x-rating="7.0" group-title="暴风采集",听，谁在唱歌第二季 (2026)
-https://v.fengbao14.com/video/tingshuizaichanggedierji/f8a39277fc20/index.m3u8
 #EXTINF:-1 tvg-name="回到苗寨和表姐抢传承" tvg-logo="https://img.spzyz.vip/images/20251216/回到苗寨和表姐抢传承.jpg" x-year="2025" x-rating="7.0" group-title="大众资源",回到苗寨和表姐抢传承 (2025)
 https://cdn.dzzybf3.com/20260629/5Eyz2txC/index.m3u8
-#EXTINF:-1 tvg-name="女神配对计划2" tvg-logo="https://p.bfp261112.com/upload/vod/20260907-1/f87e90e4a0566734d633499a83a35328.webp" x-year="2026" x-rating="7.0" group-title="暴风采集",女神配对计划2 (2026)
-https://fengbao12.com/video/nvshenpeiduijihua2/c3213999d45a/index.m3u8
+#EXTINF:-1 tvg-name="夏日的星星" tvg-logo="https://snzypic.vip/upload/vod/20261111-1/eca8d2ca7862dbc3e17ce25f82131aac.jpg" x-year="2026" x-rating="7.0" group-title="🌍VIP专享2K",夏日的星星 (2026)
+https://v15.rstu6.com/202611/11/DZjWn06hXk27/video/index.m3u8
 #EXTINF:-1 tvg-name="我见明月多妩媚" tvg-logo="https://img.spzyz.vip/images/20251216/我见明月多妩媚.jpg#err" x-year="2025" x-rating="7.0" group-title="大众资源",我见明月多妩媚 (2025)
 https://cdn.dzzybf3.com/20260629/YRuhnZOY/index.m3u8
-#EXTINF:-1 tvg-name="打歌2026" tvg-logo="http://www.maoyanimg.top/upload/vod/20260912-1/27dcbc74cec3bc6b412af4f87d5382ec.webp" x-year="2026" x-rating="7.0" group-title="猫眼资源",打歌2026 (2026)
-https://play.maoyanplay.top/20260912/pvuFVgiu/index.m3u8
 #EXTINF:-1 tvg-name="星河予你偏爱时" tvg-logo="https://img.spzyz.vip/images/20251216/星河予你偏爱时.jpg#err" x-year="2025" x-rating="7.0" group-title="大众资源",星河予你偏爱时 (2025)
 https://cdn.dzzybf3.com/20260629/PcUzHSgI/index.m3u8
+#EXTINF:-1 tvg-name="暖暖的味道" tvg-logo="https://p.bfp261112.com/upload/vod/20251203-1/0ef7442f1eed0459ee2cab1a3c92acdf.jpg" x-year="2025" x-rating="7.0" group-title="暴风采集",暖暖的味道 (2025)
+https://v.fengbao8.com/video/nuannuandeweidao/20251201/index.m3u8
 #EXTINF:-1 tvg-name="暴君竟也重生了" tvg-logo="https://img.spzyz.vip/images/20251216/暴君竟也重生了.jpg" x-year="2025" x-rating="7.0" group-title="大众资源",暴君竟也重生了 (2025)
 https://cdn.dzzybf3.com/20260629/ItTzfFRI/index.m3u8
-#EXTINF:-1 tvg-name="极道寿司次郎！" tvg-logo="https://snzypic.vip/upload/vod/20261004-1/f7fa45a65d416a2c3dd070ba38428560.jpg" x-year="2026" x-rating="7.0" group-title="🌍VIP专享2K",极道寿司次郎！ (2026)
-https://v15.rstu6.com/202610/04/11QR6Fg9WF27/video/index.m3u8
 #EXTINF:-1 tvg-name="火线追凶：妈妈救我" tvg-logo="https://img.spzyz.vip/images/20251216/火线追凶：妈妈救我.jpg#err" x-year="2025" x-rating="7.0" group-title="大众资源",火线追凶：妈妈救我 (2025)
 https://cdn.dzzybf3.com/20260629/ZYUaRAdR/index.m3u8
 #EXTINF:-1 tvg-name="燃尽九州换卿悦" tvg-logo="https://img.spzyz.vip/images/20251216/燃尽九州换卿悦.jpg" x-year="2025" x-rating="7.0" group-title="大众资源",燃尽九州换卿悦 (2025)
 https://cdn.dzzybf3.com/20260629/8DtuSu1P/index.m3u8
 #EXTINF:-1 tvg-name="穿越之喜满鸿福小农女" tvg-logo="https://img.spzyz.vip/images/20251216/穿越之喜满鸿福小农女.jpg#err" x-year="2025" x-rating="7.0" group-title="大众资源",穿越之喜满鸿福小农女 (2025)
 https://cdn.dzzybf3.com/20260629/7u28vKj9/index.m3u8
-#EXTINF:-1 tvg-name="绝世战魂第二季" tvg-logo="http://www.maoyanimg.top/upload/vod/20260616-1/e22e130261d37aff73df1ea307fe5402.webp" x-year="2024" x-rating="7.0" group-title="猫眼资源",绝世战魂第二季 (2024)
-https://play.maoyanplay.top/20260616/xly75oMs/index.m3u8
 #EXTINF:-1 tvg-name="重生后科技兴邦全靠我" tvg-logo="https://img.spzyz.vip/images/20251216/重生后科技兴邦全靠我.jpg" x-year="2025" x-rating="7.0" group-title="大众资源",重生后科技兴邦全靠我 (2025)
 https://cdn.dzzybf3.com/20260629/vRHhjUnS/index.m3u8
-#EXTINF:-1 tvg-name="2平方米" tvg-logo="https://img.ukuapi88.com/upload/vod/20261115-1/d8e1dfe7470799f6486ba3766885222e.jpg" x-year="2026" x-rating="6.5" group-title="U酷",2平方米 (2026)
-https://ukzyvod3.ukubf5.com/share/pb0xhV6w4O
-#EXTINF:-1 tvg-name="你好星期六" tvg-logo="https://www.mdzypic.com/upload/vod/20240623-1/35074c5ac306f7f30ccb798e8272140f.jpg" x-year="2022" x-rating="6.1" group-title="魔都资源网",你好星期六 (2022)
-https://play.modujx12.com/20240623/00kLAZCU/index.m3u8
-#EXTINF:-1 tvg-name="三角洲求生：我有十亿军火库" tvg-logo="http://www.maoyanimg.top/upload/vod/20260501-1/e16fa869ee22ce89eab04f4394a05558.jpg" x-year="2026" x-rating="6.0" group-title="猫眼资源",三角洲求生：我有十亿军火库 (2026)
-https://play.maoyanplay.top/20260501/MW8SHS5n/index.m3u8
-#EXTINF:-1 tvg-name="你却爱着一个他（国语）" tvg-logo="https://p.bfp261112.com/upload/vod/20261008-1/d0522ffc187f21bb1bec9ff38450c4a8.webp" x-year="2026" x-rating="6.0" group-title="暴风采集",你却爱着一个他（国语） (2026)
-https://v.fengbao14.com/video/niqueaizheyigetaguoyu/1deafccc8a59/index.m3u8
+#EXTINF:-1 tvg-name="女人我最大" tvg-logo="https://www.mdzypic.com/upload/vod/20240614-1/7fb4457b0f7b3d55d7f88f111bef5dd2.jpg" x-year="2011" x-rating="6.5" group-title="魔都资源网",女人我最大 (2011)
+https://play.modujx12.com/20240626/IuAkyweL/index.m3u8
+#EXTINF:-1 tvg-name="绑架游戏" tvg-logo="https://empimage.slcache.com/metadata/artwork/tmdb/tv/250446/poster/501be3a2a84b7d16ce1d9225ce41672e336be9efdabf1cb5cfd64cd862310c97.webp" x-year="2024" x-rating="6.2" group-title="juliang",绑架游戏 (2024)
+https://jimaoys94.com/public/playback/9c3adb09b8b1f08db1cf98f798dd40cb/smart.m3u8
 #EXTINF:-1 tvg-name="傻子女儿竟是剑仙" tvg-logo="https://img.spzyz.vip/images/20251216/傻子女儿竟是剑仙.jpg" x-year="2025" x-rating="6.0" group-title="大众资源",傻子女儿竟是剑仙 (2025)
 https://cdn.dzzybf3.com/20260629/0V0UoHmf/index.m3u8
-#EXTINF:-1 tvg-name="全职法师特别篇帕特农神庙" tvg-logo="http://www.maoyanimg.top/upload/vod/20261106-1/b7f362c6ee2fc5449412b74bb3bb7b17.jpg" x-year="2017" x-rating="6.0" group-title="猫眼资源",全职法师特别篇帕特农神庙 (2017)
-https://play.maoyanplay.top/20261106/OFJndxZB/index.m3u8
-#EXTINF:-1 tvg-name="和没有信徒的女神大人一起攻略异世界" tvg-logo="https://empimage.slcache.com/metadata/artwork/source/poster/fe791a7d93759209da2243356ef9e29bfa8e2083c01356f4914185becee0d7e5.jpg" x-year="2026" x-rating="6.0" group-title="juliang",和没有信徒的女神大人一起攻略异世界 (2026)
-https://jimaoys92.com/public/playback/65a7c1f93cbe2bfbbf2c494371879006/smart.m3u8
+#EXTINF:-1 tvg-name="夜郎王" tvg-logo="https://snzypic.vip/upload/vod/20261116-1/8e7d4fe6f925038782c7860aafc44bc9.jpg" x-year="2007" x-rating="6.0" group-title="🌍VIP专享2K",夜郎王 (2007)
+https://v13.rstu6.com/202611/16/fTaGrQUB5L27/video/index.m3u8
 #EXTINF:-1 tvg-name="奶奶姥爷向前冲" tvg-logo="https://img.spzyz.vip/images/20251216/奶奶姥爷向前冲.jpg#err" x-year="2025" x-rating="6.0" group-title="大众资源",奶奶姥爷向前冲 (2025)
 https://cdn.dzzybf3.com/20260629/FeYORpZu/index.m3u8
 #EXTINF:-1 tvg-name="婚礼日" tvg-logo="https://img.spzyz.vip/images/20251216/婚礼日.png" x-year="2025" x-rating="6.0" group-title="大众资源",婚礼日 (2025)
 https://cdn.dzzybf3.com/20260629/aUhc2Yh6/index.m3u8
-#EXTINF:-1 tvg-name="小狸猫与小狐狸" tvg-logo="http://www.maoyanimg.top/upload/vod/20261004-1/d5bcd4f71bbf9f9f1e1d4ef54310b718.webp" x-year="2026" x-rating="6.0" group-title="猫眼资源",小狸猫与小狐狸 (2026)
-https://play.maoyanplay.top/20261004/7zojnn1l/index.m3u8
-#EXTINF:-1 tvg-name="弱气MAX的大小姐、居然接受了铁腕未婚夫的赌约" tvg-logo="https://snzypic.vip/upload/vod/20261004-1/72a3ef54befff6a4126f01ed5604e835.jpg" x-year="2026" x-rating="6.0" group-title="🌍VIP专享2K",弱气MAX的大小姐、居然接受了铁腕未婚夫的赌约 (2026)
-https://v15.rstu6.com/202610/04/szDTatTyxc27/video/index.m3u8
-#EXTINF:-1 tvg-name="当家爸爸的聚会第二季" tvg-logo="http://www.maoyanimg.top/upload/vod/20261021-1/9c3eba2695ff624d4df2a0cf1f198ee6.jpg" x-year="2026" x-rating="6.0" group-title="猫眼资源",当家爸爸的聚会第二季 (2026)
-https://play.maoyanplay.top/20261021/qe1FhPfN/index.m3u8
 #EXTINF:-1 tvg-name="我已弃宗当散修，你哭瞎眼有何用" tvg-logo="https://img.spzyz.vip/images/20251216/我已弃宗当散修，你哭瞎眼有何用.jpg" x-year="2025" x-rating="6.0" group-title="大众资源",我已弃宗当散修，你哭瞎眼有何用 (2025)
 https://cdn.dzzybf3.com/20260629/1gJ6MrsW/index.m3u8
-#EXTINF:-1 tvg-name="我独自生活" tvg-logo="http://www.maoyanimg.top/upload/vod/20251011-1/415493c70591db28661b13eadb88fd3e.jpg" x-year="2026" x-rating="6.0" group-title="猫眼资源",我独自生活 (2026)
-https://play.maoyanplay.top/20251011/7QJ7a7eW/index.m3u8
 #EXTINF:-1 tvg-name="我竟惊天动地" tvg-logo="https://img.spzyz.vip/images/20251216/我竟惊天动地.jpg" x-year="2025" x-rating="6.0" group-title="大众资源",我竟惊天动地 (2025)
 https://cdn.dzzybf3.com/20260629/6cjtYC56/index.m3u8
-#EXTINF:-1 tvg-name="折月亮" tvg-logo="http://www.maoyanimg.top/upload/vod/20261107-1/234194d9e22f92f4d1c02ead692f677b.jpg" x-year="2026" x-rating="6.0" group-title="猫眼资源",折月亮 (2026)
-https://play.maoyanplay.top/20261107/ene3Y88R/index.m3u8
-#EXTINF:-1 tvg-name="拣选第六季" tvg-logo="https://snzypic.vip/upload/vod/20261115-1/db6c69f6c074c713e29e30edaf6c0b5c.jpg" x-year="2026" x-rating="6.0" group-title="🌍VIP专享2K",拣选第六季 (2026)
-https://v15.rstu6.com/202611/15/gBEHqcy9br27/video/index.m3u8
 #EXTINF:-1 tvg-name="整容奇遇记" tvg-logo="https://img.spzyz.vip/images/20251216/整容奇遇记.jpg#err" x-year="2025" x-rating="6.0" group-title="大众资源",整容奇遇记 (2025)
 https://cdn.dzzybf3.com/20260629/xujNPiL4/index.m3u8
+#EXTINF:-1 tvg-name="晚秋寄情" tvg-logo="https://snzypic.vip/upload/vod/20261110-1/35eb7dafc4530b8c9467362b145f78a9.jpg" x-year="2026" x-rating="6.0" group-title="🌍VIP专享2K",晚秋寄情 (2026)
+https://v14.rstu6.com/202611/10/dvdRBvpEwR27/video/index.m3u8
 #EXTINF:-1 tvg-name="深秋的康乃馨" tvg-logo="https://img.spzyz.vip/images/20251216/深秋的康乃馨.jpg" x-year="2025" x-rating="6.0" group-title="大众资源",深秋的康乃馨 (2025)
 https://cdn.dzzybf3.com/20260629/R3lk7XdN/index.m3u8
 #EXTINF:-1 tvg-name="父罪无岸" tvg-logo="https://img.spzyz.vip/images/20251216/父罪无岸.jpg" x-year="2025" x-rating="6.0" group-title="大众资源",父罪无岸 (2025)
 https://cdn.dzzybf3.com/20260629/Ub4XO4BO/index.m3u8
-#EXTINF:-1 tvg-name="玫瑰战争粤语" tvg-logo="https://snzypic.vip/upload/vod/20261106-1/ccc365b3b3344d2b76620b3126040515.jpg" x-year="2026" x-rating="6.0" group-title="🌍VIP专享2K",玫瑰战争粤语 (2026)
-https://v14.rstu6.com/202611/06/Y6X4MuspTQ27/video/index.m3u8
-#EXTINF:-1 tvg-name="真假千金" tvg-logo="http://www.maoyanimg.top/upload/vod/20261019-1/b49c81acb59579b348053d39cbd7264c.jpg" x-year="2025" x-rating="6.0" group-title="猫眼资源",真假千金 (2025)
-https://play.maoyanplay.top/20261019/MJa1VlxA/index.m3u8
-#EXTINF:-1 tvg-name="石纪元第一季" tvg-logo="http://www.maoyanimg.top/upload/vod/20261113-1/67d6c3c0e574db994bf2aab0870f5f37.jpg" x-year="2019" x-rating="6.0" group-title="猫眼资源",石纪元第一季 (2019)
-https://play.maoyanplay.top/20261113/qkLYhsif/index.m3u8
-#EXTINF:-1 tvg-name="绍宋" tvg-logo="http://www.maoyanimg.top/upload/vod/20260323-1/339c1e4e1cf2caaa704430f372d6b1ea.jpg" x-year="2025" x-rating="6.0" group-title="猫眼资源",绍宋 (2025)
-https://play.maoyanplay.top/20251007/xa1JDXxz/index.m3u8
-#EXTINF:-1 tvg-name="聊斋问心" tvg-logo="http://www.maoyanimg.top/upload/vod/20261030-1/5ad0d1ac95f9682ae50cfd8c5fca3be2.jpg" x-year="2026" x-rating="6.0" group-title="猫眼资源",聊斋问心 (2026)
-https://play.maoyanplay.top/20261030/PMfjQHIn/index.m3u8
-#EXTINF:-1 tvg-name="规则怪谈？我选择叛逆" tvg-logo="http://www.maoyanimg.top/upload/vod/20251218-1/8179129693da46f4b5e0050056121013.jpg" x-year="2025" x-rating="6.0" group-title="猫眼资源",规则怪谈？我选择叛逆 (2025)
-https://play.maoyanplay.top/20251218/4TLycXDN/index.m3u8
-#EXTINF:-1 tvg-name="音乐缘计划2026" tvg-logo="http://www.maoyanimg.top/upload/vod/20261031-1/2f4aa7af936b6d94c2fe997ebf8d5052.jpg" x-year="2026" x-rating="6.0" group-title="猫眼资源",音乐缘计划2026 (2026)
-https://play.maoyanplay.top/20261031/LhYyjkbu/index.m3u8
-#EXTINF:-1 tvg-name="大叔喜欢可爱小玩意" tvg-logo="https://empimage.slcache.com/metadata/artwork/source/poster/e253f9477bdd1f543f485baef2e361098cccf23c2c5f0fffb013c2b98c648a9d.jpg" x-year="2026" x-rating="5.9" group-title="juliang",大叔喜欢可爱小玩意 (2026)
-https://jimaoys92.com/public/playback/87ab291b5bb38561e3ddf9722957d036/smart.m3u8
-#EXTINF:-1 tvg-name="一觉醒来就有了最强装备跟太空船 决定以自家独栋建筑为目标当佣兵自由过活" tvg-logo="https://empimage.slcache.com/metadata/artwork/source/poster/2a54b4efcfe31442d0833f91178124a1d48bcbe45ef2be82cc6c29e59223d7bb.png" x-year="2026" x-rating="5.8" group-title="juliang",一觉醒来就有了最强装备跟太空船 决定以自家独栋建筑为目标当佣兵自由过活 (2026)
-https://jimaoys92.com/public/playback/d55878dd4f0d4dd37928fb96cde0b59f/smart.m3u8
-#EXTINF:-1 tvg-name="全球诡异时代" tvg-logo="http://www.maoyanimg.top/upload/vod/20260510-1/af252fdce41fbc74f011c5430a418bf3.jpg" x-year="2024" x-rating="5.0" group-title="猫眼资源",全球诡异时代 (2024)
-https://play.maoyanplay.top/20260510/0JJZ3jS6/index.m3u8
-#EXTINF:-1 tvg-name="全职法神！我即是规则" tvg-logo="http://www.maoyanimg.top/upload/vod/20250723-26/7a33a2b7eaa6d6e2e7444bcc2fe4e130.jpg" x-year="2025" x-rating="5.0" group-title="猫眼资源",全职法神！我即是规则 (2025)
-https://play.maoyanplay.top/20250722/Vt3fvKdY/index.m3u8
-#EXTINF:-1 tvg-name="只有我能用召唤术" tvg-logo="http://www.maoyanimg.top/upload/vod/20251217-1/3eed7c887ea18abe3236e998c1583df0.jpg" x-year="2025" x-rating="5.0" group-title="猫眼资源",只有我能用召唤术 (2025)
-https://play.maoyanplay.top/20250724/oDW85XdZ/index.m3u8
+#EXTINF:-1 tvg-name="音乐缘计划3" tvg-logo="https://snzypic.vip/upload/vod/20261106-1/be0b85daef0d3d70aa862e43bce70a5e.jpg" x-year="2026" x-rating="6.0" group-title="🌍VIP专享2K",音乐缘计划3 (2026)
+https://v14.rstu6.com/202611/06/KdwYsx02es27/video/index.m3u8
+#EXTINF:-1 tvg-name="战斗之魂[Re] 绝界之空" tvg-logo="https://empimage.slcache.com/metadata/artwork/source/poster/86aea4d1d118c294db46d68368a9a4639905a0fbc327e379e9aca29f99a028b1.webp" x-year="2026" x-rating="5.3" group-title="juliang",战斗之魂[Re] 绝界之空 (2026)
+https://jimaoys92.com/public/playback/80a799a77913cdb9b5ee2576f3e35794/smart.m3u8
+#EXTINF:-1 tvg-name="医学大联盟" tvg-logo="https://snzypic.vip/upload/vod/20230909-1/91ce21aaa3df058417eb6db5b686253b.jpg" x-year="2020" x-rating="5.0" group-title="🌍VIP专享2K",医学大联盟 (2020)
+https://v5.rstu6.com/202308/28/xHJdztKBGV1/video/index.m3u8
 #EXTINF:-1 tvg-name="心不在焉的爱" tvg-logo="https://img.spzyz.vip/images/20251216/心不在焉的爱.jpg#err" x-year="2025" x-rating="5.0" group-title="大众资源",心不在焉的爱 (2025)
 https://cdn.dzzybf3.com/20260629/5oljO1UG/index.m3u8
-#EXTINF:-1 tvg-name="我家那闺女2026" tvg-logo="http://www.maoyanimg.top/upload/vod/20260828-1/a53bf2970386e94f29b82713d07ce992.jpg" x-year="2026" x-rating="5.0" group-title="猫眼资源",我家那闺女2026 (2026)
-https://play.maoyanplay.top/20260828/LzimR5rp/index.m3u8
-#EXTINF:-1 tvg-name="来自远方" tvg-logo="https://p.bfp261112.com/upload/vod/20261005-1/b9a8853f580fd5f8120fc8822976c6c1.webp" x-year="2026" x-rating="5.0" group-title="暴风采集",来自远方 (2026)
-https://v.fengbao14.com/video/laiziyuanfang/aa46934bb6d8/index.m3u8
 #EXTINF:-1 tvg-name="梅开二度时" tvg-logo="https://img.spzyz.vip/images/20251216/梅开二度时.jpg" x-year="2025" x-rating="5.0" group-title="大众资源",梅开二度时 (2025)
 https://cdn.dzzybf3.com/20260629/WuFgQwqV/index.m3u8
+#EXTINF:-1 tvg-name="爱·回家之三代同糖粤语" tvg-logo="https://snzypic.vip/upload/vod/20260816-1/e0967c46f1c254e6731c235361426a3f.jpg" x-year="2026" x-rating="5.0" group-title="🌍VIP专享2K",爱·回家之三代同糖粤语 (2026)
+https://v14.rstu6.com/202608/16/YjwrBc0RQN27/video/index.m3u8
+#EXTINF:-1 tvg-name="碰撞搜查线第二季" tvg-logo="https://snzypic.vip/upload/vod/20261116-1/04be3728da021120acb8bc175def4954.jpg" x-year="2026" x-rating="5.0" group-title="🌍VIP专享2K",碰撞搜查线第二季 (2026)
+https://v15.rstu6.com/202611/16/GqNcvf4XVa27/video/index.m3u8
 #EXTINF:-1 tvg-name="贪恋盛夏时光" tvg-logo="https://img.spzyz.vip/images/20251216/贪恋盛夏时光.jpg" x-year="2025" x-rating="5.0" group-title="大众资源",贪恋盛夏时光 (2025)
 https://cdn.dzzybf3.com/20260629/mewTL8Oz/index.m3u8
 #EXTINF:-1 tvg-name="重回七零我能无限抽奖" tvg-logo="https://img.spzyz.vip/images/20251216/重回七零我能无限抽奖.jpg" x-year="2025" x-rating="5.0" group-title="大众资源",重回七零我能无限抽奖 (2025)
 https://cdn.dzzybf3.com/20260629/YEiAZUb6/index.m3u8
-#EXTINF:-1 tvg-name="金银岛2026" tvg-logo="https://snzypic.vip/upload/vod/20261011-1/6c3efebbf8fbcde7f66f37b2b30c2bfe.webp" x-year="2026" x-rating="5.0" group-title="🌍VIP专享2K",金银岛2026 (2026)
-https://v15.rstu6.com/202610/11/RcQ7qUhST327/video/index.m3u8
-#EXTINF:-1 tvg-name="魔法探险家" tvg-logo="http://www.maoyanimg.top/upload/vod/20261004-1/72644c7770375012be9320d2f6ad21d6.webp" x-year="2026" x-rating="5.0" group-title="猫眼资源",魔法探险家 (2026)
-https://play.maoyanplay.top/20261004/DdG7A3Wa/index.m3u8
-#EXTINF:-1 tvg-name="极致软弱千金小姐，不小心答应了精明未婚夫的赌局" tvg-logo="https://empimage.slcache.com/metadata/artwork/source/poster/81f74969b369d3d298d5caaaa9bc7c799954b3192d07ac92b972303260b64673.jpg" x-year="2026" x-rating="4.9" group-title="juliang",极致软弱千金小姐，不小心答应了精明未婚夫的赌局 (2026)
-https://jimaoys92.com/public/playback/762c7f199f2ddf26c9bf72c41168e591/smart.m3u8
-#EXTINF:-1 tvg-name="闲着干嘛呢" tvg-logo="http://www.maoyanimg.top/upload/vod/20251006-1/b8e0dcb62c74506ee00a98103cd96c43.jpg" x-year="2026" x-rating="4.7" group-title="猫眼资源",闲着干嘛呢 (2026)
-https://play.maoyanplay.top/20251013/wFGZxTMU/index.m3u8
-#EXTINF:-1 tvg-name="闲着干嘛呢？" tvg-logo="https://www.mdzypic.com/upload/vod/20240628-1/001615d5764c7511f44b0fa0572125a4.jpg" x-year="2019" x-rating="4.7" group-title="魔都资源网",闲着干嘛呢？ (2019)
-https://play.modujx12.com/20240627/hyOBcfTg/index.m3u8
-#EXTINF:-1 tvg-name="今天是太阳雨" tvg-logo="http://www.maoyanimg.top/upload/vod/20261107-1/3523ce084388628fc11168e52d6b236e.jpg" x-year="2026" x-rating="4.0" group-title="猫眼资源",今天是太阳雨 (2026)
-https://play.maoyanplay.top/20261112/GK9edc5z/index.m3u8
-#EXTINF:-1 tvg-name="卧龙2026" tvg-logo="https://p.bfp261112.com/upload/vod/20260929-1/ea9310ebcddd58d400f88afe2237b2bd.webp" x-year="2026" x-rating="4.0" group-title="暴风采集",卧龙2026 (2026)
-https://fengbao13.com/video/wolong_59d46a/eb74e1606520/index.m3u8
-#EXTINF:-1 tvg-name="外挂仙尊" tvg-logo="http://www.maoyanimg.top/upload/vod/20260607-1/23e6528e454d296511a0e8ff6c3817e3.jpg" x-year="2025" x-rating="4.0" group-title="猫眼资源",外挂仙尊 (2025)
-https://play.maoyanplay.top/20260607/RKm8fvs7/index.m3u8
+#EXTINF:-1 tvg-name="郊廉出发吧！" tvg-logo="https://tu.iqiyizyimg.com/upload/vod/20250408-1/0ba7ee3056dae59de9c7687dda495a78.jpg" x-year="2023" x-rating="4.7" group-title="爱奇艺资源站",郊廉出发吧！ (2023)
+https://play.ly166.com:65/videos/20250307/67c9c73573b9fff9177c4db0/4dcde3/index.m3u8
+#EXTINF:-1 tvg-name="豆腐妈妈" tvg-logo="https://www.mdzypic.com/upload/vod/20260118-1/c0728b5e3df3a9e9491eb46f7c0b334a.webp" x-year="20259" x-rating="4.1" group-title="魔都资源网",豆腐妈妈 (20259)
+https://play.modujx11.com/20260118/cPTChg9i/index.m3u8
+#EXTINF:-1 tvg-name="基督山伯爵夫人" tvg-logo="https://snzypic.vip/upload/vod/20261117-1/be09fa0a6137d72f0ec3c4bf317889dd.jpg" x-year="2026" x-rating="4.0" group-title="🌍VIP专享2K",基督山伯爵夫人 (2026)
+https://v13.rstu6.com/202611/17/0tc713zeLq27/video/index.m3u8
 #EXTINF:-1 tvg-name="天才在左" tvg-logo="https://img.spzyz.vip/images/20251216/天才在左.jpg" x-year="2025" x-rating="4.0" group-title="大众资源",天才在左 (2025)
 https://cdn.dzzybf3.com/20260629/QbDqnnLA/index.m3u8
-#EXTINF:-1 tvg-name="我真没想重生啊" tvg-logo="http://www.maoyanimg.top/upload/vod/20250814-1/0ba5bc65ca33d3022cfee2d6475a97ba.jpg" x-year="2025" x-rating="4.0" group-title="猫眼资源",我真没想重生啊 (2025)
-https://play.maoyanplay.top/20250814/t3KMm1iR/index.m3u8
-#EXTINF:-1 tvg-name="时停千年，我的循环系统" tvg-logo="http://www.maoyanimg.top/upload/vod/20251216-1/a47a03b269cf9061f1be3c281de466a1.png" x-year="2024" x-rating="4.0" group-title="猫眼资源",时停千年，我的循环系统 (2024)
-https://play.maoyanplay.top/20251015/fCmwQ5WC/index.m3u8
+#EXTINF:-1 tvg-name="我和妈妈的长征" tvg-logo="https://snzypic.vip/upload/vod/20261115-1/906ab3e8adb72346ef9309755649bd01.jpg" x-year="2016" x-rating="4.0" group-title="🌍VIP专享2K",我和妈妈的长征 (2016)
+https://v15.rstu6.com/202611/15/xTrq6Vs6Yy27/video/index.m3u8
+#EXTINF:-1 tvg-name="救命病栋24小时第6季" tvg-logo="https://snzypic.vip/upload/vod/20261013-1/cff90414d26572ec6a3b343d838f83f2.jpg" x-year="2026" x-rating="4.0" group-title="🌍VIP专享2K",救命病栋24小时第6季 (2026)
+https://v15.rstu6.com/202610/13/cXwh29Q8K327/video/index.m3u8
 #EXTINF:-1 tvg-name="深山包子铺" tvg-logo="https://img.spzyz.vip/images/20251216/深山包子铺.jpg" x-year="2025" x-rating="4.0" group-title="大众资源",深山包子铺 (2025)
 https://cdn.dzzybf3.com/20260629/WGlZgRYJ/index.m3u8
 #EXTINF:-1 tvg-name="王妃如此作妖" tvg-logo="https://img.spzyz.vip/images/20251216/王妃如此作妖.jpg#err" x-year="2025" x-rating="4.0" group-title="大众资源",王妃如此作妖 (2025)
 https://cdn.dzzybf3.com/20260629/QyDPzlWf/index.m3u8
 #EXTINF:-1 tvg-name="笑动剧场" tvg-logo="https://p.bfp261112.com/upload/vod/20230703-1/725945978bc889fa2d9e2290e006213a.jpg" x-year="2018" x-rating="4.0" group-title="暴风采集",笑动剧场 (2018)
 https://c1.rrcdnbf6.com/video/xiaodongjuchang/20230702/index.m3u8
-#EXTINF:-1 tvg-name="绝世武神第九季" tvg-logo="http://www.maoyanimg.top/upload/vod/20261003-1/a6909ef0f36e32783a50fbf975c05823.jpg" x-year="2020" x-rating="4.0" group-title="猫眼资源",绝世武神第九季 (2020)
-https://play.maoyanplay.top/20261003/uv2JwyNG/index.m3u8
-#EXTINF:-1 tvg-name="肥志百科第15季" tvg-logo="http://www.maoyanimg.top/upload/vod/20261004-1/f7a49c864596b137cb3fa10fb3bc6f40.jpg" x-year="2026" x-rating="4.0" group-title="猫眼资源",肥志百科第15季 (2026)
-https://play.maoyanplay.top/20261004/k1ZyGZrl/index.m3u8
-#EXTINF:-1 tvg-name="背后第二季" tvg-logo="http://www.maoyanimg.top/upload/vod/20260906-1/37227ce4c5bb588e9c851eab7c2063fa.webp" x-year="2026" x-rating="4.0" group-title="猫眼资源",背后第二季 (2026)
-https://play.maoyanplay.top/20260906/ia04OWJL/index.m3u8
 #EXTINF:-1 tvg-name="迷雾背后的真相" tvg-logo="https://img.spzyz.vip/images/20251216/迷雾背后的真相.jpg#err" x-year="2025" x-rating="4.0" group-title="大众资源",迷雾背后的真相 (2025)
 https://cdn.dzzybf3.com/20260629/cFJZmr6x/index.m3u8
-#EXTINF:-1 tvg-name="青之芦苇 第二季" tvg-logo="https://p.bfp261112.com/upload/vod/20261004-1/4e1bc47eb886ecbe522bd8fbb5f2b837.webp" x-year="2026" x-rating="4.0" group-title="暴风采集",青之芦苇 第二季 (2026)
-https://v.fengbao14.com/video/qingzhiluweidierji/ddc0309f93fe/index.m3u8
 #EXTINF:-1 tvg-name="鲜衣怒马踏长安" tvg-logo="https://img.spzyz.vip/images/20251216/鲜衣怒马踏长安.jpg" x-year="2025" x-rating="4.0" group-title="大众资源",鲜衣怒马踏长安 (2025)
 https://cdn.dzzybf3.com/20260629/aEEFw6F4/index.m3u8
-#EXTINF:-1 tvg-name="一周星星" tvg-logo="https://p.bfp261112.com/upload/vod/20251209-1/adb6501f273123e66e61af0112c4607b.jpg" x-year="2025" x-rating="3.0" group-title="暴风采集",一周星星 (2025)
-https://v.baofeng9.com/video/yizhouxingxing/1b9a156ef46e/index.m3u8
-#EXTINF:-1 tvg-name="七叶树王国的七名骑士" tvg-logo="http://www.maoyanimg.top/upload/vod/20261004-1/268491a5dfa4ae8d1f70fa1979e45e73.webp" x-year="2026" x-rating="3.0" group-title="猫眼资源",七叶树王国的七名骑士 (2026)
-https://play.maoyanplay.top/20261004/iHaA5gus/index.m3u8
-#EXTINF:-1 tvg-name="东张西望" tvg-logo="https://p.bfp261112.com/upload/vod/20250509-1/47b129719d91bdda507a198e48129889.jpg" x-year="2005" x-rating="3.0" group-title="暴风采集",东张西望 (2005)
-https://v.fengbao8.com/video/dongzhangxiwang/2025-03-30/index.m3u8
-#EXTINF:-1 tvg-name="亲爱的警督" tvg-logo="https://snzypic.vip/upload/vod/20261011-1/afcf36f2c472f61719a83b7ff62f3912.jpg" x-year="2026" x-rating="3.0" group-title="🌍VIP专享2K",亲爱的警督 (2026)
-https://v13.rstu6.com/202610/11/cQdudFfcR727/video/index.m3u8
-#EXTINF:-1 tvg-name="借出去的魔力要用分期还款强制收回" tvg-logo="http://www.maoyanimg.top/upload/vod/20261004-1/b4e6497e8d0d88b483398f961f9a686c.webp" x-year="2026" x-rating="3.0" group-title="猫眼资源",借出去的魔力要用分期还款强制收回 (2026)
-https://play.maoyanplay.top/20261004/fmsyKH5P/index.m3u8
+#EXTINF:-1 tvg-name="宝岛西米乐" tvg-logo="https://www.mdzypic.com/upload/vod/20260118-1/5a83fdd604f84f8361259037f3108cc4.webp" x-year="2025" x-rating="3.7" group-title="魔都资源网",宝岛西米乐 (2025)
+https://play.modujx11.com/20260117/bzygaVTs/index.m3u8
+#EXTINF:-1 tvg-name="中央情报局第二季" tvg-logo="https://snzypic.vip/upload/vod/20261006-1/d71e66a6113c87d3eb072fb44641f7a2.jpg" x-year="2026" x-rating="3.0" group-title="🌍VIP专享2K",中央情报局第二季 (2026)
+https://v15.rstu6.com/202610/06/Kj0Mg9PjhX27/video/index.m3u8
 #EXTINF:-1 tvg-name="凉山小厨娘" tvg-logo="https://img.spzyz.vip/images/20251216/凉山小厨娘.jpg#err" x-year="2025" x-rating="3.0" group-title="大众资源",凉山小厨娘 (2025)
 https://cdn.dzzybf3.com/20260629/fhnuuLUN/index.m3u8
-#EXTINF:-1 tvg-name="古战场传奇：吾血之亲第二季" tvg-logo="http://www.maoyanimg.top/upload/vod/20260921-1/79216539dc0666e930003fbdfe0db206.jpg" x-year="2026" x-rating="3.0" group-title="猫眼资源",古战场传奇：吾血之亲第二季 (2026)
-https://play.maoyanplay.top/20260919/apxRXyri/index.m3u8
-#EXTINF:-1 tvg-name="名侦探学院第10季" tvg-logo="http://www.maoyanimg.top/upload/vod/20261115-1/c38748f45a07bc5719ed323704532e20.jpg" x-year="2026" x-rating="3.0" group-title="猫眼资源",名侦探学院第10季 (2026)
-https://play.maoyanplay.top/20261115/9O3cm02t/index.m3u8
-#EXTINF:-1 tvg-name="夜樱家的大作战 第二季 Part 2" tvg-logo="https://snzypic.vip/upload/vod/20261011-1/757a8dfd827f71fd5196a962852ff68b.jpg" x-year="2026" x-rating="3.0" group-title="🌍VIP专享2K",夜樱家的大作战 第二季 Part 2 (2026)
-https://v15.rstu6.com/202610/11/pE0PTnxt4K27/video/index.m3u8
 #EXTINF:-1 tvg-name="我把男神钓成翘嘴" tvg-logo="https://img.spzyz.vip/images/20251216/我把男神钓成翘嘴.jpg" x-year="2025" x-rating="3.0" group-title="大众资源",我把男神钓成翘嘴 (2025)
 https://cdn.dzzybf3.com/20260629/JLGRvR3E/index.m3u8
-#EXTINF:-1 tvg-name="我靠模拟人生抽词条无敌了" tvg-logo="http://www.maoyanimg.top/upload/vod/20261015-1/e0288ebffac83d4cc161d4a73176da1f.jpg" x-year="2025" x-rating="3.0" group-title="猫眼资源",我靠模拟人生抽词条无敌了 (2025)
-https://play.maoyanplay.top/20261015/6m4wnXQf/index.m3u8
-#EXTINF:-1 tvg-name="择日飞升" tvg-logo="http://www.maoyanimg.top/upload/vod/20260718-1/2c41b605d8c37bb6ca33d87d486e01ec.webp" x-year="2026" x-rating="3.0" group-title="猫眼资源",择日飞升 (2026)
-https://play.maoyanplay.top/20260718/Tc2nElbu/index.m3u8
-#EXTINF:-1 tvg-name="沉睡千年" tvg-logo="http://www.maoyanimg.top/upload/vod/20261029-1/20717b6423aa49706de5c0298aa88a3b.jpg" x-year="2025" x-rating="3.0" group-title="猫眼资源",沉睡千年 (2025)
-https://play.maoyanplay.top/20261029/dqCR9dya/index.m3u8
-#EXTINF:-1 tvg-name="石纪元第三季" tvg-logo="http://www.maoyanimg.top/upload/vod/20261113-1/01ce912a4f811240e37660b9d1c374ac.jpg" x-year="2025" x-rating="3.0" group-title="猫眼资源",石纪元第三季 (2025)
-https://play.maoyanplay.top/20250725/CEpuc6d5/index.m3u8
-#EXTINF:-1 tvg-name="石纪元第四季" tvg-logo="http://www.maoyanimg.top/upload/vod/20261113-1/6a11b34887279dd3c983e73f77ccb6f7.jpg" x-year="2025" x-rating="3.0" group-title="猫眼资源",石纪元第四季 (2025)
-https://play.maoyanplay.top/20261113/KIuKY4vK/index.m3u8
+#EXTINF:-1 tvg-name="爱·回家之三代同糖" tvg-logo="https://p.bfp261112.com/upload/vod/20260810-1/0ca27f1b6bae0828755acae39875abe2.webp" x-year="2026" x-rating="3.0" group-title="暴风采集",爱·回家之三代同糖 (2026)
+https://fengbao13.com/video/aihuijiazhisandaitongtang/c5693f4f2de3/index.m3u8
+#EXTINF:-1 tvg-name="男生女生向前冲" tvg-logo="https://snzypic.vip/upload/vod/20231228-1/1251b48f015bd7cce46cacbfcf11c37d.jpg" x-year="2010" x-rating="3.0" group-title="🌍VIP专享2K",男生女生向前冲 (2010)
+https://v8.rstu6.com/202312/28/3avjn0Kzkt1/video/index.m3u8
 #EXTINF:-1 tvg-name="第三调解室" tvg-logo="https://snzypic.vip/upload/vod/20240615-1/28164f983525bfefb90335d585e9aa27.jpg" x-year="2011" x-rating="3.0" group-title="🌍VIP专享2K",第三调解室 (2011)
 https://v1.rstu6.com/202406/15/4JRHigczFZ1/video/index.m3u8
+#EXTINF:-1 tvg-name="花甲少年趣旅行第四季" tvg-logo="https://snzypic.vip/upload/vod/20250205-1/9d3712ca2e84c5cad9a4f5b31d1df4ed.jpg" x-year="2023" x-rating="3.0" group-title="🌍VIP专享2K",花甲少年趣旅行第四季 (2023)
+https://v5.rstu6.com/202502/05/zWLF6VS83b19/video/index.m3u8
 #EXTINF:-1 tvg-name="重逢他红眼跪哄，心肝，我只要你" tvg-logo="https://img.spzyz.vip/images/20251216/重逢他红眼跪哄，心肝，我只要你.jpg#err" x-year="2025" x-rating="3.0" group-title="大众资源",重逢他红眼跪哄，心肝，我只要你 (2025)
 https://cdn.dzzybf3.com/20260629/wCNB7iRd/index.m3u8
-#EXTINF:-1 tvg-name="野生的大魔王出现了第二季" tvg-logo="http://www.maoyanimg.top/upload/vod/20260927-1/ad3dada0e6a64732b9a9ecf7259de2f0.jpg" x-year="2026" x-rating="3.0" group-title="猫眼资源",野生的大魔王出现了第二季 (2026)
-https://play.maoyanplay.top/20260927/166V2cT2/index.m3u8
-#EXTINF:-1 tvg-name="长生未央" tvg-logo="http://www.maoyanimg.top/upload/vod/20261013-1/c49b5e01b44d8f3969494055de8375b1.jpg" x-year="2025" x-rating="3.0" group-title="猫眼资源",长生未央 (2025)
-https://play.maoyanplay.top/20261015/YosIB7bw/index.m3u8
-#EXTINF:-1 tvg-name="达尔文事变" tvg-logo="http://www.maoyanimg.top/upload/vod/20260108-1/0bda0785b55d86969b1666874d172af3.jpg" x-year="2026" x-rating="2.8" group-title="猫眼资源",达尔文事变 (2026)
-https://play.maoyanplay.top/20260108/vObgDCzs/index.m3u8
 #EXTINF:-1 tvg-name="世事两难全" tvg-logo="https://img.spzyz.vip/images/20251216/世事两难全.jpg#err" x-year="2025" x-rating="2.0" group-title="大众资源",世事两难全 (2025)
 https://cdn.dzzybf3.com/20260629/OwhAuw01/index.m3u8
 #EXTINF:-1 tvg-name="乡下大少爷来自古代" tvg-logo="https://img.spzyz.vip/images/20251216/乡下大少爷来自古代.jpg#err" x-year="2025" x-rating="2.0" group-title="大众资源",乡下大少爷来自古代 (2025)
 https://cdn.dzzybf3.com/20260629/thIHA4nz/index.m3u8
 #EXTINF:-1 tvg-name="他的呼吸声已读" tvg-logo="http://img.dzzy.com/upload/vod/20260119-4/85aa41c184ba53dc62e5a1a2aa773b28.png" x-year="2025" x-rating="2.0" group-title="大众资源",他的呼吸声已读 (2025)
 https://cdn.dzzybf3.com/20260629/sSX9HeVs/index.m3u8
-#EXTINF:-1 tvg-name="偏爱之恋第二季" tvg-logo="http://www.maoyanimg.top/upload/vod/20261021-1/d1ff7361f6cef7369c986d170c6c11d5.jpg" x-year="2026" x-rating="2.0" group-title="猫眼资源",偏爱之恋第二季 (2026)
-https://play.maoyanplay.top/20261021/audsnUE2/index.m3u8
-#EXTINF:-1 tvg-name="卧龙" tvg-logo="https://snzypic.vip/upload/vod/20260914-1/0837d34e6baa7f4ce18b556796e4a2b1.jpg" x-year="2026" x-rating="2.0" group-title="🌍VIP专享2K",卧龙 (2026)
-https://v13.rstu6.com/202609/14/J7tYD9EsCX27/video/index.m3u8
-#EXTINF:-1 tvg-name="名侦探柯南" tvg-logo="http://www.maoyanimg.top/upload/vod/20250727-1/75f35815df25ec73a3ac46fd2720a3b5.jpg" x-year="1996" x-rating="2.0" group-title="猫眼资源",名侦探柯南 (1996)
-https://play.maoyanplay.top/20260801/Vtt8qv3z/index.m3u8
+#EXTINF:-1 tvg-name="圣丹尼斯医院第三季" tvg-logo="https://snzypic.vip/upload/vod/20261104-1/9b0cc75f6fb68bbc568c77a4b33a63e7.jpg" x-year="2026" x-rating="2.0" group-title="🌍VIP专享2K",圣丹尼斯医院第三季 (2026)
+https://v15.rstu6.com/202611/04/WUqDt4SnvY27/video/index.m3u8
 #EXTINF:-1 tvg-name="境遇双生" tvg-logo="https://snzypic.vip/upload/vod/20261106-1/bb31b53a9727eb5b3c89f81a10149169.jpg" x-year="2026" x-rating="2.0" group-title="🌍VIP专享2K",境遇双生 (2026)
 https://v13.rstu6.com/202611/06/MDNSLD81be27/video/index.m3u8
-#EXTINF:-1 tvg-name="学生会也有洞" tvg-logo="http://www.maoyanimg.top/upload/vod/20261006-1/e9a58301837214e7b4a8beed45bc678a.jpg" x-year="2026" x-rating="2.0" group-title="猫眼资源",学生会也有洞 (2026)
-https://play.maoyanplay.top/20261006/IlvRYGt7/index.m3u8
-#EXTINF:-1 tvg-name="尤金尼亚之谜" tvg-logo="https://snzypic.vip/upload/vod/20261108-1/0cd475f5f51bf7f10aab4eb68918ff1b.jpg" x-year="2026" x-rating="2.0" group-title="🌍VIP专享2K",尤金尼亚之谜 (2026)
-https://v15.rstu6.com/202611/08/q6EyxA2eBq27/video/index.m3u8
-#EXTINF:-1 tvg-name="我家娘子竟然是女帝" tvg-logo="http://www.maoyanimg.top/upload/vod/20251228-1/4d89ef1ebb03f00a5197c63fc0f502c0.jpg" x-year="2025" x-rating="2.0" group-title="猫眼资源",我家娘子竟然是女帝 (2025)
-https://play.maoyanplay.top/20250727/hQx7ubnG/index.m3u8
-#EXTINF:-1 tvg-name="替嫁王妃宠王记" tvg-logo="http://www.maoyanimg.top/upload/vod/20261109-1/064940a196085efe44812494c54663d5.jpg" x-year="2026" x-rating="2.0" group-title="猫眼资源",替嫁王妃宠王记 (2026)
-https://play.maoyanplay.top/20261109/ekxot6FE/index.m3u8
-#EXTINF:-1 tvg-name="穿越三角洲之守护大红" tvg-logo="http://www.maoyanimg.top/upload/vod/20260712-1/c830c044955c639405b37fc5e1a347b4.jpg" x-year="2025" x-rating="2.0" group-title="猫眼资源",穿越三角洲之守护大红 (2025)
-https://play.maoyanplay.top/20260712/gHqATYgl/index.m3u8
 #EXTINF:-1 tvg-name="繁星不眠" tvg-logo="https://img.spzyz.vip/images/20251216/繁星不眠.jpg" x-year="2025" x-rating="2.0" group-title="大众资源",繁星不眠 (2025)
 https://cdn.dzzybf3.com/20260629/Awcmt9OT/index.m3u8
 #EXTINF:-1 tvg-name="缘浅情深终陌路" tvg-logo="https://img.spzyz.vip/images/20251216/缘浅情深终陌路.jpg" x-year="2025" x-rating="2.0" group-title="大众资源",缘浅情深终陌路 (2025)
 https://cdn.dzzybf3.com/20260629/EmMGnmzR/index.m3u8
 #EXTINF:-1 tvg-name="老祖七岁半" tvg-logo="https://img.spzyz.vip/images/20251216/老祖七岁半.jpg#err" x-year="2025" x-rating="2.0" group-title="大众资源",老祖七岁半 (2025)
 https://cdn.dzzybf3.com/20260629/oQXbQsRn/index.m3u8
-#EXTINF:-1 tvg-name="药屋少女的呢喃第三季" tvg-logo="http://www.maoyanimg.top/upload/vod/20261003-1/37da67db114654fdc1b67fa3c47e1c89.webp" x-year="2026" x-rating="2.0" group-title="猫眼资源",药屋少女的呢喃第三季 (2026)
-https://play.maoyanplay.top/20261003/2WVsaOfd/index.m3u8
-#EXTINF:-1 tvg-name="这滋味，终有一日令人惦念" tvg-logo="https://snzypic.vip/upload/vod/20261115-1/112bb78b3d0f638e39436c8038635afc.jpg" x-year="2026" x-rating="2.0" group-title="🌍VIP专享2K",这滋味，终有一日令人惦念 (2026)
-https://v15.rstu6.com/202611/15/kaT9mDmVym27/video/index.m3u8
-#EXTINF:-1 tvg-name="青之箱 第二季" tvg-logo="https://p.bfp261112.com/upload/vod/20261004-1/34ab65f72b5d049c07e257260a61c1b4.webp" x-year="2026" x-rating="2.0" group-title="暴风采集",青之箱 第二季 (2026)
-https://v.fengbao14.com/video/qingzhixiangdierji/374f43427e40/index.m3u8
 #EXTINF:-1 tvg-name="香水蚀心" tvg-logo="https://img.spzyz.vip/images/20251216/香水蚀心.jpg#err" x-year="2025" x-rating="2.0" group-title="大众资源",香水蚀心 (2025)
 https://cdn.dzzybf3.com/20260629/ynZCWzPp/index.m3u8
-#EXTINF:-1 tvg-name="你好，星期六2026" tvg-logo="http://www.maoyanimg.top/upload/vod/20260125-1/6e5bb5c5eee3b1872e6fe283d4d5f58c.jpg" x-year="2026" x-rating="1.8" group-title="猫眼资源",你好，星期六2026 (2026)
-https://play.maoyanplay.top/20260206/mtAHOUom/index.m3u8
-#EXTINF:-1 tvg-name="妖神记" tvg-logo="http://www.maoyanimg.top/upload/vod/20250808-1/0635a00a6bea1714d4a75a152feedbe8.jpg" x-year="2017" x-rating="1.8" group-title="猫眼资源",妖神记 (2017)
-https://play.maoyanplay.top/20250723/4uYMUPhy/index.m3u8
-#EXTINF:-1 tvg-name="一起淋场太阳雨" tvg-logo="https://img.ukuapi88.com/upload/vod/20261107-1/430a2a062ebca51b6ae11283ccdcb6d7.jpg" x-year="2026" x-rating="1.0" group-title="U酷",一起淋场太阳雨 (2026)
-https://ukzy.ukubf3.com/share/xgVlsxdHX2
-#EXTINF:-1 tvg-name="乱马12第三季" tvg-logo="http://www.maoyanimg.top/upload/vod/20261004-1/012179956acfbb6eb58b21c1710e11e2.webp" x-year="2026" x-rating="1.0" group-title="猫眼资源",乱马12第三季 (2026)
-https://play.maoyanplay.top/20261004/TKBWPM2h/index.m3u8
-#EXTINF:-1 tvg-name="你却爱着一个他" tvg-logo="https://snzypic.vip/upload/vod/20261008-1/8073069d5099c6a736510b0ee2a1105c.jpg" x-year="2026" x-rating="1.0" group-title="🌍VIP专享2K",你却爱着一个他 (2026)
-https://v13.rstu6.com/202610/08/WWXi4Q8wAY27/video/index.m3u8
-#EXTINF:-1 tvg-name="修仙归来当大佬" tvg-logo="http://www.maoyanimg.top/upload/vod/20260731-1/2f239ecdb6eb7825132c614c75586a92.jpg" x-year="2024" x-rating="1.0" group-title="猫眼资源",修仙归来当大佬 (2024)
-https://play.maoyanplay.top/20250723/YS4ITGf4/index.m3u8
+#EXTINF:-1 tvg-name="一念永恒完结季" tvg-logo="https://snzypic.vip/upload/vod/20260722-1/df503d0e8595d3f19a7462686d185c56.jpg" x-year="2026" x-rating="1.0" group-title="🌍VIP专享2K",一念永恒完结季 (2026)
+https://v14.rstu6.com/202607/22/NQst4qPPXj27/video/index.m3u8
+#EXTINF:-1 tvg-name="人气美食" tvg-logo="https://snzypic.vip/upload/vod/20240615-1/9fea6f3285d425222f5fac012c8c5f1d.jpg" x-year="2007" x-rating="1.0" group-title="🌍VIP专享2K",人气美食 (2007)
+https://v4.rstu6.com/202406/15/DZ00zxxfry4/video/index.m3u8
 #EXTINF:-1 tvg-name="只为你心跳" tvg-logo="https://img.spzyz.vip/images/20251216/只为你心跳.jpg" x-year="2025" x-rating="1.0" group-title="大众资源",只为你心跳 (2025)
 https://cdn.dzzybf3.com/20260629/DtmOx6zT/index.m3u8
-#EXTINF:-1 tvg-name="太古神尊" tvg-logo="http://www.maoyanimg.top/upload/vod/20260730-1/848ee891dae09b598ccdb585258ad26a.jpg" x-year="2025" x-rating="1.0" group-title="猫眼资源",太古神尊 (2025)
-https://play.maoyanplay.top/20260730/fDCqV588/index.m3u8
-#EXTINF:-1 tvg-name="我带超市穿到古代养丞相" tvg-logo="http://www.maoyanimg.top/upload/vod/20251216-1/5cedb928632e3a9144b8a1704e66aacc.jpg" x-year="2025" x-rating="1.0" group-title="猫眼资源",我带超市穿到古代养丞相 (2025)
-https://play.maoyanplay.top/20250727/y74V9PqR/index.m3u8
-#EXTINF:-1 tvg-name="朱色的面具" tvg-logo="http://www.maoyanimg.top/upload/vod/20261011-1/154e72357daf6fd8080879f4bbe6db1c.jpg" x-year="2026" x-rating="1.0" group-title="猫眼资源",朱色的面具 (2026)
-https://play.maoyanplay.top/20261011/cdQHNx6p/index.m3u8
-#EXTINF:-1 tvg-name="花儿与少年第8季" tvg-logo="http://www.maoyanimg.top/upload/vod/20260906-1/626b62512c525a5cfa01b9f8b3a98569.jpg" x-year="2026" x-rating="1.0" group-title="猫眼资源",花儿与少年第8季 (2026)
-https://play.maoyanplay.top/20260906/w2gU4Ebe/index.m3u8
-#EXTINF:-1 tvg-name="财神窦占龙" tvg-logo="http://www.maoyanimg.top/upload/vod/20260816-1/5befdc87ced9c0f439e1a772bde82ec6.jpg" x-year="2026" x-rating="1.0" group-title="猫眼资源",财神窦占龙 (2026)
-https://play.maoyanplay.top/20260816/vCsJBmcg/index.m3u8
-#EXTINF:-1 tvg-name="转生了的大圣女，拼死隐瞒自己身为圣女" tvg-logo="http://www.maoyanimg.top/upload/vod/20261004-1/95e00a49995d2ba354c96c3e0f740740.webp" x-year="2026" x-rating="1.0" group-title="猫眼资源",转生了的大圣女，拼死隐瞒自己身为圣女 (2026)
-https://play.maoyanplay.top/20261004/G4IuGb9d/index.m3u8
-#EXTINF:-1 tvg-name="都市古仙医" tvg-logo="http://www.maoyanimg.top/upload/vod/20250820-1/51da8099e5a8caf210e55941f6a9ae2d.jpg" x-year="2024" x-rating="1.0" group-title="猫眼资源",都市古仙医 (2024)
-https://play.maoyanplay.top/20250731/CEGM4sQt/index.m3u8
-#EXTINF:-1 tvg-name="高危禁药，我却越喝越强" tvg-logo="http://www.maoyanimg.top/upload/vod/20261020-1/2fe2b656ff4cbed7af6f1eba5de5f7b5.jpg" x-year="2025" x-rating="1.0" group-title="猫眼资源",高危禁药，我却越喝越强 (2025)
-https://play.maoyanplay.top/20261020/YgEidyKY/index.m3u8
-#EXTINF:-1 tvg-name="11月14日 26-27赛季NBA常规赛 勇士VS马刺" tvg-logo="https://kuaichezyimg.com/upload/vod/20261115-1/609c65a0baeb8737f6578a7fb5b93e0d.png" x-year="2026" x-rating="0.0" group-title="快车资源网",11月14日 26-27赛季NBA常规赛 勇士VS马刺 (2026)
-https://v13.kuaichezym3u8.com/yyv13/202611/14/wBwDLgUVZ027/video/index.m3u8
-#EXTINF:-1 tvg-name="11月14日 26-27赛季NBA常规赛 尼克斯VS步行者" tvg-logo="https://kuaichezyimg.com/upload/vod/20261115-1/3e4f393a28fbc5dd34f10de2d5f92de4.png" x-year="2026" x-rating="0.0" group-title="快车资源网",11月14日 26-27赛季NBA常规赛 尼克斯VS步行者 (2026)
-https://v15.kuaichezym3u8.com/yyv15/202611/14/GVHcGfLUPZ27/video/index.m3u8
-#EXTINF:-1 tvg-name="11月14日 26-27赛季NBA常规赛 开拓者VS国王" tvg-logo="https://kuaichezyimg.com/upload/vod/20261115-1/3a315e4d2e2694549c81a1294bd7a3be.png" x-year="2026" x-rating="0.0" group-title="快车资源网",11月14日 26-27赛季NBA常规赛 开拓者VS国王 (2026)
-https://v13.kuaichezym3u8.com/yyv13/202611/14/4LNe6AExKK27/video/index.m3u8
-#EXTINF:-1 tvg-name="11月14日 26-27赛季NBA常规赛 灰熊VS鹈鹕" tvg-logo="https://kuaichezyimg.com/upload/vod/20261115-1/5f4511ac8f458867b29e513cac0dc14b.png" x-year="2026" x-rating="0.0" group-title="快车资源网",11月14日 26-27赛季NBA常规赛 灰熊VS鹈鹕 (2026)
-https://v13.kuaichezym3u8.com/yyv13/202611/14/ykh7GBvsE227/video/index.m3u8
-#EXTINF:-1 tvg-name="11月14日 26-27赛季NBA常规赛 爵士VS火箭" tvg-logo="https://kuaichezyimg.com/upload/vod/20261115-1/d65459e7a47752943de6830d5dde862c.png" x-year="2026" x-rating="0.0" group-title="快车资源网",11月14日 26-27赛季NBA常规赛 爵士VS火箭 (2026)
-https://v14.kuaichezym3u8.com/yyv14/202611/14/qmMvnE3uhv27/video/index.m3u8
-#EXTINF:-1 tvg-name="11月14日 26-27赛季NBA常规赛 雷霆VS快船" tvg-logo="https://kuaichezyimg.com/upload/vod/20261115-1/30439ac61f3d013b2b17576b7bebab25.png" x-year="2026" x-rating="0.0" group-title="快车资源网",11月14日 26-27赛季NBA常规赛 雷霆VS快船 (2026)
-https://v15.kuaichezym3u8.com/yyv15/202611/14/LpPAFKmZLB27/video/index.m3u8
-#EXTINF:-1 tvg-name="11月14日 26-27赛季NBA常规赛 骑士VS热火" tvg-logo="https://kuaichezyimg.com/upload/vod/20261115-1/4a6bcd047e242b5596b5fadf2d4fcd5b.png" x-year="2026" x-rating="0.0" group-title="快车资源网",11月14日 26-27赛季NBA常规赛 骑士VS热火 (2026)
-https://v14.kuaichezym3u8.com/yyv14/202611/14/Eg6AGj5yGe27/video/index.m3u8
-#EXTINF:-1 tvg-name="11月15日 26-27赛季NBA常规赛 公牛VS森林狼" tvg-logo="https://snzypic.vip/upload/vod/20260115-1/c599c4af0e06449ede06122a05300038.png" x-year="2026" x-rating="0.0" group-title="🌍VIP专享2K",11月15日 26-27赛季NBA常规赛 公牛VS森林狼 (2026)
-https://v13.rstu6.com/202611/15/5fw6AtAHcG27/video/index.m3u8
-#EXTINF:-1 tvg-name="11月15日 26-27赛季NBA常规赛 掘金VS鹈鹕" tvg-logo="https://snzypic.vip/upload/vod/20260115-1/c599c4af0e06449ede06122a05300038.png" x-year="2026" x-rating="0.0" group-title="🌍VIP专享2K",11月15日 26-27赛季NBA常规赛 掘金VS鹈鹕 (2026)
-https://v15.rstu6.com/202611/15/CyN11tn75q27/video/index.m3u8
-#EXTINF:-1 tvg-name="11月15日 26-27赛季NBA常规赛 活塞VS热火" tvg-logo="https://snzypic.vip/upload/vod/20260115-1/c599c4af0e06449ede06122a05300038.png" x-year="2026" x-rating="0.0" group-title="🌍VIP专享2K",11月15日 26-27赛季NBA常规赛 活塞VS热火 (2026)
-https://v13.rstu6.com/202611/15/wLxXk4enHv27/video/index.m3u8
-#EXTINF:-1 tvg-name="11月15日 26-27赛季NBA常规赛 独行侠VS骑士" tvg-logo="https://snzypic.vip/upload/vod/20260115-1/c599c4af0e06449ede06122a05300038.png" x-year="2026" x-rating="0.0" group-title="🌍VIP专享2K",11月15日 26-27赛季NBA常规赛 独行侠VS骑士 (2026)
-https://v15.rstu6.com/202611/15/tSkVcEuQME27/video/index.m3u8
-#EXTINF:-1 tvg-name="11月15日 26-27赛季NBA常规赛 篮网VS灰熊" tvg-logo="https://snzypic.vip/upload/vod/20260115-1/c599c4af0e06449ede06122a05300038.png" x-year="2026" x-rating="0.0" group-title="🌍VIP专享2K",11月15日 26-27赛季NBA常规赛 篮网VS灰熊 (2026)
-https://v15.rstu6.com/202611/15/BpK0SbWGRL27/video/index.m3u8
-#EXTINF:-1 tvg-name="NANA企划" tvg-logo="https://kuaichezyimg.com/upload/vod/20261114-1/113a0747ac588e82b1ee31f9fb7c0500.jpg" x-year="2026" x-rating="0.0" group-title="快车资源网",NANA企划 (2026)
-https://v13.kuaichezym3u8.com/yyv13/202611/14/r7WHEtRSCv27/video/index.m3u8
-#EXTINF:-1 tvg-name="【戏说台湾】九华山乞丐掠交替" tvg-logo="https://empimage.slcache.com/metadata/artwork/source/poster/a19b567eeebb0eb43f3c41ef1db45961d66077ed2b5d982ffe9e30dbcf18730e.jpg" x-year="2025" x-rating="0.0" group-title="juliang",【戏说台湾】九华山乞丐掠交替 (2025)
-https://jimaoys94.com/public/playback/0e6f89f4ed9a85836d6e54c45544ff9a/smart.m3u8
-#EXTINF:-1 tvg-name="【戏说台湾】台江妈战青瞑蛇" tvg-logo="https://empimage.slcache.com/metadata/artwork/source/poster/120f2163849ecf0d6b75ec11f5cb251d7208d96d9cb34924fdf169e274266855.jpg" x-year="2025" x-rating="0.0" group-title="juliang",【戏说台湾】台江妈战青瞑蛇 (2025)
-https://jimaoys94.com/public/playback/325bcd13b9130130affbb0fd282072a4/smart.m3u8
-#EXTINF:-1 tvg-name="【戏说台湾】妈祖甜甜大福气" tvg-logo="https://empimage.slcache.com/metadata/artwork/source/poster/59d69e7eca70646639ea6637593229f8615a66a06f84e7017d3fd267f6de9dc6.jpg" x-year="2025" x-rating="0.0" group-title="juliang",【戏说台湾】妈祖甜甜大福气 (2025)
-https://jimaoys94.com/public/playback/66939015cc969a9763b95348155621ab/smart.m3u8
-#EXTINF:-1 tvg-name="【戏说台湾】宴王贺妈祖" tvg-logo="https://empimage.slcache.com/metadata/artwork/source/poster/802fcc17dd43153290f1448f9188acfb5be487f55050cc89105afa6b2477d098.jpg" x-year="2025" x-rating="0.0" group-title="juliang",【戏说台湾】宴王贺妈祖 (2025)
-https://jimaoys94.com/public/playback/b8b8cd0cacb380997dfa248ceff0bcb6/smart.m3u8
-#EXTINF:-1 tvg-name="【戏说台湾】济公护情缘" tvg-logo="https://empimage.slcache.com/metadata/artwork/source/poster/9d1790b7d795d9750d513928d59385fba811927781d6c01517f6907f512ea1e2.jpg" x-year="2025" x-rating="0.0" group-title="juliang",【戏说台湾】济公护情缘 (2025)
-https://jimaoys94.com/public/playback/be7385db544c92d8af3c80c47e39fb0a/smart.m3u8
-#EXTINF:-1 tvg-name="【戏说台湾】溜宝贝安太岁" tvg-logo="https://empimage.slcache.com/metadata/artwork/source/poster/3b88be30ed3877b317c2da93647fcfc78ed5d2e6e24aa0d14f57ae9a0418dc8e.jpg" x-year="2025" x-rating="0.0" group-title="juliang",【戏说台湾】溜宝贝安太岁 (2025)
-https://jimaoys94.com/public/playback/91c57ec4b9755ab40e44e7c234a39827/smart.m3u8
-#EXTINF:-1 tvg-name="【戏说台湾】玄凤点乩缘" tvg-logo="https://empimage.slcache.com/metadata/artwork/source/poster/6cd22ce12311c338e7fa114c0dbf0e62b044d0438d09720021d1a5903a4a8320.jpg" x-year="2025" x-rating="0.0" group-title="juliang",【戏说台湾】玄凤点乩缘 (2025)
-https://jimaoys94.com/public/playback/8a7625e26e16d65cb92f6b109edcd060/smart.m3u8
-#EXTINF:-1 tvg-name="【戏说台湾】白兔仙戏城隍" tvg-logo="https://empimage.slcache.com/metadata/artwork/source/poster/afc4c7dc7726588e22192856200c3958581110c065d050e43ed096bcd2f1732c.jpg" x-year="2025" x-rating="0.0" group-title="juliang",【戏说台湾】白兔仙戏城隍 (2025)
-https://jimaoys94.com/public/playback/566e9d6a73692eda5e95de27fd576d51/smart.m3u8
-#EXTINF:-1 tvg-name="【戏说台湾】老祖妈解冤仇" tvg-logo="https://empimage.slcache.com/metadata/artwork/source/poster/f6b288523e455af9e8fb063522cc8aae4bd794b81411850af06980149f0c3bd4.jpg" x-year="2025" x-rating="0.0" group-title="juliang",【戏说台湾】老祖妈解冤仇 (2025)
-https://jimaoys94.com/public/playback/9972c3d5e918aa8df73ca840908b23e0/smart.m3u8
-#EXTINF:-1 tvg-name="【戏说台湾】观天看地石将军" tvg-logo="https://empimage.slcache.com/metadata/artwork/source/poster/c1c6e26324bc09fdb3eee252e02b7df29b95c8a44926235a8950fe0cefe91dda.jpg" x-year="2025" x-rating="0.0" group-title="juliang",【戏说台湾】观天看地石将军 (2025)
-https://jimaoys94.com/public/playback/14a95c178696a8583bfe91064305cf23/smart.m3u8
-#EXTINF:-1 tvg-name="【戏说台湾】邪魔财神爷" tvg-logo="https://empimage.slcache.com/metadata/artwork/source/poster/54a326b76ba2769f0e3ebc1487e2aa8e4b101482a1e10df50fa4ea8b49b7ac10.jpg" x-year="2025" x-rating="0.0" group-title="juliang",【戏说台湾】邪魔财神爷 (2025)
-https://jimaoys94.com/public/playback/4778dbf691b59265708d8c48780dc057/smart.m3u8
-#EXTINF:-1 tvg-name="【戏说台湾】饕餮爱食神" tvg-logo="https://empimage.slcache.com/metadata/artwork/source/poster/090f45d4b859027bfed3083222c5bb90e308820df2ad5b5e89c0f3e7b9415f80.jpg" x-year="2025" x-rating="0.0" group-title="juliang",【戏说台湾】饕餮爱食神 (2025)
-https://jimaoys94.com/public/playback/17cf2612b751b3a54ad741b102839c8d/smart.m3u8
-#EXTINF:-1 tvg-name="一不小心把督军作进了心里" tvg-logo="https://kuaichezyimg.com/upload/vod/20261114-1/995ff311de5c120d2474c5f7788bb10a.jpg" x-year="2026" x-rating="0.0" group-title="快车资源网",一不小心把督军作进了心里 (2026)
-https://v14.kuaichezym3u8.com/yyv14/202611/13/xMFNZMS3fE27/video/index.m3u8
-#EXTINF:-1 tvg-name="一个轮胎我发现了车里的秘密" tvg-logo="https://snzypic.vip/upload/vod/20261115-1/bc29c4e40ca258a6efed96ce46517d3b.jpg" x-year="2026" x-rating="0.0" group-title="🌍VIP专享2K",一个轮胎我发现了车里的秘密 (2026)
-https://v15.rstu6.com/202611/12/b5040mZK5727/video/index.m3u8
-#EXTINF:-1 tvg-name="一口饭，馋哭满朝文武" tvg-logo="https://snzypic.vip/upload/vod/20261115-1/490591386fa40201c317919a85dbabc6.jpg" x-year="2026" x-rating="0.0" group-title="🌍VIP专享2K",一口饭，馋哭满朝文武 (2026)
-https://v15.rstu6.com/202611/12/yp0dDuWzUK27/video/index.m3u8
-#EXTINF:-1 tvg-name="一吻如意" tvg-logo="https://kuaichezyimg.com/upload/vod/20261115-1/ac1cba42a97ac32a6c7cde2a0e9aa7bd.jpg" x-year="2026" x-rating="0.0" group-title="快车资源网",一吻如意 (2026)
-https://v13.kuaichezym3u8.com/yyv13/202611/15/SKWd0qV62c27/video/index.m3u8
-#EXTINF:-1 tvg-name="一块大饼，换我双穿六九暴富" tvg-logo="https://www.imgzy360.com:7788/upload/vod/20261115-1/b079ced7940814c401fb563473fa9285.jpg" x-year="2026" x-rating="0.0" group-title="360资源站",一块大饼，换我双穿六九暴富 (2026)
-https://vod1.maowushi.com/20261114/FW3RXVBW/index.m3u8
-#EXTINF:-1 tvg-name="一夜错缘，世子终悔" tvg-logo="https://img.bdzyimg1.com/upload/vod/20261116-1/d99c69e605351f06307f625999046def.jpg" x-year="2026" x-rating="0.0" group-title="百度资源",一夜错缘，世子终悔 (2026)
-https://b3.bdzybf22.com/videos/202611/15/6af9c50e83ea92c0f66902a8/07c219/index.m3u8
-#EXTINF:-1 tvg-name="一套学区房，让邻居盯上了我全家" tvg-logo="https://img.bdzyimg1.com/upload/vod/20261116-1/8ab0ebd73071d1c6b7e35b81a3e2515e.jpg" x-year="2026" x-rating="0.0" group-title="百度资源",一套学区房，让邻居盯上了我全家 (2026)
-https://b3.bdzybf22.com/videos/202611/15/6af9c50483ea92c0f669028c/g76fd4/index.m3u8
-#EXTINF:-1 tvg-name="一屋烟火，两样人心" tvg-logo="https://snzypic.vip/upload/vod/20261115-1/d89518ba55f1c21a61e43daa599ced87.jpg" x-year="2026" x-rating="0.0" group-title="🌍VIP专享2K",一屋烟火，两样人心 (2026)
-https://v14.rstu6.com/202611/12/8jCv67RjUM27/video/index.m3u8
-#EXTINF:-1 tvg-name="一树红果满院香" tvg-logo="https://snzypic.vip/upload/vod/20261115-1/dceca997ecdef95ed61d84cae356013f.jpg" x-year="2026" x-rating="0.0" group-title="🌍VIP专享2K",一树红果满院香 (2026)
-https://v13.rstu6.com/202611/12/ypRCJnm1cS27/video/index.m3u8
-#EXTINF:-1 tvg-name="一瓶水，让我看清亲生女儿" tvg-logo="https://snzypic.vip/upload/vod/20261115-1/518bf6d0973c3eb29bec25fc873d8c8a.jpg" x-year="2026" x-rating="0.0" group-title="🌍VIP专享2K",一瓶水，让我看清亲生女儿 (2026)
-https://v14.rstu6.com/202611/12/GtMjGLYKar27/video/index.m3u8
-#EXTINF:-1 tvg-name="一盘蟹看透婚姻，我选择不再妥协" tvg-logo="https://snzypic.vip/upload/vod/20261115-1/e809c606ed24296e41e350251b5e4bfb.jpg" x-year="2026" x-rating="0.0" group-title="🌍VIP专享2K",一盘蟹看透婚姻，我选择不再妥协 (2026)
-https://v13.rstu6.com/202611/12/raKqRB4Tq627/video/index.m3u8
-#EXTINF:-1 tvg-name="一碗猪脚粉，房东悔哭了" tvg-logo="https://img.bdzyimg1.com/upload/vod/20261116-1/b41effe4ee19df8013389f3d20844a40.jpg" x-year="2026" x-rating="0.0" group-title="百度资源",一碗猪脚粉，房东悔哭了 (2026)
-https://b3.bdzybf22.com/videos/202611/15/6af9c54a83ea92c0f66902f6/f1f14a/index.m3u8
-#EXTINF:-1 tvg-name="一碗白粥见人心" tvg-logo="https://img.bdzyimg1.com/upload/vod/20261116-1/21907ebab5e04d4f4fed5bf9667d4f47.jpg" x-year="2026" x-rating="0.0" group-title="百度资源",一碗白粥见人心 (2026)
-https://b3.bdzybf22.com/videos/202611/15/6af9c52c83ea92c0f66902cf/924a9c/index.m3u8
-#EXTINF:-1 tvg-name="一碗粥一份善善举暖人间" tvg-logo="https://snzypic.vip/upload/vod/20261115-1/31134a5dac0725d4c52c253eca84b268.jpg" x-year="2026" x-rating="0.0" group-title="🌍VIP专享2K",一碗粥一份善善举暖人间 (2026)
-https://v15.rstu6.com/202611/12/D1xKQr76x627/video/index.m3u8
-#EXTINF:-1 tvg-name="一碗过桥米线的良心账" tvg-logo="https://img.bdzyimg1.com/upload/vod/20261116-1/017995ab11b7c258a5adcffe622f6253.jpg" x-year="2026" x-rating="0.0" group-title="百度资源",一碗过桥米线的良心账 (2026)
-https://b3.bdzybf22.com/videos/202611/15/6af9c51883ea92c0f66902b4/d5c8db/index.m3u8
-#EXTINF:-1 tvg-name="一碗饭，撑起一家小店" tvg-logo="https://img.bdzyimg1.com/upload/vod/20261116-1/7adc85b80ddc46341ba90e50d7dd023c.jpg" x-year="2026" x-rating="0.0" group-title="百度资源",一碗饭，撑起一家小店 (2026)
-https://b3.bdzybf22.com/videos/202611/15/6af9c53683ea92c0f66902db/8e9081/index.m3u8
-#EXTINF:-1 tvg-name="一纸神虎，守尽黑风山" tvg-logo="https://img.bdzyimg1.com/upload/vod/20261116-1/a6b43df178a71c5b22e18f162db8e702.jpg" x-year="2026" x-rating="0.0" group-title="百度资源",一纸神虎，守尽黑风山 (2026)
-https://b3.bdzybf22.com/videos/202611/15/6af9c54083ea92c0f66902e7/b05005/index.m3u8
-#EXTINF:-1 tvg-name="一纸降薪散人心" tvg-logo="https://img.bdzyimg1.com/upload/vod/20261116-1/98e10421ac3625773f17837e759c4136.jpg" x-year="2026" x-rating="0.0" group-title="百度资源",一纸降薪散人心 (2026)
-https://b3.bdzybf22.com/videos/202611/15/6af9c52283ea92c0f66902c1/24798e/index.m3u8
-#EXTINF:-1 tvg-name="一觉醒来坐拥神装和飞船，我决定以买一套独门独户的房" tvg-logo="https://www.imgzy360.com:7788/upload/vod/20261004-1/9506ffbc5794a88ab85707f22076ed8c.webp" x-year="2026" x-rating="0.0" group-title="360资源站",一觉醒来坐拥神装和飞船，我决定以买一套独门独户的房 (2026)
-https://vod1.maowushi.com/20261004/i9e5DAhy/index.m3u8
-#EXTINF:-1 tvg-name="一觉醒来，我养的毛团称霸妖界" tvg-logo="https://img.bdzyimg1.com/upload/vod/20261116-1/e7f2e230c768585f3eb29ac7631dafb3.jpg" x-year="2026" x-rating="0.0" group-title="百度资源",一觉醒来，我养的毛团称霸妖界 (2026)
-https://b3.bdzybf22.com/videos/202611/15/6af9c56a83ea92c0f669031a/3db707/index.m3u8
-#EXTINF:-1 tvg-name="一针惊世，哑女封神" tvg-logo="https://img.bdzyimg1.com/upload/vod/20261116-1/993a4a82100233afca2878dcd9428257.jpg" x-year="2026" x-rating="0.0" group-title="百度资源",一针惊世，哑女封神 (2026)
-https://b3.bdzybf22.com/videos/202611/15/6af9c55583ea92c0f6690302/c95fbg/index.m3u8
-#EXTINF:-1 tvg-name="一顿饭钱，毁了六千万合同" tvg-logo="https://snzypic.vip/upload/vod/20261115-1/aaa5c565dc9cb84040be9955e37e1019.jpg" x-year="2026" x-rating="0.0" group-title="🌍VIP专享2K",一顿饭钱，毁了六千万合同 (2026)
-https://v13.rstu6.com/202611/12/qA4wG2rfA827/video/index.m3u8
-#EXTINF:-1 tvg-name="一马当先" tvg-logo="https://pic.niuniuzy.info/upload/vod/20261114-1/235d71340a91982fcdc394a12d13b7b5.jpg" x-year="2026" x-rating="0.0" group-title="牛牛资源网",一马当先 (2026)
-https://v15.gghijk.com/yyv15/202611/12/g7Rqg4MYXN27/video/index.m3u8
-#EXTINF:-1 tvg-name="七爷她又在装柔弱" tvg-logo="https://www.imgzy360.com:7788/upload/vod/20261115-1/959c4e2057601e4845d94886e940d73d.jpg" x-year="2026" x-rating="0.0" group-title="360资源站",七爷她又在装柔弱 (2026)
-https://vod1.maowushi.com/20261114/53CMVLhN/index.m3u8
-#EXTINF:-1 tvg-name="三份亲子鉴定，打醒沈家人" tvg-logo="https://snzypic.vip/upload/vod/20261115-1/ddcb93838ac3518635f402c6c7d8fabb.jpg" x-year="2026" x-rating="0.0" group-title="🌍VIP专享2K",三份亲子鉴定，打醒沈家人 (2026)
-https://v13.rstu6.com/202611/12/UiryFh9D1t27/video/index.m3u8
-#EXTINF:-1 tvg-name="三十六计杀" tvg-logo="https://pic.niuniuzy.info/upload/vod/20261114-1/bb30f4b6b3748d332ac280c3920eaa54.jpg" x-year="2026" x-rating="0.0" group-title="牛牛资源网",三十六计杀 (2026)
-https://v14.gghijk.com/yyv14/202611/05/Y6pW0F1DKn27/video/index.m3u8
-#EXTINF:-1 tvg-name="上帝之城：斗争蔓延 第2季" tvg-logo="https://img.ukuapi88.com/upload/vod/20261109-1/be9517731b920d84a9540ad0f2b0f162.webp" x-year="2026" x-rating="0.0" group-title="U酷",上帝之城：斗争蔓延 第2季 (2026)
-https://ukzy.ukubf8.com/share/vFLRUhdp14
-#EXTINF:-1 tvg-name="不做码农后红玫瑰她后悔" tvg-logo="https://tyyswimg2.com/upload/vod/20261116-1/d5e3f85bb266c5fd680eacb284bf5774.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",不做码农后红玫瑰她后悔 (2025)
-https://tyyszywvod2.com/videos/202611/15/6a3ddab4de7f0096de785b78/24a61b/index.m3u8
-#EXTINF:-1 tvg-name="不必迁就的团圆" tvg-logo="https://snzypic.vip/upload/vod/20261115-1/c98d5f72170a269feaf052f522954476.jpg" x-year="2026" x-rating="0.0" group-title="🌍VIP专享2K",不必迁就的团圆 (2026)
-https://v15.rstu6.com/202611/12/8KYBFzk9Ak27/video/index.m3u8
-#EXTINF:-1 tvg-name="不服输的瑜伽女神" tvg-logo="https://www.imgzy360.com:7788/upload/vod/20261115-1/c955c341fead5db81fb33d0cd7cb1f74.jpg" x-year="2026" x-rating="0.0" group-title="360资源站",不服输的瑜伽女神 (2026)
-https://vod1.maowushi.com/20261114/MJPEe4ff/index.m3u8
-#EXTINF:-1 tvg-name="不赴侯门赴宫阙" tvg-logo="https://snzypic.vip/upload/vod/20261115-1/1b654dd831a8ab7515b9873f0117e2b1.jpg" x-year="2026" x-rating="0.0" group-title="🌍VIP专享2K",不赴侯门赴宫阙 (2026)
-https://v15.rstu6.com/202611/12/Xh8ptjGwUF27/video/index.m3u8
-#EXTINF:-1 tvg-name="东京复仇者 三天战争篇" tvg-logo="https://kuaichezyimg.com/upload/vod/20261114-1/8c285160e06435823fa480518a0aa813.jpg" x-year="2026" x-rating="0.0" group-title="快车资源网",东京复仇者 三天战争篇 (2026)
-https://v14.kuaichezym3u8.com/yyv14/202610/04/cE3722L93p27/video/index.m3u8
-#EXTINF:-1 tvg-name="东北暖冬：捡了个南方小土豆" tvg-logo="https://img.bdzyimg1.com/upload/vod/20261116-1/4a3be71db8830acd2f29cc16cb351474.jpg" x-year="2026" x-rating="0.0" group-title="百度资源",东北暖冬：捡了个南方小土豆 (2026)
-https://b3.bdzybf22.com/videos/202611/15/6af9c46e83ea92c0f668fe96/0587c1/index.m3u8
-#EXTINF:-1 tvg-name="东家落难，保姆王妈救场翻盘" tvg-logo="https://img.bdzyimg1.com/upload/vod/20261116-1/07e2bff42afb27c3506ae2ff1aa7f218.jpg" x-year="2026" x-rating="0.0" group-title="百度资源",东家落难，保姆王妈救场翻盘 (2026)
-https://b3.bdzybf22.com/videos/202611/15/6af9c48283ea92c0f668ffef/d2e0f7/index.m3u8
-#EXTINF:-1 tvg-name="两世错缘：嫡女不承太子恩" tvg-logo="https://img.bdzyimg1.com/upload/vod/20261116-1/9574d9f98af83ba63b21b1cdbbb7e077.jpg" x-year="2026" x-rating="0.0" group-title="百度资源",两世错缘：嫡女不承太子恩 (2026)
-https://b3.bdzybf22.com/videos/202611/15/6af9c49683ea92c0f6690016/087a9a/index.m3u8
-#EXTINF:-1 tvg-name="两千学费背后的谎言" tvg-logo="https://img.bdzyimg1.com/upload/vod/20261116-1/17a0cd7dc22113734f5077e3d1c7c3ad.jpg" x-year="2026" x-rating="0.0" group-title="百度资源",两千学费背后的谎言 (2026)
-https://b3.bdzybf22.com/videos/202611/15/6af9c47883ea92c0f668ffd3/580f7a/index.m3u8
-#EXTINF:-1 tvg-name="两瓶岚台酒引发的豪门整顿" tvg-logo="https://img.bdzyimg1.com/upload/vod/20261116-1/e2a66434dfcd1d84e90cff78730135a6.jpg" x-year="2026" x-rating="0.0" group-title="百度资源",两瓶岚台酒引发的豪门整顿 (2026)
-https://b3.bdzybf22.com/videos/202611/15/6af9c48c83ea92c0f668fffb/7a03af/index.m3u8
-#EXTINF:-1 tvg-name="中秋过后我们有了家" tvg-logo="https://snzypic.vip/upload/vod/20261115-1/fa09e08cbcf5c9ce60e3a757ce6a61ec.jpg" x-year="2026" x-rating="0.0" group-title="🌍VIP专享2K",中秋过后我们有了家 (2026)
-https://v14.rstu6.com/202611/12/SNBgZdaxRz27/video/index.m3u8
-#EXTINF:-1 tvg-name="乡野丫头竟是顾少心尖宠" tvg-logo="https://kuaichezyimg.com/upload/vod/20261115-1/5f65805aba70e07ea3ff2d2445f1e11e.jpg" x-year="2026" x-rating="0.0" group-title="快车资源网",乡野丫头竟是顾少心尖宠 (2026)
-https://v14.kuaichezym3u8.com/yyv14/202611/15/MU3SsiRjn227/video/index.m3u8
-#EXTINF:-1 tvg-name="乱马1/2第三季" tvg-logo="https://img.bdzyimg1.com/upload/vod/20261115-1/c41cecf17571c247e1df4a5dbaa2c062.jpg" x-year="2026" x-rating="0.0" group-title="百度资源",乱马1/2第三季 (2026)
-https://b3.bdzybf22.com/videos/202610/04/6ac1f053bbd92ac0f55f1185/bc6a0c/index.m3u8
-#EXTINF:-1 tvg-name="井中月" tvg-logo="https://img.bdzyimg1.com/upload/vod/20261115-1/0ee0a43b38d073ea09b79ffc578afa51.jpg" x-year="2026" x-rating="0.0" group-title="百度资源",井中月 (2026)
-https://b3.bdzybf22.com/videos/202611/15/6af9c46483ea92c0f668fe24/2bag95/index.m3u8
-#EXTINF:-1 tvg-name="京城美食地图" tvg-logo="https://kuaichezyimg.com/upload/vod/20261115-1/38482d93a0a9719d0a5cd27b623a9213.jpg" x-year="2020" x-rating="0.0" group-title="快车资源网",京城美食地图 (2020)
-https://v14.kuaichezym3u8.com/yyv14/202511/08/AYwRwAZSpL22/video/index.m3u8
-#EXTINF:-1 tvg-name="亲爱的闻总监" tvg-logo="https://tyyswimg2.com/upload/vod/20261115-1/22af299450f4477e965854c89d99ae32.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",亲爱的闻总监 (2025)
-https://tyyszywvod2.com/videos/202611/15/6a3dd938de7f0096de78587a/c6842e/index.m3u8
-#EXTINF:-1 tvg-name="人间妄想是卿卿" tvg-logo="https://tu.iqiyizyimg.com/upload/vod/20261115-1/c46d74978543376ae647b420aaf6d255.jpg" x-year="2026" x-rating="0.0" group-title="爱奇艺资源站",人间妄想是卿卿 (2026)
-https://play.ly166.com:65/videos/20261115/6af89de7fc05020735b779b7/1a97ff/index.m3u8
-#EXTINF:-1 tvg-name="他亲手烧了我，却留了活门" tvg-logo="https://empimage.slcache.com/metadata/artwork/source/poster/4c91d611da9793030746db289a3d60282621434cd78f4b53c4810c3008dbb2e0.png" x-year="2025" x-rating="0.0" group-title="juliang",他亲手烧了我，却留了活门 (2025)
-https://jimaoys88.com/public/playback/372bb27305e1989e1c4606642225b5b1/smart.m3u8
-#EXTINF:-1 tvg-name="他的小鹿式女友有点甜" tvg-logo="https://tyyswimg2.com/upload/vod/20261116-1/0c64617d10d30354e8310e1a20d7aba4.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",他的小鹿式女友有点甜 (2025)
-https://tyyszywvod2.com/videos/202611/15/6a3ddadfde7f0096de785b7c/53f861/index.m3u8
-#EXTINF:-1 tvg-name="他靠鉴宝神眼逆袭人生" tvg-logo="https://www.imgzy360.com:7788/upload/vod/20261115-1/7d51484f6784ad5d27d7546688bc2334.jpg" x-year="2026" x-rating="0.0" group-title="360资源站",他靠鉴宝神眼逆袭人生 (2026)
-https://vod1.maowushi.com/20261114/mUhAJl17/index.m3u8
-#EXTINF:-1 tvg-name="以爱设局" tvg-logo="https://kuaichezyimg.com/upload/vod/20261114-1/75b90bdc074eaf02da43435e74040616.jpg" x-year="2026" x-rating="0.0" group-title="快车资源网",以爱设局 (2026)
-https://v13.kuaichezym3u8.com/yyv13/202611/13/NyTUqeYKiG27/video/index.m3u8
-#EXTINF:-1 tvg-name="以眼还眼：该闺蜜养我了！" tvg-logo="https://img.bdzyimg1.com/upload/vod/20261116-1/c2394b2b8aba2160a29b179cab109d3e.jpg" x-year="2026" x-rating="0.0" group-title="百度资源",以眼还眼：该闺蜜养我了！ (2026)
-https://b3.bdzybf22.com/videos/202611/15/6af9c55f83ea92c0f669030e/ceff90/index.m3u8
-#EXTINF:-1 tvg-name="何姑娘的故事第三季" tvg-logo="https://img.ukuapi88.com/upload/vod/20261115-1/abc905570222185bdfa7f354ead7ab05.jpg" x-year="2026" x-rating="0.0" group-title="U酷",何姑娘的故事第三季 (2026)
-https://ukzyvod3.ukubf5.com/share/4sViRuURGE
-#EXTINF:-1 tvg-name="你却爱着一个他国语" tvg-logo="https://www.mdzypic.com/upload/vod/20261008-1/bf5107533770c39f9c6911034ed39d52.webp" x-year="2026" x-rating="0.0" group-title="魔都资源网",你却爱着一个他国语 (2026)
-https://play.modujx17.com/20261008/u8Tv4NAP/index.m3u8
-#EXTINF:-1 tvg-name="你却爱着一个他泰语" tvg-logo="https://empimage.slcache.com/metadata/artwork/source/poster/871eae16cafb9b8c305d6a9e19d1860f62bea1bb4092a6fc33d9b76aa09bed38.jpg" x-year="2026" x-rating="0.0" group-title="juliang",你却爱着一个他泰语 (2026)
-https://jimaoys94.com/public/playback/47e75438f1a08d6dcef1c598b1ebae9f/smart.m3u8
-#EXTINF:-1 tvg-name="你好，星期六 2026" tvg-logo="https://img.ukuapi88.com/upload/vod/20260102-1/e6a148d1f4ac7f746c422e7f2b18eeea.jpg" x-year="2026" x-rating="0.0" group-title="U酷",你好，星期六 2026 (2026)
-https://ukzy.ukubf3.com/share/dDBHsLqHvK
-#EXTINF:-1 tvg-name="使我独君朝与暮" tvg-logo="https://tyyswimg2.com/upload/vod/20261115-1/d93ba592f3a8f6b57e3e67f0cb1206ad.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",使我独君朝与暮 (2025)
-https://tyyszywvod2.com/videos/202611/15/6a3dda4fde7f0096de785b6c/427493/index.m3u8
-#EXTINF:-1 tvg-name="侯门弃子" tvg-logo="https://www.imgzy360.com:7788/upload/vod/20261115-1/edbbd73390260bdd02ec2fed4b5f2c69.jpg" x-year="2026" x-rating="0.0" group-title="360资源站",侯门弃子 (2026)
-https://vod1.maowushi.com/20261114/lf9UqUnA/index.m3u8
-#EXTINF:-1 tvg-name="借口Go" tvg-logo="https://kuaichezyimg.com/upload/vod/20261114-1/69c9cae42e988ad81de79ab069700618.jpg" x-year="2022" x-rating="0.0" group-title="快车资源网",借口Go (2022)
-https://v13.kuaichezym3u8.com/yyv13/202604/25/hg2UaqjN0z27/video/index.m3u8
-#EXTINF:-1 tvg-name="假面骑士麦斯" tvg-logo="https://www.mdzypic.com/upload/vod/20260921-1/7a5c5df646ec7ebaa0240a3ade358118.webp" x-year="2026" x-rating="0.0" group-title="魔都资源网",假面骑士麦斯 (2026)
-https://play.modujx17.com/20260921/ahD7bDYx/index.m3u8
-#EXTINF:-1 tvg-name="兄妹" tvg-logo="https://img.bdzyimg1.com/upload/vod/20261115-1/e246d99bbee47fbd16786e63bf50c53a.jpg" x-year="2026" x-rating="0.0" group-title="百度资源",兄妹 (2026)
-https://b3.bdzybf22.com/videos/202611/15/6af94a8181cb94d4da8ee588/96637d/index.m3u8
-#EXTINF:-1 tvg-name="兄妹2026" tvg-logo="https://www.mdzypic.com/upload/vod/20261018-1/75a6dd9430fa540ff51ee15062b4e4d8.webp" x-year="2026" x-rating="0.0" group-title="魔都资源网",兄妹2026 (2026)
-https://play.modujx17.com/20261018/PbaznnIT/index.m3u8
-#EXTINF:-1 tvg-name="兄妹绑错系统爆红了第一季" tvg-logo="https://img.ukuapi88.com/upload/vod/20261115-1/8c0064ab6d9b1f9fe9e3142cf32e30bb.jpg" x-year="2026" x-rating="0.0" group-title="U酷",兄妹绑错系统爆红了第一季 (2026)
-https://ukzyvod3.ukubf5.com/share/wlprV3yrXG
-#EXTINF:-1 tvg-name="兽戏" tvg-logo="https://www.imgzy360.com:7788/upload/vod/20261115-1/6ecf23b9c147fe5a3b92d7342720e127.jpg" x-year="2026" x-rating="0.0" group-title="360资源站",兽戏 (2026)
-https://vod1.maowushi.com/20261114/SOxKKTly/index.m3u8
-#EXTINF:-1 tvg-name="农场萌宠组团来打工" tvg-logo="https://img.ukuapi88.com/upload/vod/20261115-1/b8204c7e8d21cb5211eb3dff9b671864.jpg" x-year="2026" x-rating="0.0" group-title="U酷",农场萌宠组团来打工 (2026)
-https://ukzyvod3.ukubf5.com/share/HKieiy0afv
-#EXTINF:-1 tvg-name="凛冬跟随囤货：我抄重生邻居作业躺赢" tvg-logo="https://img.ukuapi88.com/upload/vod/20261115-1/b2df1829a3b05681599f360b6efe3c90.jpg" x-year="2026" x-rating="0.0" group-title="U酷",凛冬跟随囤货：我抄重生邻居作业躺赢 (2026)
-https://ukzyvod3.ukubf5.com/share/eVdFoCyWZQ
-#EXTINF:-1 tvg-name="分手后，我有了无限盲盒系统" tvg-logo="https://tyyswimg2.com/upload/vod/20261115-1/94f153d24fceffd71c65e256839ed307.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",分手后，我有了无限盲盒系统 (2025)
-https://tyyszywvod2.com/videos/202611/15/6a3dd99cde7f0096de785b5c/59e8fa/index.m3u8
-#EXTINF:-1 tvg-name="别惹他的小可怜" tvg-logo="https://tyyswimg2.com/upload/vod/20261115-1/5a773d4785ee5306a5e26998a61812ec.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",别惹他的小可怜 (2025)
-https://tyyszywvod2.com/videos/202611/15/6a3dd9b6de7f0096de785b5f/55b126/index.m3u8
-#EXTINF:-1 tvg-name="别惹这个外卖员，他是修仙大佬" tvg-logo="https://kuaichezyimg.com/upload/vod/20261115-1/295bc6590e54cdd6aa1ec90451aad4ca.jpg" x-year="2026" x-rating="0.0" group-title="快车资源网",别惹这个外卖员，他是修仙大佬 (2026)
-https://v15.kuaichezym3u8.com/yyv15/202611/15/5xN4Bscu8S27/video/index.m3u8
-#EXTINF:-1 tvg-name="别惹那个打工人，他是透视小神医" tvg-logo="https://www.imgzy360.com:7788/upload/vod/20261115-1/be6a6696ac8b55a588537dbdada55edc.jpg" x-year="2026" x-rating="0.0" group-title="360资源站",别惹那个打工人，他是透视小神医 (2026)
-https://vod1.maowushi.com/20261114/sJ2DM6lY/index.m3u8
-#EXTINF:-1 tvg-name="前尘尽弃，许我快意恩仇" tvg-logo="https://kuaichezyimg.com/upload/vod/20261114-1/75646b7003541131df2cadfe7ad5a528.jpg" x-year="2026" x-rating="0.0" group-title="快车资源网",前尘尽弃，许我快意恩仇 (2026)
-https://v13.kuaichezym3u8.com/yyv13/202611/13/cBRnqNbaxP27/video/index.m3u8
-#EXTINF:-1 tvg-name="千金小妹" tvg-logo="https://tyyswimg2.com/upload/vod/20261115-1/2aef8d26ac619145d545062b30d972b6.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",千金小妹 (2025)
-https://tyyszywvod2.com/videos/202611/15/6a3dda5ade7f0096de785b6d/a404d6/index.m3u8
-#EXTINF:-1 tvg-name="千金难买你开心，那我选择仅退款" tvg-logo="https://kuaichezyimg.com/upload/vod/20261114-1/2ce85060cefb0b8a6cb76f30f7a4b37a.jpg" x-year="2026" x-rating="0.0" group-title="快车资源网",千金难买你开心，那我选择仅退款 (2026)
-https://v14.kuaichezym3u8.com/yyv14/202611/13/LWCFgFgtKy27/video/index.m3u8
-#EXTINF:-1 tvg-name="午夜规则" tvg-logo="https://kuaichezyimg.com/upload/vod/20261112-1/dbb2f77f147f5642093a11b3cbb0329b.jpg" x-year="2026" x-rating="0.0" group-title="快车资源网",午夜规则 (2026)
-https://v13.kuaichezym3u8.com/yyv13/202610/28/E0QJciHxtC27/video/index.m3u8
-#EXTINF:-1 tvg-name="华丽人生：逆风者" tvg-logo="https://kuaichezyimg.com/upload/vod/20261115-1/e5e79b3c448b6d6b3b25989b8aeef8e8.jpg" x-year="2026" x-rating="0.0" group-title="快车资源网",华丽人生：逆风者 (2026)
-https://v13.kuaichezym3u8.com/yyv13/202611/15/Vuw1iwUx2E27/video/index.m3u8
-#EXTINF:-1 tvg-name="双枪美妻你别怕，哥哥是修仙的" tvg-logo="https://www.imgzy360.com:7788/upload/vod/20261115-1/5b6764311f75b689f525f6d3bf3073b6.jpg" x-year="2026" x-rating="0.0" group-title="360资源站",双枪美妻你别怕，哥哥是修仙的 (2026)
-https://vod1.maowushi.com/20261114/AFDJPSKY/index.m3u8
-#EXTINF:-1 tvg-name="同居后发现温柔老公人设崩了" tvg-logo="https://tyyswimg2.com/upload/vod/20261116-1/cd2dad00f010795c0eea01433cf8082d.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",同居后发现温柔老公人设崩了 (2025)
-https://tyyszywvod2.com/videos/202611/15/6a3dda97de7f0096de785b73/7ff4b6/index.m3u8
-#EXTINF:-1 tvg-name="名侦探光之美少女！" tvg-logo="https://www.mdzypic.com/upload/vod/20260201-1/3276ad509c9d0bc19217664876e3e03e.webp" x-year="2026" x-rating="0.0" group-title="魔都资源网",名侦探光之美少女！ (2026)
-https://play.modujx11.com/20260201/rr14lBIm/index.m3u8
-#EXTINF:-1 tvg-name="名侦探学院 第十季" tvg-logo="https://img.bdzyimg1.com/upload/vod/20261115-1/6f680a1022f882dcf1774c7b9577b704.jpg" x-year="2026" x-rating="0.0" group-title="百度资源",名侦探学院 第十季 (2026)
-https://b3.bdzybf22.com/videos/202611/14/6af7ee0783ea92c0f66704a6/d4gf5a/index.m3u8
-#EXTINF:-1 tvg-name="名侦探学院第十季" tvg-logo="https://tu.iqiyizyimg.com/upload/vod/20261114-1/63a26836b73f2c387cc1b4b643b5833b.webp" x-year="2026" x-rating="0.0" group-title="爱奇艺资源站",名侦探学院第十季 (2026)
-https://play.ly166.com:65/videos/20261114/6af7f38afc05020735e88cd9/ba3eb1/index.m3u8
-#EXTINF:-1 tvg-name="名侦探柯南国语版" tvg-logo="https://kuaichezyimg.com/upload/vod/20261114-1/804381454080bc7de0c5ad2ceebaa78f.jpg" x-year="1996" x-rating="0.0" group-title="快车资源网",名侦探柯南国语版 (1996)
-https://v6.kuaichezym3u8.com/yyv6/202405/01/8NAWMBjzQM8/video/index.m3u8
-#EXTINF:-1 tvg-name="君心纵火，权臣惯我" tvg-logo="https://img.ukuapi88.com/upload/vod/20261115-1/0a0711777b46522b79692e9430275226.jpg" x-year="2026" x-rating="0.0" group-title="U酷",君心纵火，权臣惯我 (2026)
-https://ukzyvod3.ukubf5.com/share/LmGeywQM01
-#EXTINF:-1 tvg-name="听见物品心声，我撕碎全职太太剧本" tvg-logo="https://kuaichezyimg.com/upload/vod/20261115-1/183aada5d67861d74c51bb5639b92d80.jpg" x-year="2026" x-rating="0.0" group-title="快车资源网",听见物品心声，我撕碎全职太太剧本 (2026)
-https://v15.kuaichezym3u8.com/yyv15/202611/15/87Ycatu5S527/video/index.m3u8
-#EXTINF:-1 tvg-name="吾妻小我十二岁第一季" tvg-logo="https://img.ukuapi88.com/upload/vod/20261115-1/5feb6de2a87820a5eca88aac3ee4d34b.jpg" x-year="2026" x-rating="0.0" group-title="U酷",吾妻小我十二岁第一季 (2026)
-https://ukzyvod3.ukubf5.com/share/HxxG1uixVu
-#EXTINF:-1 tvg-name="命线相牵" tvg-logo="https://empimage.slcache.com/metadata/artwork/source/poster/8976c1abd93edf6df285a6825d37694ee14a98b51f1d05239d4c7812f75bc77e.webp" x-year="2027" x-rating="0.0" group-title="juliang",命线相牵 (2027)
-https://jimaoys96.com/public/playback/3045cfb836bfd22f396293ae1b3ed121/smart.m3u8
-#EXTINF:-1 tvg-name="咖啡王子桃花记" tvg-logo="https://tyyswimg2.com/upload/vod/20261115-1/b4e150ad1c0f5a402e9d4a3dbadd0729.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",咖啡王子桃花记 (2025)
-https://tyyszywvod2.com/videos/202611/15/6a3dd910de7f0096de785876/136812/index.m3u8
-#EXTINF:-1 tvg-name="在白月光心上撒野" tvg-logo="https://tyyswimg2.com/upload/vod/20261115-1/e874f15dfff0c6349bc0a449f626387a.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",在白月光心上撒野 (2025)
-https://tyyszywvod2.com/videos/202611/15/6a3dd923de7f0096de785879/a18bd7/index.m3u8
-#EXTINF:-1 tvg-name="堕魔后抓回绝美师尊" tvg-logo="https://img.ukuapi88.com/upload/vod/20261115-1/6fa719ea05f49570680870e17869327a.jpg" x-year="2026" x-rating="0.0" group-title="U酷",堕魔后抓回绝美师尊 (2026)
-https://ukzyvod3.ukubf5.com/share/yvGZPoUZO7
-#EXTINF:-1 tvg-name="夜曲" tvg-logo="https://img.ukuapi88.com/upload/vod/20261115-1/f03fcc5178267470645dd0310c1db23c.webp" x-year="2026" x-rating="0.0" group-title="U酷",夜曲 (2026)
-https://ukzy.ukubf8.com/share/KW80yz8WKz
-#EXTINF:-1 tvg-name="夜染桑枝" tvg-logo="https://www.imgzy360.com:7788/upload/vod/20261115-1/f34748bf5385aeadbc10294277573343.jpg" x-year="2026" x-rating="0.0" group-title="360资源站",夜染桑枝 (2026)
-https://vod1.maowushi.com/20261114/UVC79Gas/index.m3u8
-#EXTINF:-1 tvg-name="夜樱家的大作战 第2季 Part 2" tvg-logo="https://img.ukuapi88.com/upload/vod/20261011-1/824760823a0c5b270f2b5a8f286b8e34.webp" x-year="2026" x-rating="0.0" group-title="U酷",夜樱家的大作战 第2季 Part 2 (2026)
-https://ukzy.ukubf3.com/share/yToRSzeBSF
-#EXTINF:-1 tvg-name="夜樱家的大作战第2季 Part 2" tvg-logo="https://www.mdzypic.com/upload/vod/20261011-1/c1dd4f28d4037acd79d6017dc999d13f.webp" x-year="2026" x-rating="0.0" group-title="魔都资源网",夜樱家的大作战第2季 Part 2 (2026)
-https://play.modujx17.com/20261011/sQz3zF8q/index.m3u8
-#EXTINF:-1 tvg-name="夜樱家的大作战第二季 Part 2" tvg-logo="https://www.imgzy360.com:7788/upload/vod/20261011-1/aebbac27d27fa1a89a75796391d9b249.webp" x-year="2026" x-rating="0.0" group-title="360资源站",夜樱家的大作战第二季 Part 2 (2026)
-https://vod1.maowushi.com/20261011/AKMvvEBs/index.m3u8
-#EXTINF:-1 tvg-name="大小姐，你的反派剧本拿反了" tvg-logo="https://tyyswimg2.com/upload/vod/20261115-1/5f042f9664354fb01e13661db7da1bf3.png" x-year="2025" x-rating="0.0" group-title="天涯影视资源",大小姐，你的反派剧本拿反了 (2025)
-https://tyyszywvod2.com/videos/202611/15/6a3dd9e7de7f0096de785b63/61c99b/index.m3u8
-#EXTINF:-1 tvg-name="女帝" tvg-logo="https://img.ukuapi88.com/upload/vod/20261115-1/7657d4e2ef5a048da04b2a67f335dcc9.webp" x-year="2026" x-rating="0.0" group-title="U酷",女帝 (2026)
-https://ukzy.ukubf8.com/share/JuUWa7l831
-#EXTINF:-1 tvg-name="女神配对计划" tvg-logo="https://empimage.slcache.com/metadata/artwork/tmdb/tv/293060/poster/0811e62232cec43eff0acf9dfbaef6f118f1e920ccdb58e64175f64c23b34263.webp" x-year="2025" x-rating="0.0" group-title="juliang",女神配对计划 (2025)
-https://jimaoys90.com/public/playback/23669145778beb7faf5a614285769195/smart.m3u8
-#EXTINF:-1 tvg-name="她主规则" tvg-logo="https://kuaichezyimg.com/upload/vod/20261115-1/d3cab64a661ef5951c1bb3af36c31102.jpg" x-year="2026" x-rating="0.0" group-title="快车资源网",她主规则 (2026)
-https://v14.kuaichezym3u8.com/yyv14/202611/07/4MG1NJXPtb27/video/index.m3u8
-#EXTINF:-1 tvg-name="她能看见" tvg-logo="https://kuaichezyimg.com/upload/vod/20261115-1/2350c5a457cb06eea60c3021f4ffc326.jpg" x-year="2026" x-rating="0.0" group-title="快车资源网",她能看见 (2026)
-https://v15.kuaichezym3u8.com/yyv15/202611/15/Vq9kKvyPUY27/video/index.m3u8
-#EXTINF:-1 tvg-name="好男孩" tvg-logo="https://empimage.slcache.com/metadata/artwork/source/poster/94f7efee6a323bc13e18a2ff0d942df291db12a30764b013c1fc129aecd0002b.jpg" x-year="2018" x-rating="0.0" group-title="juliang",好男孩 (2018)
-https://jimaoys94.com/public/playback/ad33efcc2d146e3b29b1f7a4f270c997/smart.m3u8
-#EXTINF:-1 tvg-name="好男孩" tvg-logo="https://www.mdzypic.com/upload/vod/20261101-1/46017eba36b574c0bf92279ec4fa1b7b.webp" x-year="2026–" x-rating="0.0" group-title="魔都资源网",好男孩 (2026–)
-https://play.modujx17.com/20261101/x5z2nw84/index.m3u8
-#EXTINF:-1 tvg-name="姑奶奶她打脸上瘾" tvg-logo="https://tyyswimg2.com/upload/vod/20261115-1/1229d89392f7873fc8404a5ba3db9f87.png" x-year="2025" x-rating="0.0" group-title="天涯影视资源",姑奶奶她打脸上瘾 (2025)
-https://tyyszywvod2.com/videos/202611/15/6a3dd9a6de7f0096de785b5d/14f070/index.m3u8
-#EXTINF:-1 tvg-name="姜小姐我们复婚吧" tvg-logo="https://tyyswimg2.com/upload/vod/20261115-1/3c08911d65c2db5e126d9ef7b2b7f259.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",姜小姐我们复婚吧 (2025)
-https://tyyszywvod2.com/videos/202611/15/6a3dd907de7f0096de785874/b4ade2/index.m3u8
-#EXTINF:-1 tvg-name="婆婆的手机" tvg-logo="https://empimage.slcache.com/metadata/artwork/source/poster/6c3c70b63ebf7e88a41ee435a84b24c79ae7fc0ce30a8d4c48c86837cd866dcb.jpg" x-year="2026" x-rating="0.0" group-title="juliang",婆婆的手机 (2026)
-https://jimaoys88.com/public/playback/ca737486f217fcea17cf5a7f1efb26c8/smart.m3u8
-#EXTINF:-1 tvg-name="婚色如皎月" tvg-logo="https://tyyswimg2.com/upload/vod/20261115-1/2c890feadcaa95eece9dfd6d1d2a2da9.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",婚色如皎月 (2025)
-https://tyyszywvod2.com/videos/202611/15/6a3dda00de7f0096de785b64/afg697/index.m3u8
-#EXTINF:-1 tvg-name="孩子藏好，高冷上司是我前夫" tvg-logo="https://kuaichezyimg.com/upload/vod/20261115-1/102c96124563a428e2186c3582697670.jpg" x-year="2026" x-rating="0.0" group-title="快车资源网",孩子藏好，高冷上司是我前夫 (2026)
-https://v13.kuaichezym3u8.com/yyv13/202611/15/VNehJcPqEn27/video/index.m3u8
-#EXTINF:-1 tvg-name="家乡美食大赛" tvg-logo="https://www.mdzypic.com/upload/vod/20260727-1/8f6bd0d166bd351c9664cb93bac972ad.webp" x-year="2026" x-rating="0.0" group-title="魔都资源网",家乡美食大赛 (2026)
-https://play.modujx17.com/20260727/zhgwpKOB/index.m3u8
-#EXTINF:-1 tvg-name="寿宴摊牌，告别无底洞" tvg-logo="https://kuaichezyimg.com/upload/vod/20261115-1/9d6b75979780f25621e67f374d42321c.jpg" x-year="2026" x-rating="0.0" group-title="快车资源网",寿宴摊牌，告别无底洞 (2026)
-https://v15.kuaichezym3u8.com/yyv15/202611/15/XbL1G1QUPT27/video/index.m3u8
-#EXTINF:-1 tvg-name="将军！夫人又搞事了第二季" tvg-logo="https://img.ukuapi88.com/upload/vod/20261115-1/dc87363512c3f9e32226042a181b34a3.jpg" x-year="2026" x-rating="0.0" group-title="U酷",将军！夫人又搞事了第二季 (2026)
-https://ukzyvod3.ukubf5.com/share/lRPhcm8BUc
-#EXTINF:-1 tvg-name="小豆与小麦" tvg-logo="https://kuaichezyimg.com/upload/vod/20261114-1/f617d931d20ac1318821b9565f97e4c8.jpg" x-year="2026" x-rating="0.0" group-title="快车资源网",小豆与小麦 (2026)
-https://v13.kuaichezym3u8.com/yyv13/202610/03/cKkjhjYbH227/video/index.m3u8
-#EXTINF:-1 tvg-name="少夫人来自东北3" tvg-logo="https://kuaichezyimg.com/upload/vod/20261115-1/5cf014b476407068fbeac0e80d8dfbd0.jpg" x-year="2026" x-rating="0.0" group-title="快车资源网",少夫人来自东北3 (2026)
-https://v15.kuaichezym3u8.com/yyv15/202611/15/erJyGsr8tZ27/video/index.m3u8
-#EXTINF:-1 tvg-name="岁岁更如意" tvg-logo="https://kuaichezyimg.com/upload/vod/20261115-1/72e219964e00bcec927ea17626522d4c.jpg" x-year="2026" x-rating="0.0" group-title="快车资源网",岁岁更如意 (2026)
-https://v13.kuaichezym3u8.com/yyv13/202611/15/6av7YRcHYB27/video/index.m3u8
-#EXTINF:-1 tvg-name="州爷，你的白月光卷钱跑路了" tvg-logo="https://www.imgzy360.com:7788/upload/vod/20261115-1/4e0ecd9323e7a2b835471b0ade07f5ea.jpg" x-year="2026" x-rating="0.0" group-title="360资源站",州爷，你的白月光卷钱跑路了 (2026)
-https://vod1.maowushi.com/20261114/oWRZr3l4/index.m3u8
-#EXTINF:-1 tvg-name="干一票大的" tvg-logo="https://img.ukuapi88.com/upload/vod/20261115-1/85fd2a1935572287a120d51d1facc947.jpg" x-year="2026" x-rating="0.0" group-title="U酷",干一票大的 (2026)
-https://ukzyvod3.ukubf5.com/share/N1e6h3kbbe
-#EXTINF:-1 tvg-name="年下娇夫对我一往情深" tvg-logo="https://tyyswimg2.com/upload/vod/20261116-1/f17dc22858972eb9980ce3f3429a702e.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",年下娇夫对我一往情深 (2025)
-https://tyyszywvod2.com/videos/202611/15/6a3ddab3de7f0096de785b77/28cac2/index.m3u8
-#EXTINF:-1 tvg-name="废土玫瑰" tvg-logo="https://kuaichezyimg.com/upload/vod/20261115-1/63ee00e8733ecdaa012b83abc400892b.jpg" x-year="2026" x-rating="0.0" group-title="快车资源网",废土玫瑰 (2026)
-https://v14.kuaichezym3u8.com/yyv14/202611/15/gD7gU0Lwyf27/video/index.m3u8
-#EXTINF:-1 tvg-name="开局华流巅峰，转身养成高冷校花" tvg-logo="https://tyyswimg2.com/upload/vod/20261116-1/765aa6ad0133b27979feeb2c06b8596c.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",开局华流巅峰，转身养成高冷校花 (2025)
-https://tyyszywvod2.com/videos/202611/15/6a3ddad5de7f0096de785b7b/6ee5g9/index.m3u8
-#EXTINF:-1 tvg-name="开局遭构陷，燕王掌乾坤" tvg-logo="https://www.imgzy360.com:7788/upload/vod/20261115-1/931d0fb74244df0c70ef7923f1f2f7f0.jpg" x-year="2026" x-rating="0.0" group-title="360资源站",开局遭构陷，燕王掌乾坤 (2026)
-https://vod1.maowushi.com/20261114/yG5f0pRD/index.m3u8
-#EXTINF:-1 tvg-name="异人旅馆2" tvg-logo="https://www.imgzy360.com:7788/upload/vod/20261005-1/9b5501f3506f0489e1a59a216b13fb4f.webp" x-year="2026" x-rating="0.0" group-title="360资源站",异人旅馆2 (2026)
-https://vod1.maowushi.com/20261005/Nps8oBDk/index.m3u8
-#EXTINF:-1 tvg-name="异能研究所 第二季" tvg-logo="https://img.ukuapi88.com/upload/vod/20261109-1/a1ab516c25ee4e3b6149dd3965da3073.webp" x-year="2026" x-rating="0.0" group-title="U酷",异能研究所 第二季 (2026)
-https://ukzy.ukubf8.com/share/qYNczfBSIG
-#EXTINF:-1 tvg-name="异能研究所第二季" tvg-logo="https://www.mdzypic.com/upload/vod/20261108-1/a91e971fde2f4256893d1f2bdb6d5e6e.webp" x-year="2025" x-rating="0.0" group-title="魔都资源网",异能研究所第二季 (2025)
-https://play.modujx17.com/20261108/FvKs3k6E/index.m3u8
-#EXTINF:-1 tvg-name="弊家伙！有嘢唔见咗！" tvg-logo="https://empimage.slcache.com/metadata/artwork/source/poster/e78362e18ad3fdd93e33185950f9fdcb19e71d076e6bd7cad3e077e18ecb075d.jpg" x-year="2026" x-rating="0.0" group-title="juliang",弊家伙！有嘢唔见咗！ (2026)
-https://jimaoys90.com/public/playback/1ea1c741211a739c65156aaaa7764a4d/smart.m3u8
-#EXTINF:-1 tvg-name="引火烧身" tvg-logo="https://tyyswimg2.com/upload/vod/20261115-1/56e86efadd9364bfd23d6154875b87a3.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",引火烧身 (2025)
-https://tyyszywvod2.com/videos/202611/15/6a3dd920de7f0096de785878/940f84/index.m3u8
-#EXTINF:-1 tvg-name="当家爸爸的聚会2" tvg-logo="https://img.bdzyimg1.com/upload/vod/20261115-1/2ea01bd465dd3b5cf888d445d39dc0ed.jpg" x-year="2026" x-rating="0.0" group-title="百度资源",当家爸爸的聚会2 (2026)
-https://b3.bdzybf22.com/videos/202610/18/6ad460f213f8cfc0dd640ec4/8add0c/index.m3u8
-#EXTINF:-1 tvg-name="影子姐妹2026" tvg-logo="https://kuaichezyimg.com/upload/vod/20261114-1/902c8dc54af8e6995e2fd06c77f0452e.jpg" x-year="2026" x-rating="0.0" group-title="快车资源网",影子姐妹2026 (2026)
-https://v15.kuaichezym3u8.com/yyv15/202610/23/08Mv95A7Nz27/video/index.m3u8
-#EXTINF:-1 tvg-name="影帝只想官宣" tvg-logo="https://img.ukuapi88.com/upload/vod/20261115-1/e06dbaa7ce277c92ae060f1b2854669d.jpg" x-year="2026" x-rating="0.0" group-title="U酷",影帝只想官宣 (2026)
-https://ukzyvod3.ukubf5.com/share/C1WT36ycbD
-#EXTINF:-1 tvg-name="心跳响铃" tvg-logo="https://tyyswimg2.com/upload/vod/20261116-1/f7a80d0cff23a4498209c98d1dfa1dfe.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",心跳响铃 (2025)
-https://tyyszywvod2.com/videos/202611/15/6a3ddaaade7f0096de785b75/ga4506/index.m3u8
-#EXTINF:-1 tvg-name="怒之杀国语" tvg-logo="https://pic.niuniuzy.info/upload/vod/20261114-1/6a455e8d8d588350c12f7b2dd5fc13cd.jpg" x-year="2026" x-rating="0.0" group-title="牛牛资源网",怒之杀国语 (2026)
-https://v14.gghijk.com/yyv14/202611/14/zYt4xRxgQ927/video/index.m3u8
-#EXTINF:-1 tvg-name="总裁的遁地护卫" tvg-logo="https://www.imgzy360.com:7788/upload/vod/20261115-1/96e1c74170132cdf10538ae5e9987c3c.jpg" x-year="2026" x-rating="0.0" group-title="360资源站",总裁的遁地护卫 (2026)
-https://vod1.maowushi.com/20261114/7Xvdbu94/index.m3u8
-#EXTINF:-1 tvg-name="恐怖副本：我的发财副本第三季" tvg-logo="https://tu.iqiyizyimg.com/upload/vod/20261115-1/52cc0057faa4e69d30948707176e648c.jpg" x-year="2026" x-rating="0.0" group-title="爱奇艺资源站",恐怖副本：我的发财副本第三季 (2026)
-https://play.ly166.com:65/videos/20261115/6af89eab475251072c31fe3d/a7db49/index.m3u8
-#EXTINF:-1 tvg-name="惹凤归" tvg-logo="https://www.imgzy360.com:7788/upload/vod/20261115-1/9d3828e46a41300e551ec39a134679ad.jpg" x-year="2026" x-rating="0.0" group-title="360资源站",惹凤归 (2026)
-https://vod1.maowushi.com/20261114/1G5RdEiI/index.m3u8
-#EXTINF:-1 tvg-name="成为休曼" tvg-logo="https://kuaichezyimg.com/upload/vod/20261115-1/baa53a47d1df3c459b75c45e7fb4d9e4.jpg" x-year="2026" x-rating="0.0" group-title="快车资源网",成为休曼 (2026)
-https://v13.kuaichezym3u8.com/yyv13/202611/15/dhVWwTkawi27/video/index.m3u8
-#EXTINF:-1 tvg-name="我和妈妈的长征" tvg-logo="https://empimage.slcache.com/metadata/artwork/source/poster/42a7b4377efc58c1723dbf1517b33a3f66de0df39ed814d03fad2a6d7f01b362.webp" x-year="2016" x-rating="0.0" group-title="juliang",我和妈妈的长征 (2016)
-https://jimaoys94.com/public/playback/7163fb5a2ed33933600d04795c24f37e/smart.m3u8
-#EXTINF:-1 tvg-name="我在故宫修文物2016[电影解说]" tvg-logo="https://empimage.slcache.com/metadata/artwork/source/poster/16689748bff30de7a90687ffc5a0e659568b191973bdb9a29e8fcec95e71e6d7.webp" x-year="2016" x-rating="0.0" group-title="juliang",我在故宫修文物2016[电影解说] (2016)
-https://jimaoys96.com/public/playback/666e6aceba417b1cb213d8c47e926cfd/smart.m3u8
-#EXTINF:-1 tvg-name="我在末世打脸女主了第二季" tvg-logo="https://img.ukuapi88.com/upload/vod/20261115-1/8daea5c139c93dcda6bcb7a9bbfdd9d8.jpg" x-year="2026" x-rating="0.0" group-title="U酷",我在末世打脸女主了第二季 (2026)
-https://ukzyvod3.ukubf5.com/share/x3uSgLAxEI
-#EXTINF:-1 tvg-name="我很想爱他" tvg-logo="https://tyyswimg2.com/upload/vod/20261115-1/db44e2fffee2c2f60cd934dd0fb3dac3.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",我很想爱他 (2025)
-https://tyyszywvod2.com/videos/202611/15/6a3dda7fde7f0096de785b71/c7g8g2/index.m3u8
-#EXTINF:-1 tvg-name="我扶发小青云志，发小还我万两金" tvg-logo="https://kuaichezyimg.com/upload/vod/20261115-1/b097188acaff818b118eb0adea88d9df.jpg" x-year="2026" x-rating="0.0" group-title="快车资源网",我扶发小青云志，发小还我万两金 (2026)
-https://v14.kuaichezym3u8.com/yyv14/202611/15/NkVs1an4c827/video/index.m3u8
-#EXTINF:-1 tvg-name="我是神级房东：我的租客各个都是大佬" tvg-logo="https://img.ukuapi88.com/upload/vod/20261115-1/4fca40038731b616f2b5f6209fe8dc6a.jpg" x-year="2026" x-rating="0.0" group-title="U酷",我是神级房东：我的租客各个都是大佬 (2026)
-https://ukzyvod3.ukubf5.com/share/qFlmdUsLva
-#EXTINF:-1 tvg-name="我替嫁后母仪天下" tvg-logo="https://kuaichezyimg.com/upload/vod/20261115-1/07a6657c05185d5bf717e6b707f23bd8.jpg" x-year="2026" x-rating="0.0" group-title="快车资源网",我替嫁后母仪天下 (2026)
-https://v15.kuaichezym3u8.com/yyv15/202611/15/vdEMbNXgGM27/video/index.m3u8
-#EXTINF:-1 tvg-name="我独自生活" tvg-logo="https://pic.niuniuzy.info/upload/vod/20261114-1/e0c0a7b9305fb0051062d42314531be1.jpg" x-year="2018" x-rating="0.0" group-title="牛牛资源网",我独自生活 (2018)
-https://v14.gghijk.com/yyv14/202607/18/UhPXnp75Li27/video/index.m3u8
-#EXTINF:-1 tvg-name="我的甜蜜家园" tvg-logo="https://kuaichezyimg.com/upload/vod/20261114-1/cb3f76d0927f378ae346b6597101dd3a.jpg" x-year="1985" x-rating="0.0" group-title="快车资源网",我的甜蜜家园 (1985)
-https://v7.kuaichezym3u8.com/yyv7/202406/06/VL2VhAJRrR13/video/index.m3u8
-#EXTINF:-1 tvg-name="我的老婆深藏不露" tvg-logo="https://kuaichezyimg.com/upload/vod/20261115-1/cca6217f110b74a8d576c2bc3f52af2b.jpg" x-year="2026" x-rating="0.0" group-title="快车资源网",我的老婆深藏不露 (2026)
-https://v14.kuaichezym3u8.com/yyv14/202611/15/8JRMWKRsmH27/video/index.m3u8
-#EXTINF:-1 tvg-name="我的麻烦小助理" tvg-logo="https://kuaichezyimg.com/upload/vod/20261115-1/5e08e2fc38fc63bbdca133280d781b13.jpg" x-year="2026" x-rating="0.0" group-title="快车资源网",我的麻烦小助理 (2026)
-https://v15.kuaichezym3u8.com/yyv15/202611/15/Ck3235Cg1t27/video/index.m3u8
-#EXTINF:-1 tvg-name="我真没想离婚啊" tvg-logo="https://tyyswimg2.com/upload/vod/20261115-1/c05698f1e5ad6b58b86079400a80e559.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",我真没想离婚啊 (2025)
-https://tyyszywvod2.com/videos/202611/15/6a3dd9cdde7f0096de785b62/3a9dbe/index.m3u8
-#EXTINF:-1 tvg-name="我靠演技攻略影帝" tvg-logo="https://tyyswimg2.com/upload/vod/20261115-1/5609b433c4731e7856cf38c67a284d24.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",我靠演技攻略影帝 (2025)
-https://tyyszywvod2.com/videos/202611/15/6a3dda1cde7f0096de785b66/55682b/index.m3u8
-#EXTINF:-1 tvg-name="拣选 第六季" tvg-logo="https://p.bfp261112.com/upload/vod/20261115-1/4dab768cc9c5c3ffe4037c34d591b270.webp" x-year="2026" x-rating="0.0" group-title="暴风采集",拣选 第六季 (2026)
-https://v.fengbao14.com/video/jianxuandiliuji/e4c74702595c/index.m3u8
-#EXTINF:-1 tvg-name="摄政王他超会宠" tvg-logo="https://empimage.slcache.com/metadata/artwork/source/poster/73d032756d2134a9001e40239e52f8a5ebef36340fc00f0a3b405e2979c785bb.png" x-year="2025" x-rating="0.0" group-title="juliang",摄政王他超会宠 (2025)
-https://jimaoys88.com/public/playback/341ae05c012bf1eb1db0eea52f9b04cc/smart.m3u8
-#EXTINF:-1 tvg-name="新老娘舅" tvg-logo="https://kuaichezyimg.com/upload/vod/20261114-1/3d9dfb3d7a978fd6d40db282992d94e0.jpg" x-year="2012" x-rating="0.0" group-title="快车资源网",新老娘舅 (2012)
-https://v7.kuaichezym3u8.com/yyv7/202406/15/Ubg4P5iwVJ13/video/index.m3u8
-#EXTINF:-1 tvg-name="无上神帝" tvg-logo="https://kuaichezyimg.com/upload/vod/20261114-1/567d2d48355fbd8f03d8842097e3c176.jpg" x-year="2020" x-rating="0.0" group-title="快车资源网",无上神帝 (2020)
-https://v6.kuaichezym3u8.com/yyv6/202309/08/4Tcy1iG9SE1/video/index.m3u8
-#EXTINF:-1 tvg-name="旧宅之旅：我坠入虚幻空间" tvg-logo="https://kuaichezyimg.com/upload/vod/20261115-1/4b75c44bc0643e8857691ef3ef103dbb.jpg" x-year="2026" x-rating="0.0" group-title="快车资源网",旧宅之旅：我坠入虚幻空间 (2026)
-https://v13.kuaichezym3u8.com/yyv13/202611/15/41PYCWss9D27/video/index.m3u8
-#EXTINF:-1 tvg-name="星龙崽语" tvg-logo="https://img.ukuapi88.com/upload/vod/20261115-1/8a2e03e0787b527a6c3411c097b81428.jpg" x-year="2026" x-rating="0.0" group-title="U酷",星龙崽语 (2026)
-https://ukzyvod3.ukubf5.com/share/E5RKWmRUF1
-#EXTINF:-1 tvg-name="春日微醺" tvg-logo="https://tyyswimg2.com/upload/vod/20261116-1/c3b7656933fea060f2cb47166a331902.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",春日微醺 (2025)
-https://tyyszywvod2.com/videos/202611/15/6a3dda5cde7f0096de785b6e/54dc5c/index.m3u8
-#EXTINF:-1 tvg-name="春色已去落花雨" tvg-logo="https://tyyswimg2.com/upload/vod/20261116-1/c64dedc9875369ef16408b9b879957dd.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",春色已去落花雨 (2025)
-https://tyyszywvod2.com/videos/202611/15/6a3ddabcde7f0096de785b79/7556cd/index.m3u8
-#EXTINF:-1 tvg-name="晚秋寄情" tvg-logo="https://pic.niuniuzy.info/upload/vod/20261114-1/259801e9a5d276883c46ec1572d879c5.jpg" x-year="2026" x-rating="0.0" group-title="牛牛资源网",晚秋寄情 (2026)
-https://v14.gghijk.com/yyv14/202611/10/dvdRBvpEwR27/video/index.m3u8
-#EXTINF:-1 tvg-name="晚酌的流派5：秋?冬篇" tvg-logo="https://kuaichezyimg.com/upload/vod/20261114-1/84fa280cde87923fcce8701ea04dab7b.jpg" x-year="2026" x-rating="0.0" group-title="快车资源网",晚酌的流派5：秋?冬篇 (2026)
-https://v14.kuaichezym3u8.com/yyv14/202610/03/Ua0PXpx3mD27/video/index.m3u8
-#EXTINF:-1 tvg-name="暗恋我十年不说幸好有弹幕剧透" tvg-logo="https://tyyswimg2.com/upload/vod/20261115-1/76df1292b2d5ef0e88a9ae2c13c3416a.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",暗恋我十年不说幸好有弹幕剧透 (2025)
-https://tyyszywvod2.com/videos/202611/15/6a3dd9aede7f0096de785b5e/79g4d6/index.m3u8
-#EXTINF:-1 tvg-name="暗里沉迷" tvg-logo="https://tyyswimg2.com/upload/vod/20261115-1/641d220a3d07e17e4bbf6c5abd4afba6.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",暗里沉迷 (2025)
-https://tyyszywvod2.com/videos/202611/15/6a3dda3ade7f0096de785b6a/fa09ce/index.m3u8
-#EXTINF:-1 tvg-name="朋友别见外" tvg-logo="https://tu.iqiyizyimg.com/upload/vod/20260927-1/2768189de03543896f51396eea250067.jpg" x-year="2026" x-rating="0.0" group-title="爱奇艺资源站",朋友别见外 (2026)
-https://play.ly166.com:65/videos/20260927/6ab8b8f42f204a4c9ed463a6/af6a68/index.m3u8
-#EXTINF:-1 tvg-name="朝朝来池" tvg-logo="https://tyyswimg2.com/upload/vod/20261116-1/bfecf0b0f81c8ba27112f0fbace408d7.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",朝朝来池 (2025)
-https://tyyszywvod2.com/videos/202611/15/6a3ddaaede7f0096de785b76/ed1762/index.m3u8
-#EXTINF:-1 tvg-name="未落款的家书" tvg-logo="https://kuaichezyimg.com/upload/vod/20261115-1/b89f33f5e23382f6f4bd105ffcac710e.jpg" x-year="2026" x-rating="0.0" group-title="快车资源网",未落款的家书 (2026)
-https://v13.kuaichezym3u8.com/yyv13/202611/15/MrvQmGpcSv27/video/index.m3u8
-#EXTINF:-1 tvg-name="李太白下凡记：长安篇" tvg-logo="https://www.mdzypic.com/upload/vod/20261018-1/d6c20081d20449c60251e750075a46ad.jpg" x-year="2026" x-rating="0.0" group-title="魔都资源网",李太白下凡记：长安篇 (2026)
-https://play.modujx17.com/20261018/Tw2t6kWt/index.m3u8
-#EXTINF:-1 tvg-name="李太白下凡记：长安篇" tvg-logo="https://tu.iqiyizyimg.com/upload/vod/20261018-1/d908c6760efe9c67b8223877a91d723f.jpg" x-year="2025" x-rating="0.0" group-title="爱奇艺资源站",李太白下凡记：长安篇 (2025)
-https://play.ly166.com:65/videos/20261018/6ad4b2fbeab8874c97687eb9/dfg76c/index.m3u8
-#EXTINF:-1 tvg-name="此生要去的100个地方" tvg-logo="https://empimage.slcache.com/metadata/artwork/tmdb/tv/255818/poster/15de7f53fc685f3a54e25d33d61bdd773733b1bd6356d9d623932f00224b7b63.webp" x-year="2024" x-rating="0.0" group-title="juliang",此生要去的100个地方 (2024)
-https://jimaoys90.com/public/playback/188623c4e4a633b7f4a53b8a68373f80/smart.m3u8
-#EXTINF:-1 tvg-name="此生要去的100个地方第二季" tvg-logo="https://p.bfp261112.com/upload/vod/20261109-1/fd6961daceaf0b429462f6d1a791365f.webp" x-year="2026" x-rating="0.0" group-title="暴风采集",此生要去的100个地方第二季 (2026)
-https://v.fengbao14.com/video/cishengyaoqude100gedifangdi2ji/34b277072e0f/index.m3u8
-#EXTINF:-1 tvg-name="此生要去的的100个地方" tvg-logo="https://empimage.slcache.com/metadata/artwork/source/poster/24346a13fc82fb6acd393fc92d05315a733ae27544fddf82e214900acbaba590.jpg" x-year="未知" x-rating="0.0" group-title="juliang",此生要去的的100个地方
-https://jimaoys90.com/public/playback/4b9edf066b02292582c68bdf43517708/smart.m3u8
-#EXTINF:-1 tvg-name="武则天降妖记[电影解说]" tvg-logo="https://empimage.slcache.com/metadata/artwork/source/poster/590d3c909eb2242088b391d87cb9691d11d1298f59aaccf0bdba714935dc5d30.webp" x-year="未知" x-rating="0.0" group-title="juliang",武则天降妖记[电影解说]
-https://jimaoys96.com/public/playback/aa163b15a5037e31885d5b6c32c3e765/smart.m3u8
-#EXTINF:-1 tvg-name="母亲受辱，我用透视眼鉴宝翻盘" tvg-logo="https://www.imgzy360.com:7788/upload/vod/20261115-1/a0ffc52bac8759ee9bb1d3036459dddb.jpg" x-year="2026" x-rating="0.0" group-title="360资源站",母亲受辱，我用透视眼鉴宝翻盘 (2026)
-https://vod1.maowushi.com/20261114/tkrBaeWo/index.m3u8
-#EXTINF:-1 tvg-name="治安官之乡第二季" tvg-logo="https://kuaichezyimg.com/upload/vod/20261114-1/54ef577aa2fd958564e0d7c31b644b50.jpg" x-year="2026" x-rating="0.0" group-title="快车资源网",治安官之乡第二季 (2026)
-https://v15.kuaichezym3u8.com/yyv15/202610/10/rqCLVWf39t27/video/index.m3u8
-#EXTINF:-1 tvg-name="深情错付-许小姐高调离场" tvg-logo="https://www.imgzy360.com:7788/upload/vod/20261115-1/a791c8d564e3a0f2a4076e02c9d558ed.jpg" x-year="2026" x-rating="0.0" group-title="360资源站",深情错付-许小姐高调离场 (2026)
-https://vod1.maowushi.com/20261114/SYVMyemR/index.m3u8
-#EXTINF:-1 tvg-name="潜伏：附身" tvg-logo="https://img.ukuapi88.com/upload/vod/20261115-1/6d866d32d98b709e1c0f43d16788c29f.jpg" x-year="2026" x-rating="0.0" group-title="U酷",潜伏：附身 (2026)
-https://ukzyvod3.ukubf5.com/share/77bb0Ml1RN
-#EXTINF:-1 tvg-name="灵珠传：神妙奇珠" tvg-logo="https://kuaichezyimg.com/upload/vod/20261115-1/1801f2be674fb968f4407403ca82feee.jpg" x-year="2026" x-rating="0.0" group-title="快车资源网",灵珠传：神妙奇珠 (2026)
-https://v14.kuaichezym3u8.com/yyv14/202607/18/EMLGU1vYeA27/video/index.m3u8
-#EXTINF:-1 tvg-name="灵魂重生" tvg-logo="https://kuaichezyimg.com/upload/vod/20261115-1/be55a0631d0e47209e978cfa3ad84b64.jpg" x-year="2025" x-rating="0.0" group-title="快车资源网",灵魂重生 (2025)
-https://v13.kuaichezym3u8.com/yyv13/202508/10/g8C5c7Kn3024/video/index.m3u8
-#EXTINF:-1 tvg-name="焚尽旧梦燃星火" tvg-logo="https://tyyswimg2.com/upload/vod/20261115-1/2dd27611829fe51bdb581bda49d1b503.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",焚尽旧梦燃星火 (2025)
-https://tyyszywvod2.com/videos/202611/15/6a3dda30de7f0096de785b69/bb3dfa/index.m3u8
-#EXTINF:-1 tvg-name="爱情来了2026" tvg-logo="https://www.mdzypic.com/upload/vod/20260726-1/b6af47621000190a99974de9eda56cd1.webp" x-year="2026" x-rating="0.0" group-title="魔都资源网",爱情来了2026 (2026)
-https://play.modujx17.com/20260726/SSudopoD/index.m3u8
-#EXTINF:-1 tvg-name="爱意难追" tvg-logo="https://tyyswimg2.com/upload/vod/20261116-1/13ab4637d816fe92b1a675f36a0552af.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",爱意难追 (2025)
-https://tyyszywvod2.com/videos/202611/15/6a3ddac9de7f0096de785b7a/043gf4/index.m3u8
-#EXTINF:-1 tvg-name="爱的烙印" tvg-logo="https://empimage.slcache.com/metadata/artwork/source/poster/53dfd52ad7067c0d742a4437ffffe1529b7f1f83641dc8c01949cab03d1a5bb7.webp" x-year="2026" x-rating="0.0" group-title="juliang",爱的烙印 (2026)
-https://jimaoys94.com/public/playback/1dc1c2821cda71a40399caf80cd93016/smart.m3u8
-#EXTINF:-1 tvg-name="爱要拐几个弯才来" tvg-logo="https://tyyswimg2.com/upload/vod/20261115-1/4ccd4065dba235ac220540de23c89f41.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",爱要拐几个弯才来 (2025)
-https://tyyszywvod2.com/videos/202611/15/6a3dda11de7f0096de785b65/863be1/index.m3u8
-#EXTINF:-1 tvg-name="爸爸当家的聚会·2026" tvg-logo="https://www.mdzypic.com/upload/vod/20260504-1/4214ec975e126802922a764195c2eda7.webp" x-year="2026" x-rating="0.0" group-title="魔都资源网",爸爸当家的聚会·2026 (2026)
-https://play.modujx11.com/20260504/WKDhvJDh/index.m3u8
-#EXTINF:-1 tvg-name="王爷的救命猫" tvg-logo="https://img.ukuapi88.com/upload/vod/20261115-1/9c728c88405e924b4cd57fc53c9dc6d4.jpg" x-year="2026" x-rating="0.0" group-title="U酷",王爷的救命猫 (2026)
-https://ukzyvod3.ukubf5.com/share/Zi4hu9QJtn
-#EXTINF:-1 tvg-name="玫瑰战争 国语" tvg-logo="https://img.ukuapi88.com/upload/vod/20261107-1/fd0d6b143711fa174164b2a6844e1e6c.jpg" x-year="2026" x-rating="0.0" group-title="U酷",玫瑰战争 国语 (2026)
-https://ukzy.ukubf3.com/share/SxaG9e78CU
-#EXTINF:-1 tvg-name="玫瑰战争 粤语" tvg-logo="https://img.ukuapi88.com/upload/vod/20261107-1/5d08fc176af682b685d8956484c9e124.jpg" x-year="2026" x-rating="0.0" group-title="U酷",玫瑰战争 粤语 (2026)
-https://ukzy.ukubf3.com/share/FAHvaY9Fhb
-#EXTINF:-1 tvg-name="玫瑰战争国语" tvg-logo="https://www.mdzypic.com/upload/vod/20261106-1/a8dcf414b195cfe41421518c82c29401.webp" x-year="2026" x-rating="0.0" group-title="魔都资源网",玫瑰战争国语 (2026)
-https://play.modujx17.com/20261106/sCD98XHM/index.m3u8
-#EXTINF:-1 tvg-name="现在就出发 第四季" tvg-logo="https://pic.niuniuzy.info/upload/vod/20261114-1/c03bd0f5a45b09e31df2bd545d016a55.jpg" x-year="2026" x-rating="0.0" group-title="牛牛资源网",现在就出发 第四季 (2026)
-https://v15.gghijk.com/yyv15/202609/14/v9WzjJMFjQ27/video/index.m3u8
-#EXTINF:-1 tvg-name="生若无缘，一别两宽" tvg-logo="https://tyyswimg2.com/upload/vod/20261115-1/b8fdf0a5ead6e71659955ae3fb1f86c5.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",生若无缘，一别两宽 (2025)
-https://tyyszywvod2.com/videos/202611/15/6a3dda1cde7f0096de785b67/c8d201/index.m3u8
-#EXTINF:-1 tvg-name="盲眼嫡子落难，陋舍羁绊渡风雪" tvg-logo="https://img.ukuapi88.com/upload/vod/20261115-1/e601294d1121a3d5ebedaf13824f9bee.jpg" x-year="2026" x-rating="0.0" group-title="U酷",盲眼嫡子落难，陋舍羁绊渡风雪 (2026)
-https://ukzyvod3.ukubf5.com/share/k1g3pl35CO
-#EXTINF:-1 tvg-name="真田十勇士：十忍之影" tvg-logo="https://img.ukuapi88.com/upload/vod/20261026-1/bbd9b6fc53d24d3e3478269b1f8e009a.jpg" x-year="2026" x-rating="0.0" group-title="U酷",真田十勇士：十忍之影 (2026)
-https://ukzy.ukubf8.com/share/brTQimH65Q
-#EXTINF:-1 tvg-name="碧血剑" tvg-logo="https://empimage.slcache.com/metadata/artwork/source/poster/20984bdea73a87ed3cd9fbb6bef566b51b161132f9beacff5b351b07476664bf.jpg" x-year="未知" x-rating="0.0" group-title="juliang",碧血剑
-https://jimaoys94.com/public/playback/aa5d75058531655c33ed357c5341a57b/smart.m3u8
-#EXTINF:-1 tvg-name="神级房东：我的租客各个都是大佬第一季" tvg-logo="https://img.ukuapi88.com/upload/vod/20261115-1/bf3280e13bc3ffedbb88522d3f01d405.jpg" x-year="2026" x-rating="0.0" group-title="U酷",神级房东：我的租客各个都是大佬第一季 (2026)
-https://ukzyvod3.ukubf5.com/share/UnkDQCkgWb
-#EXTINF:-1 tvg-name="神龙寻宝图" tvg-logo="https://www.imgzy360.com:7788/upload/vod/20261115-1/edfed20833d431906673a090cd9e9a37.jpg" x-year="2026" x-rating="0.0" group-title="360资源站",神龙寻宝图 (2026)
-https://vod1.maowushi.com/20261114/69m8aMFt/index.m3u8
-#EXTINF:-1 tvg-name="穿进男频求生文，我卷爆男主" tvg-logo="https://img.ukuapi88.com/upload/vod/20261115-1/eb76f41e42c4d1121a93bd3faeb59c91.jpg" x-year="2026" x-rating="0.0" group-title="U酷",穿进男频求生文，我卷爆男主 (2026)
-https://ukzyvod3.ukubf5.com/share/DdUZciP2yG
-#EXTINF:-1 tvg-name="索命鬼妈" tvg-logo="https://p.bfp261112.com/upload/vod/20261115-1/93c083189b0d2326685c08a4a87fde8a.webp" x-year="2025" x-rating="0.0" group-title="暴风采集",索命鬼妈 (2025)
-https://v.fengbao14.com/video/suomingguima/1684c61c38c3/index.m3u8
-#EXTINF:-1 tvg-name="紧急呼救：纳什维尔 第二季" tvg-logo="https://img.ukuapi88.com/upload/vod/20261115-1/e1eae3b2f4382ac4c3bdbc33bdb02f0d.webp" x-year="2026" x-rating="0.0" group-title="U酷",紧急呼救：纳什维尔 第二季 (2026)
-https://ukzy.ukubf8.com/share/gD8CMPJgPw
-#EXTINF:-1 tvg-name="纯阳龙盒：我的复仇征途" tvg-logo="https://www.imgzy360.com:7788/upload/vod/20261115-1/c25925f86eb7523d0b3f9cd090d5d1cd.jpg" x-year="2026" x-rating="0.0" group-title="360资源站",纯阳龙盒：我的复仇征途 (2026)
-https://vod1.maowushi.com/20261114/CfNZIwO0/index.m3u8
-#EXTINF:-1 tvg-name="纵横异界，携萌娃再逆袭" tvg-logo="https://img.ukuapi88.com/upload/vod/20261115-1/c91422e88a2e10ff1c86031b15845d03.jpg" x-year="2026" x-rating="0.0" group-title="U酷",纵横异界，携萌娃再逆袭 (2026)
-https://ukzyvod3.ukubf5.com/share/VFacLjF8nU
-#EXTINF:-1 tvg-name="维多利亚时代的精神病人" tvg-logo="https://img.ukuapi88.com/upload/vod/20261115-1/6f3811186072eb3d2b503e8706e97989.jpg" x-year="2026" x-rating="0.0" group-title="U酷",维多利亚时代的精神病人 (2026)
-https://ukzyvod3.ukubf5.com/share/LWsSjBzXzS
-#EXTINF:-1 tvg-name="缘定此生" tvg-logo="https://tyyswimg2.com/upload/vod/20261115-1/579265923fd3e0b15c1c2a39acc03b93.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",缘定此生 (2025)
-https://tyyszywvod2.com/videos/202611/15/6a3dda26de7f0096de785b68/g398ga/index.m3u8
-#EXTINF:-1 tvg-name="美味的校餐第四季" tvg-logo="https://www.mdzypic.com/upload/vod/20261022-1/1ae6a7c28d545c720b23cdaffd34513a.webp" x-year="2026" x-rating="0.0" group-title="魔都资源网",美味的校餐第四季 (2026)
-https://play.modujx17.com/20261022/MfoxN6xs/index.m3u8
-#EXTINF:-1 tvg-name="群英会2018" tvg-logo="https://kuaichezyimg.com/upload/vod/20261115-1/258a354b941475eb3847a8532a5c91e8.jpg" x-year="2018" x-rating="0.0" group-title="快车资源网",群英会2018 (2018)
-https://v5.kuaichezym3u8.com/yyv5/202309/06/XKNVb36tuF1/video/index.m3u8
-#EXTINF:-1 tvg-name="老千4：别西卜之歌" tvg-logo="https://kuaichezyimg.com/upload/vod/20261114-1/39e328b06ae6d1b9efe8d788b821b6ee.jpg" x-year="2026" x-rating="0.0" group-title="快车资源网",老千4：别西卜之歌 (2026)
-https://v13.kuaichezym3u8.com/yyv13/202611/13/zcg0cis7Yz27/video/index.m3u8
-#EXTINF:-1 tvg-name="艾伦的宇宙" tvg-logo="https://img.bdzyimg1.com/upload/vod/20261115-1/681f83bc17f0f16cb31651037b37f358.jpg" x-year="2026" x-rating="0.0" group-title="百度资源",艾伦的宇宙 (2026)
-https://b3.bdzybf22.com/videos/202611/15/6af94a1581cb94d4da8ee4bb/7539g2/index.m3u8
-#EXTINF:-1 tvg-name="花儿与少年 第八季" tvg-logo="https://img.bdzyimg1.com/upload/vod/20261115-1/b99b97bed989b341303520324bf41b15.jpg" x-year="2026" x-rating="0.0" group-title="百度资源",花儿与少年 第八季 (2026)
-https://b3.bdzybf22.com/videos/202609/05/6a9bb65113f8cfc0dd336475/g1cf37/index.m3u8
-#EXTINF:-1 tvg-name="花儿与少年2026" tvg-logo="https://www.mdzypic.com/upload/vod/20260904-1/1bffa143d552a2e5a007ef342acada5b.webp" x-year="2026" x-rating="0.0" group-title="魔都资源网",花儿与少年2026 (2026)
-https://play.modujx17.com/20260904/iBpmKYK8/index.m3u8
-#EXTINF:-1 tvg-name="苍蓝传承" tvg-logo="https://www.mdzypic.com/upload/vod/20261104-1/652fdc9fe64ff54ca8b0d445fe3933be.webp" x-year="2027" x-rating="0.0" group-title="魔都资源网",苍蓝传承 (2027)
-https://play.modujx17.com/20261104/x0LbKWop/index.m3u8
-#EXTINF:-1 tvg-name="苍蓝传承" tvg-logo="https://www.imgzy360.com:7788/upload/vod/20261107-1/5e830df5aab699bff4ecaf05fafb3182.webp" x-year="2026" x-rating="0.0" group-title="360资源站",苍蓝传承 (2026)
-https://vod1.maowushi.com/20261104/feDn5wRW/index.m3u8
-#EXTINF:-1 tvg-name="荒岛：从实习生到暴君" tvg-logo="https://kuaichezyimg.com/upload/vod/20261114-1/fe79e21b2e6f9ffe52e752ed7ac81ede.jpg" x-year="2026" x-rating="0.0" group-title="快车资源网",荒岛：从实习生到暴君 (2026)
-https://v14.kuaichezym3u8.com/yyv14/202611/13/7yugT3xBNn27/video/index.m3u8
-#EXTINF:-1 tvg-name="补天2026" tvg-logo="https://pic.niuniuzy.info/upload/vod/20261114-1/023c73004b9b260054b9aa0613543a19.jpg" x-year="2026" x-rating="0.0" group-title="牛牛资源网",补天2026 (2026)
-https://v13.gghijk.com/yyv13/202611/14/tqAgqgv3vR27/video/index.m3u8
-#EXTINF:-1 tvg-name="被读取心声后，玄学千金被全家宠" tvg-logo="https://tyyswimg2.com/upload/vod/20261116-1/7c1918f716bab36e4cd20c1ca5224b7e.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",被读取心声后，玄学千金被全家宠 (2025)
-https://tyyszywvod2.com/videos/202611/15/6a3dda97de7f0096de785b74/a7fe73/index.m3u8
-#EXTINF:-1 tvg-name="被退婚后，嫁给年代文里的野巷少年第三季" tvg-logo="https://tu.iqiyizyimg.com/upload/vod/20261115-1/d9de057f164a494b6c0e9d208761e45d.jpg" x-year="2026" x-rating="0.0" group-title="爱奇艺资源站",被退婚后，嫁给年代文里的野巷少年第三季 (2026)
-https://play.ly166.com:65/videos/20261115/6af89e49475251072c30c26b/ab657a/index.m3u8
-#EXTINF:-1 tvg-name="裸辞做保姆我成了香饽饽" tvg-logo="https://tyyswimg2.com/upload/vod/20261115-1/2d8f582f2c2379adfb1bd9f96a0a7df1.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",裸辞做保姆我成了香饽饽 (2025)
-https://tyyszywvod2.com/videos/202611/15/6a3dda63de7f0096de785b6f/6e18de/index.m3u8
-#EXTINF:-1 tvg-name="角醒猎人欧米茄号角" tvg-logo="https://www.mdzypic.com/upload/vod/20260726-1/4c5febfcd037f81a6f8e1e88eca5a4ff.webp" x-year="2026" x-rating="0.0" group-title="魔都资源网",角醒猎人欧米茄号角 (2026)
-https://play.modujx17.com/20260726/lUr6VSHU/index.m3u8
-#EXTINF:-1 tvg-name="认识的哥哥" tvg-logo="https://img.bdzyimg1.com/upload/vod/20261115-1/91bbb6aca6d8baf3519f0c071f915c0c.jpg" x-year="2015" x-rating="0.0" group-title="百度资源",认识的哥哥 (2015)
-https://vod6.bdzybf11.com/20250113/chkJ6TiB/index.m3u8
-#EXTINF:-1 tvg-name="诱桑藜" tvg-logo="https://tyyswimg2.com/upload/vod/20261115-1/1792da9b4e18118ab0e2fe3076767a4e.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",诱桑藜 (2025)
-https://tyyszywvod2.com/videos/202611/15/6a3dda6cde7f0096de785b70/0eddb6/index.m3u8
-#EXTINF:-1 tvg-name="请别送我走" tvg-logo="https://tu.iqiyizyimg.com/upload/vod/20261115-1/c362a2751c9b87264ec5103f9e2f02c5.jpg" x-year="2026" x-rating="0.0" group-title="爱奇艺资源站",请别送我走 (2026)
-https://play.ly166.com:65/videos/20261115/6af89dcafc05020735b73720/gd822f/index.m3u8
-#EXTINF:-1 tvg-name="贺先生的隐婚蜜爱" tvg-logo="https://tyyswimg2.com/upload/vod/20261115-1/e333bac29cec9ae3af8ee0b4ec85b2c0.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",贺先生的隐婚蜜爱 (2025)
-https://tyyszywvod2.com/videos/202611/15/6a3dd918de7f0096de785877/33294d/index.m3u8
+#EXTINF:-1 tvg-name="雷吉·丁金斯的兴衰第二季" tvg-logo="https://snzypic.vip/upload/vod/20261103-1/ecd784734c4b3bbd6d7a1ee35f154f04.jpg" x-year="2026" x-rating="1.0" group-title="🌍VIP专享2K",雷吉·丁金斯的兴衰第二季 (2026)
+https://v15.rstu6.com/202611/03/FD1ztNETre27/video/index.m3u8
+#EXTINF:-1 tvg-name="11月17日 26-27赛季NBA常规赛 76人VS篮网" tvg-logo="https://snzypic.vip/upload/vod/20260115-1/c599c4af0e06449ede06122a05300038.png" x-year="2026" x-rating="0.0" group-title="🌍VIP专享2K",11月17日 26-27赛季NBA常规赛 76人VS篮网 (2026)
+https://v15.rstu6.com/202611/17/EenTwM9NT927/video/index.m3u8
+#EXTINF:-1 tvg-name="11月17日 26-27赛季NBA常规赛 公牛VS骑士" tvg-logo="https://snzypic.vip/upload/vod/20260115-1/c599c4af0e06449ede06122a05300038.png" x-year="2026" x-rating="0.0" group-title="🌍VIP专享2K",11月17日 26-27赛季NBA常规赛 公牛VS骑士 (2026)
+https://v14.rstu6.com/202611/17/gK4UZpTeac27/video/index.m3u8
+#EXTINF:-1 tvg-name="11月17日 26-27赛季NBA常规赛 勇士VS鹈鹕" tvg-logo="https://snzypic.vip/upload/vod/20260115-1/c599c4af0e06449ede06122a05300038.png" x-year="2026" x-rating="0.0" group-title="🌍VIP专享2K",11月17日 26-27赛季NBA常规赛 勇士VS鹈鹕 (2026)
+https://v14.rstu6.com/202611/17/mBWF2jfth127/video/index.m3u8
+#EXTINF:-1 tvg-name="11月17日 26-27赛季NBA常规赛 太阳VS掘金" tvg-logo="https://kuaichezyimg.com/upload/vod/20261117-1/37edf3b5d2158febcdfe797c781c1a39.png" x-year="2026" x-rating="0.0" group-title="快车资源网",11月17日 26-27赛季NBA常规赛 太阳VS掘金 (2026)
+https://v13.kuaichezym3u8.com/yyv13/202611/17/4CvYBSsntA27/video/index.m3u8
+#EXTINF:-1 tvg-name="11月17日 26-27赛季NBA常规赛 开拓者VS森林狼" tvg-logo="https://snzypic.vip/upload/vod/20260115-1/c599c4af0e06449ede06122a05300038.png" x-year="2026" x-rating="0.0" group-title="🌍VIP专享2K",11月17日 26-27赛季NBA常规赛 开拓者VS森林狼 (2026)
+https://v13.rstu6.com/202611/17/RqsayPmFRP27/video/index.m3u8
+#EXTINF:-1 tvg-name="11月17日 26-27赛季NBA常规赛 火箭VS热火" tvg-logo="https://snzypic.vip/upload/vod/20260115-1/c599c4af0e06449ede06122a05300038.png" x-year="2026" x-rating="0.0" group-title="🌍VIP专享2K",11月17日 26-27赛季NBA常规赛 火箭VS热火 (2026)
+https://v15.rstu6.com/202611/17/ALtgL1i0nN27/video/index.m3u8
+#EXTINF:-1 tvg-name="11月17日 26-27赛季NBA常规赛 灰熊VS奇才" tvg-logo="https://kuaichezyimg.com/upload/vod/20261117-1/c536e79869a0fc9bbca3f88e75118c26.png" x-year="2026" x-rating="0.0" group-title="快车资源网",11月17日 26-27赛季NBA常规赛 灰熊VS奇才 (2026)
+https://v13.kuaichezym3u8.com/yyv13/202611/17/0JkmsckxeU27/video/index.m3u8
+#EXTINF:-1 tvg-name="11月17日 26-27赛季NBA常规赛 魔术VS凯尔特人" tvg-logo="https://kuaichezyimg.com/upload/vod/20261117-1/cc6e868c57d337bfb828f91c90e0e213.png" x-year="2026" x-rating="0.0" group-title="快车资源网",11月17日 26-27赛季NBA常规赛 魔术VS凯尔特人 (2026)
+https://v15.kuaichezym3u8.com/yyv15/202611/17/bhLsumWhn527/video/index.m3u8
+#EXTINF:-1 tvg-name="​一念永恒完结季​" tvg-logo="https://www.mdzypic.com/upload/vod/20260722-1/86524c786050d48fc611ab75ab8b61de.webp" x-year="2026" x-rating="0.0" group-title="魔都资源网",​一念永恒完结季​ (2026)
+https://play.modujx17.com/20260722/mSvjvsmV/index.m3u8
+#EXTINF:-1 tvg-name="一不小心做了帝心白月光" tvg-logo="https://img.ukuapi88.com/upload/vod/20261117-1/f0a23349a437edb6f43aa199b3637083.webp" x-year="2026" x-rating="0.0" group-title="U酷",一不小心做了帝心白月光 (2026)
+https://ukzyvod3.ukubf5.com/share/ejqXJP27Z8
+#EXTINF:-1 tvg-name="一碗端不平的水" tvg-logo="https://www.mdzypic.com/upload/vod/20261117-1/b382389e8dae741ab0c38945580db2ec.jpg" x-year="2026" x-rating="0.0" group-title="魔都资源网",一碗端不平的水 (2026)
+https://play.modujx17.com/20261116/LQxyclJi/index.m3u8
+#EXTINF:-1 tvg-name="一碗米线一生情" tvg-logo="https://www.mdzypic.com/upload/vod/20261117-1/e0c60ed6645de320c2b9da20c7c192ff.jpg" x-year="2026" x-rating="0.0" group-title="魔都资源网",一碗米线一生情 (2026)
+https://play.modujx17.com/20261116/Jk7NpRku/index.m3u8
+#EXTINF:-1 tvg-name="一马当先" tvg-logo="https://kuaichezyimg.com/upload/vod/20261117-1/987ef8b9531295c0d3b79dc6d54c8133.jpg" x-year="2026" x-rating="0.0" group-title="快车资源网",一马当先 (2026)
+https://v15.kuaichezym3u8.com/yyv15/202611/12/g7Rqg4MYXN27/video/index.m3u8
+#EXTINF:-1 tvg-name="万界独尊" tvg-logo="https://kuaichezyimg.com/upload/vod/20261117-1/3be52489ce85597794906149d29b6798.jpg" x-year="2021" x-rating="0.0" group-title="快车资源网",万界独尊 (2021)
+https://v6.kuaichezym3u8.com/yyv6/202309/08/bZjiXN25Ah1/video/index.m3u8
+#EXTINF:-1 tvg-name="三十六计杀" tvg-logo="https://www.mdzypic.com/upload/vod/20261105-1/a9ea9a47bdd1eeb079a397568b7af389.webp" x-year="2026" x-rating="0.0" group-title="魔都资源网",三十六计杀 (2026)
+https://play.modujx17.com/20261105/prneQpJr/index.m3u8
+#EXTINF:-1 tvg-name="下井后我觉醒武魂真身" tvg-logo="https://tyyswimg3.com/upload/vod/20261118-1/cf48799d8fd62ac69b3a73eb39af5d76.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",下井后我觉醒武魂真身 (2025)
+https://tyyszywvod2.com/videos/202611/17/6a3dfd65de7f0096de78df81/d0d335/index.m3u8
+#EXTINF:-1 tvg-name="不出天牢就变强我镇压一切" tvg-logo="https://p.bfp261112.com/upload/vod/20261117-1/6717c0aabceb86393f63fa9414ae220b.jpg" x-year="2026" x-rating="0.0" group-title="暴风采集",不出天牢就变强我镇压一切 (2026)
+https://s3.bfllvip.com/video/buchutianlaojiubianqiangwozhenyayiqie/65bbca8db609/index.m3u8
+#EXTINF:-1 tvg-name="不想当总裁夫人的万人迷不是一个好保镖" tvg-logo="https://img.ukuapi88.com/upload/vod/20261117-1/38f4c24eb1e767e7660f2ebd55d180d2.jpg" x-year="2026" x-rating="0.0" group-title="U酷",不想当总裁夫人的万人迷不是一个好保镖 (2026)
+https://ukzyvod3.ukubf5.com/share/Xato0uCVI9
+#EXTINF:-1 tvg-name="不想睡的星期五" tvg-logo="https://tu.iqiyizyimg.com/upload/vod/20260814-1/4e2e5e2b7e40510f64251ae3225230e4.webp" x-year="2026" x-rating="0.0" group-title="爱奇艺资源站",不想睡的星期五 (2026)
+https://play.ly166.com:65/videos/20260813/6a7d51ab339f684cac13959b/5f7fca/index.m3u8
+#EXTINF:-1 tvg-name="中央情报局 第二季" tvg-logo="https://img.ukuapi88.com/upload/vod/20261007-1/280d41d8f30ce9c0ea004dd9a29d6c32.webp" x-year="2026" x-rating="0.0" group-title="U酷",中央情报局 第二季 (2026)
+https://ukzy.ukubf8.com/share/Skdz4OhD6A
+#EXTINF:-1 tvg-name="乔丹?门多萨的梦魇" tvg-logo="https://kuaichezyimg.com/upload/vod/20261117-1/41a68986e304ad6e8dc9f83ad0f86db3.jpg" x-year="2026" x-rating="0.0" group-title="快车资源网",乔丹?门多萨的梦魇 (2026)
+https://v15.kuaichezym3u8.com/yyv15/202609/22/8eZbgSsBwh27/video/index.m3u8
+#EXTINF:-1 tvg-name="乔兰书重生记之遇良人" tvg-logo="https://img.ukuapi88.com/upload/vod/20261117-1/0eccc15eb71ddf0d70cd7d5cf9b5710b.jpg" x-year="2026" x-rating="0.0" group-title="U酷",乔兰书重生记之遇良人 (2026)
+https://ukzyvod3.ukubf5.com/share/P0kEUnhyra
+#EXTINF:-1 tvg-name="乱世千金倪亚?利斯顿转生为娇弱千金的弑神武人华丽无双录" tvg-logo="https://kuaichezyimg.com/upload/vod/20261117-1/a6c44d0f935df187a2775e75435c669b.jpg" x-year="2026" x-rating="0.0" group-title="快车资源网",乱世千金倪亚?利斯顿转生为娇弱千金的弑神武人华丽无双录 (2026)
+https://v15.kuaichezym3u8.com/yyv15/202610/06/DT6V6KDFuH27/video/index.m3u8
+#EXTINF:-1 tvg-name="乱世千金倪亚‧利斯顿转生为娇弱千金的弑神武人华丽无双" tvg-logo="https://www.imgzy360.com:7788/upload/vod/20261006-1/a8ddf4bca04a14e3476b308fd3cd86c1.webp" x-year="2026" x-rating="0.0" group-title="360资源站",乱世千金倪亚‧利斯顿转生为娇弱千金的弑神武人华丽无双 (2026)
+https://vod1.maowushi.com/20261006/6Uha6Vnt/index.m3u8
+#EXTINF:-1 tvg-name="予君安" tvg-logo="https://p.bfp261112.com/upload/vod/20261117-1/cc9ff1be7b0a07fad18d55e3246d64d3.jpg" x-year="2026" x-rating="0.0" group-title="暴风采集",予君安 (2026)
+https://s3.bfllvip.com/video/yujunan/4df09c39202c/index.m3u8
+#EXTINF:-1 tvg-name="云宅吃瓜，我靠厨艺征服全家" tvg-logo="https://www.mdzypic.com/upload/vod/20261117-1/0129aca99986afd0f8e5a5d8bd2efada.jpg" x-year="2026" x-rating="0.0" group-title="魔都资源网",云宅吃瓜，我靠厨艺征服全家 (2026)
+https://play.modujx17.com/20261116/aASMguyt/index.m3u8
+#EXTINF:-1 tvg-name="云深处微光" tvg-logo="https://tyyswimg3.com/upload/vod/20261117-1/841545982ddf271012c31a9542429fba.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",云深处微光 (2025)
+https://tyyszywvod2.com/videos/202611/17/6a3dfc3ade7f0096de78d95b/b84494/index.m3u8
+#EXTINF:-1 tvg-name="今天影帝夫人掉马了吗" tvg-logo="https://tyyswimg3.com/upload/vod/20261118-1/7c469afa8ee5f11ed085da87505e86c3.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",今天影帝夫人掉马了吗 (2025)
+https://tyyszywvod2.com/videos/202611/17/6a3dfd42de7f0096de78df7c/beae92/index.m3u8
+#EXTINF:-1 tvg-name="仙葫芦奇缘" tvg-logo="https://p.bfp261112.com/upload/vod/20261117-1/1e53c24995fa0286cbb3191ab02cf972.jpg" x-year="2026" x-rating="0.0" group-title="暴风采集",仙葫芦奇缘 (2026)
+https://s3.bfllvip.com/video/xianhuluqiyuan/a2bfed0f59ee/index.m3u8
+#EXTINF:-1 tvg-name="以为当总裁签字变保安" tvg-logo="https://www.mdzypic.com/upload/vod/20261117-1/50a2935df0e171dadef1146f9bcc6417.jpg" x-year="2026" x-rating="0.0" group-title="魔都资源网",以为当总裁签字变保安 (2026)
+https://play.modujx17.com/20261116/3dQc0R1b/index.m3u8
+#EXTINF:-1 tvg-name="伦敦娇妻 第二季" tvg-logo="https://img.ukuapi88.com/upload/vod/20260908-1/e9246e2a83a5449bda288ff150cb9ef8.webp" x-year="2026" x-rating="0.0" group-title="U酷",伦敦娇妻 第二季 (2026)
+https://ukzy.ukubf8.com/share/vz58DRzeXv
+#EXTINF:-1 tvg-name="伦敦娇妻第二季" tvg-logo="https://img.bdzyimg1.com/upload/vod/20261117-1/0753622c1acf2c64d9eb50d190ebe59c.jpg" x-year="2026" x-rating="0.0" group-title="百度资源",伦敦娇妻第二季 (2026)
+https://b3.bdzybf22.com/videos/202609/08/6a9ef37013f8cfc0dd37244e/gfg17a/index.m3u8
+#EXTINF:-1 tvg-name="假面危情" tvg-logo="https://tyyswimg3.com/upload/vod/20261117-1/5c5d876ae72a5bf79e97cc77da0d6700.jpg" x-year="1997" x-rating="0.0" group-title="天涯影视资源",假面危情 (1997)
+https://tyyszywvod1.com/videos/202602/08/698730f674c3c50551302c42/529b38/index.m3u8
+#EXTINF:-1 tvg-name="偏爱之恋2" tvg-logo="https://img.bdzyimg1.com/upload/vod/20261117-1/cc1574bf0fe59820a8ce320bbe6242d9.jpg" x-year="2026" x-rating="0.0" group-title="百度资源",偏爱之恋2 (2026)
+https://b3.bdzybf22.com/videos/202610/20/6ad7510c83ea92c0f64d372b/e72ab0/index.m3u8
+#EXTINF:-1 tvg-name="偏爱之恋第二季" tvg-logo="https://www.mdzypic.com/upload/vod/20261020-1/21798c01f0e5f9ac284bf5dc0a67fe4c.webp" x-year="2026" x-rating="0.0" group-title="魔都资源网",偏爱之恋第二季 (2026)
+https://play.modujx17.com/20261020/CVdwdVhY/index.m3u8
+#EXTINF:-1 tvg-name="傅先生他又争又抢" tvg-logo="https://tyyswimg3.com/upload/vod/20261117-1/c7fc76a886eade04b438c9a724fd6637.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",傅先生他又争又抢 (2025)
+https://tyyszywvod2.com/videos/202611/17/6a3dfc13de7f0096de78d956/c0bbe5/index.m3u8
+#EXTINF:-1 tvg-name="全民召唤，骷髅兵自己考了剑圣" tvg-logo="https://img.ukuapi88.com/upload/vod/20261117-1/f83cda8a2d58e041625f8a239eb2005f.jpg" x-year="2026" x-rating="0.0" group-title="U酷",全民召唤，骷髅兵自己考了剑圣 (2026)
+https://ukzyvod3.ukubf5.com/share/4aLmoTYuAk
+#EXTINF:-1 tvg-name="公关危情" tvg-logo="https://tyyswimg3.com/upload/vod/20261117-1/90e50674ab22035a3448240fda867536.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",公关危情 (2025)
+https://tyyszywvod2.com/videos/202611/17/6a3dfd13de7f0096de78df77/5c4664/index.m3u8
+#EXTINF:-1 tvg-name="养家日记六零小当家" tvg-logo="https://img.ukuapi88.com/upload/vod/20261117-1/cd12deeeee3b9df279214b846cac50b6.jpg" x-year="2026" x-rating="0.0" group-title="U酷",养家日记六零小当家 (2026)
+https://ukzyvod3.ukubf5.com/share/A0uRJhaUi2
+#EXTINF:-1 tvg-name="凤起微月" tvg-logo="https://www.mdzypic.com/upload/vod/20261117-1/bd6b5ecea26c30f2ac470142850d1c53.webp" x-year="2026" x-rating="0.0" group-title="魔都资源网",凤起微月 (2026)
+https://play.modujx17.com/20261117/HlD4ZvfY/index.m3u8
+#EXTINF:-1 tvg-name="分手八年钟总依然超爱" tvg-logo="https://tyyswimg3.com/upload/vod/20261117-1/4c15d06a4e6ae678fc19cf4500ce71d8.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",分手八年钟总依然超爱 (2025)
+https://tyyszywvod2.com/videos/202611/17/6a3dfd0ade7f0096de78df76/fc3d1b/index.m3u8
+#EXTINF:-1 tvg-name="分手回岛大海成了我的黄金渔场" tvg-logo="https://tyyswimg3.com/upload/vod/20261117-1/a3db0729685bba219a370c94024f234b.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",分手回岛大海成了我的黄金渔场 (2025)
+https://tyyszywvod2.com/videos/202611/17/6a3dfc4bde7f0096de78d95e/e67a43/index.m3u8
+#EXTINF:-1 tvg-name="刻入心底的你" tvg-logo="https://tyyswimg3.com/upload/vod/20261117-1/f69e7a4f2a7991031cd0d2190cf4eb66.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",刻入心底的你 (2025)
+https://tyyszywvod2.com/videos/202611/17/6a3dfc9ade7f0096de78da31/0a2d37/index.m3u8
+#EXTINF:-1 tvg-name="卧底统御邪门，徒儿心性偏异       漫剧" tvg-logo="https://www.imgzy360.com:7788/upload/vod/20261117-1/7cafabf49cb6a4706897d3e40d191f09.jpg" x-year="2026" x-rating="0.0" group-title="360资源站",卧底统御邪门，徒儿心性偏异       漫剧 (2026)
+https://vod1.maowushi.com/20261117/NMTzYCS0/index.m3u8
+#EXTINF:-1 tvg-name="双妃穿越：王府搞钱养萌娃       漫剧" tvg-logo="https://www.imgzy360.com:7788/upload/vod/20261117-1/e8d9d5159a3c553869e94abbbf781100.jpg" x-year="2026" x-rating="0.0" group-title="360资源站",双妃穿越：王府搞钱养萌娃       漫剧 (2026)
+https://vod1.maowushi.com/20261116/T2ybYrSJ/index.m3u8
+#EXTINF:-1 tvg-name="发配罪妻，开荒养出边关战神       漫剧" tvg-logo="https://www.imgzy360.com:7788/upload/vod/20261117-1/4074cdb609c74308ab285d36790d0143.jpg" x-year="2026" x-rating="0.0" group-title="360资源站",发配罪妻，开荒养出边关战神       漫剧 (2026)
+https://vod1.maowushi.com/20261116/eDJ4rP6t/index.m3u8
+#EXTINF:-1 tvg-name="发配边关罪妻开荒养出战神真人AI版第二季" tvg-logo="https://www.imgzy360.com:7788/upload/vod/20261117-1/6d325f05dc8d4425cedfdb63f1837691.jpg" x-year="2026" x-rating="0.0" group-title="360资源站",发配边关罪妻开荒养出战神真人AI版第二季 (2026)
+https://vod1.maowushi.com/20261116/Z84QzPV2/index.m3u8
+#EXTINF:-1 tvg-name="发配边关，罪妻开荒养出战神真人AI版" tvg-logo="https://www.imgzy360.com:7788/upload/vod/20261117-1/4c402d000137cb5d2d5af342c9ee99fb.jpg" x-year="2026" x-rating="0.0" group-title="360资源站",发配边关，罪妻开荒养出战神真人AI版 (2026)
+https://vod1.maowushi.com/20261116/vouLyPgb/index.m3u8
+#EXTINF:-1 tvg-name="合理怀疑" tvg-logo="https://empimage.slcache.com/metadata/artwork/source/poster/d8e885800eb98aff426797ad8ac53324bd78d1f9cab5c9b166f15be8c751d0a3.jpg" x-year="未知" x-rating="0.0" group-title="juliang",合理怀疑
+https://jimaoys94.com/public/playback/f55d743224620a510afc5fcab1802f62/smart.m3u8
+#EXTINF:-1 tvg-name="合约婚礼进行时" tvg-logo="https://tyyswimg3.com/upload/vod/20261117-1/c6a4f49191b04bd67fd61f4265b27d84.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",合约婚礼进行时 (2025)
+https://tyyszywvod2.com/videos/202611/17/6a3dfc71de7f0096de78d961/011a11/index.m3u8
+#EXTINF:-1 tvg-name="咸鱼在星际修炼成神" tvg-logo="https://empimage.slcache.com/metadata/artwork/source/poster/0bfd0087a68c66ccc963ec2e22ca092b34a8d79dbdc0a731aca109e338d74649.jpg" x-year="未知" x-rating="0.0" group-title="juliang",咸鱼在星际修炼成神
+https://jimaoys84.com/public/playback/3ddbd753ff86b28862f3b6531415a679/smart.m3u8
+#EXTINF:-1 tvg-name="哈德森与雷克斯" tvg-logo="https://empimage.slcache.com/metadata/artwork/tmdb/tv/87940/poster/edf38ac079731b4b2535c7bdad24cea5aa14d58840009a259dc8cdf07f7d7294.webp" x-year="2019" x-rating="0.0" group-title="juliang",哈德森与雷克斯 (2019)
+https://jimaoys94.com/public/playback/fcc09328ffc7c5445c36ae61ee47b290/smart.m3u8
+#EXTINF:-1 tvg-name="哭包与纨绔       漫剧" tvg-logo="https://www.imgzy360.com:7788/upload/vod/20261117-1/d5b18056e37485e552deffa1f37e421a.jpg" x-year="2026" x-rating="0.0" group-title="360资源站",哭包与纨绔       漫剧 (2026)
+https://vod1.maowushi.com/20261116/RyMAErmC/index.m3u8
+#EXTINF:-1 tvg-name="四宝真萌被爹地全家追九条街宠" tvg-logo="https://tyyswimg3.com/upload/vod/20261117-1/8bf1481e3f5a5509470cd0bd0ddc8758.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",四宝真萌被爹地全家追九条街宠 (2025)
+https://tyyszywvod2.com/videos/202611/17/6a3dfc28de7f0096de78d959/ab4637/index.m3u8
+#EXTINF:-1 tvg-name="圣丹尼斯医院" tvg-logo="https://empimage.slcache.com/metadata/artwork/tmdb/tv/251941/poster/1e22c044e9dc33b6274ea663ecb25858de7b8752dfb9f3467325a4fcfff21b45.webp" x-year="2024" x-rating="0.0" group-title="juliang",圣丹尼斯医院 (2024)
+https://jimaoys94.com/public/playback/256111dd32bc66e08c4ba859a9b56a01/smart.m3u8
+#EXTINF:-1 tvg-name="夜色难渡" tvg-logo="https://tyyswimg3.com/upload/vod/20261117-1/9408772948372cddb5a65fb8dd687681.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",夜色难渡 (2025)
+https://tyyszywvod2.com/videos/202611/17/6a3dfbaede7f0096de78d94b/7c3eca/index.m3u8
+#EXTINF:-1 tvg-name="天命纨绔" tvg-logo="https://p.bfp261112.com/upload/vod/20261117-1/11acd9cdb3bd3768ae075510cc85c52f.jpg" x-year="2026" x-rating="0.0" group-title="暴风采集",天命纨绔 (2026)
+https://s3.bfllvip.com/video/tianmingwanku/c41f0a732496/index.m3u8
+#EXTINF:-1 tvg-name="夫君，请画押       漫剧" tvg-logo="https://www.imgzy360.com:7788/upload/vod/20261117-1/b3ab646498ddacf38a8e09ee1a129ef5.jpg" x-year="2026" x-rating="0.0" group-title="360资源站",夫君，请画押       漫剧 (2026)
+https://vod1.maowushi.com/20261117/KZyiWeYU/index.m3u8
+#EXTINF:-1 tvg-name="奈何花落爱凋零" tvg-logo="https://tyyswimg3.com/upload/vod/20261117-1/0ea7e9b582bd8ec88e3aff16a311be0e.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",奈何花落爱凋零 (2025)
+https://tyyszywvod2.com/videos/202611/17/6a3dfccede7f0096de78df72/896382/index.m3u8
+#EXTINF:-1 tvg-name="奶团驾到调皮乐宝大佬爹2" tvg-logo="https://img.ukuapi88.com/upload/vod/20261117-1/09646e7fc0feb514afac78c6c71e4ce4.jpg" x-year="2026" x-rating="0.0" group-title="U酷",奶团驾到调皮乐宝大佬爹2 (2026)
+https://ukzyvod3.ukubf5.com/share/YyKrfR269T
+#EXTINF:-1 tvg-name="她一念山河，一念情深" tvg-logo="https://img.ukuapi88.com/upload/vod/20261117-1/362abad914f02b7af20d53640b8e4dbd.jpg" x-year="2026" x-rating="0.0" group-title="U酷",她一念山河，一念情深 (2026)
+https://ukzyvod3.ukubf5.com/share/Aoabh2mbEr
+#EXTINF:-1 tvg-name="她嫁入陆府那日，摄政王悔疯了       漫剧" tvg-logo="https://www.imgzy360.com:7788/upload/vod/20261117-1/9137db940c49345f3af7ce0f585d51d0.jpg" x-year="2026" x-rating="0.0" group-title="360资源站",她嫁入陆府那日，摄政王悔疯了       漫剧 (2026)
+https://vod1.maowushi.com/20261116/j1lbfAoJ/index.m3u8
+#EXTINF:-1 tvg-name="她的蜜刃" tvg-logo="https://www.imgzy360.com:7788/upload/vod/20261117-1/e62318b95a51e7eaabd54826b6ab9192.jpg" x-year="2026" x-rating="0.0" group-title="360资源站",她的蜜刃 (2026)
+https://vod1.maowushi.com/20261116/2qurIXLO/index.m3u8
+#EXTINF:-1 tvg-name="姜记者给个名分吧" tvg-logo="https://tyyswimg3.com/upload/vod/20261117-1/17d1d370be104f5e6eda387c34feb155.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",姜记者给个名分吧 (2025)
+https://tyyszywvod2.com/videos/202611/17/6a3dfc2ede7f0096de78d95a/g2f6e5/index.m3u8
+#EXTINF:-1 tvg-name="娇藏京枝" tvg-logo="https://www.imgzy360.com:7788/upload/vod/20261117-1/c67edd653ce2639a92e6e2e4dd1e74b7.jpg" x-year="2026" x-rating="0.0" group-title="360资源站",娇藏京枝 (2026)
+https://vod1.maowushi.com/20261116/vTUgCMGW/index.m3u8
+#EXTINF:-1 tvg-name="娘子-别这样" tvg-logo="https://www.imgzy360.com:7788/upload/vod/20261117-1/fff03308dece0bb7fe31916d30f62109.jpg" x-year="2026" x-rating="0.0" group-title="360资源站",娘子-别这样 (2026)
+https://vod1.maowushi.com/20261116/RloWHpry/index.m3u8
+#EXTINF:-1 tvg-name="婆婆重生护我岁岁安然" tvg-logo="https://p.bfp261112.com/upload/vod/20261117-1/10a0dde54d29d2b00eb239c2e093a23c.jpg" x-year="2026" x-rating="0.0" group-title="暴风采集",婆婆重生护我岁岁安然 (2026)
+https://s3.bfllvip.com/video/popozhongshenghuwosuisuianran/8b1b9056ff84/index.m3u8
+#EXTINF:-1 tvg-name="嫌我是实习生，我亮出老板身份" tvg-logo="https://www.imgzy360.com:7788/upload/vod/20261117-1/e4deb0a17ee28770cf18ebd96050eba6.jpg" x-year="2026" x-rating="0.0" group-title="360资源站",嫌我是实习生，我亮出老板身份 (2026)
+https://vod1.maowushi.com/20261116/pFq9fyCV/index.m3u8
+#EXTINF:-1 tvg-name="对味" tvg-logo="https://www.mdzypic.com/upload/vod/20260924-1/b56562c3e2ecf6a431a21c3d7fc11d90.webp" x-year="2026" x-rating="0.0" group-title="魔都资源网",对味 (2026)
+https://play.modujx17.com/20260924/KxGRBUvN/index.m3u8
+#EXTINF:-1 tvg-name="寻踪者 第四季" tvg-logo="https://img.ukuapi88.com/upload/vod/20261012-1/c154028eb81d95356553b7b6823235e9.webp" x-year="2026" x-rating="0.0" group-title="U酷",寻踪者 第四季 (2026)
+https://ukzy.ukubf8.com/share/h3hfKM4wmB
+#EXTINF:-1 tvg-name="小叶你好我是你闺女" tvg-logo="https://img.ukuapi88.com/upload/vod/20261117-1/c2d4aa4bbd571ad0699d31de115067ac.jpg" x-year="2026" x-rating="0.0" group-title="U酷",小叶你好我是你闺女 (2026)
+https://ukzyvod3.ukubf5.com/share/7GGEj2Cx1T
+#EXTINF:-1 tvg-name="小娇妻眼一红，冷面教授轻声哄" tvg-logo="https://tyyswimg3.com/upload/vod/20261117-1/efafd28a7450c1a49d85202a078285ae.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",小娇妻眼一红，冷面教授轻声哄 (2025)
+https://tyyszywvod2.com/videos/202611/17/6a3dfb53de7f0096de78d943/ddgg06/index.m3u8
+#EXTINF:-1 tvg-name="归藏第一季" tvg-logo="https://snzypic.vip/upload/vod/20261117-1/f2c4eda014736595293497fbeb0681d3.jpg" x-year="2026" x-rating="0.0" group-title="🌍VIP专享2K",归藏第一季 (2026)
+https://v15.rstu6.com/202611/12/57fRwiPEw427/video/index.m3u8
+#EXTINF:-1 tvg-name="当上月嫂后发现孩子是我的" tvg-logo="https://www.imgzy360.com:7788/upload/vod/20261117-1/7107fea7789593b0781ca4954bd5c2c7.jpg" x-year="2026" x-rating="0.0" group-title="360资源站",当上月嫂后发现孩子是我的 (2026)
+https://vod1.maowushi.com/20261116/BXTbZXff/index.m3u8
+#EXTINF:-1 tvg-name="彼方尚有荣光在" tvg-logo="https://snzypic.vip/upload/vod/20261117-1/573561fb07ff4c8783533abbf59e9086.jpg" x-year="2026" x-rating="0.0" group-title="🌍VIP专享2K",彼方尚有荣光在 (2026)
+https://v15.rstu6.com/202611/12/1D7D7dLwBF27/video/index.m3u8
+#EXTINF:-1 tvg-name="循环暗恋" tvg-logo="https://tyyswimg3.com/upload/vod/20261117-1/7facd12737bacdda7d4ba544e63aa1d3.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",循环暗恋 (2025)
+https://tyyszywvod2.com/videos/202611/17/6a3dfc6ade7f0096de78d960/4g8236/index.m3u8
+#EXTINF:-1 tvg-name="恶名2026" tvg-logo="https://img.ukuapi88.com/upload/vod/20261117-1/6d5d0cd1c85af96a13705c8be6a03f40.webp" x-year="2026" x-rating="0.0" group-title="U酷",恶名2026 (2026)
+https://ukzy.ukubf8.com/share/hgJWUBbPMu
+#EXTINF:-1 tvg-name="我不是你的提款机" tvg-logo="https://tu.iqiyizyimg.com/upload/vod/20261117-1/a1e9b2c936923a9db78f92c9b5b7cd7d.jpg" x-year="2026" x-rating="0.0" group-title="爱奇艺资源站",我不是你的提款机 (2026)
+https://play.ly166.com:65/videos/20261117/6afb30ce475251072c246292/bb7a87/index.m3u8
+#EXTINF:-1 tvg-name="我就瞎点为啥账户一片红" tvg-logo="https://tyyswimg3.com/upload/vod/20261117-1/a32e87d8073ad78aaceeb4c725e16358.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",我就瞎点为啥账户一片红 (2025)
+https://tyyszywvod2.com/videos/202611/17/6a3dfceede7f0096de78df74/dae332/index.m3u8
+#EXTINF:-1 tvg-name="我斩荆棘度余生" tvg-logo="https://tyyswimg3.com/upload/vod/20261117-1/c764f76cf64cc720b56b1f36ac421abc.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",我斩荆棘度余生 (2025)
+https://tyyszywvod2.com/videos/202611/17/6a3dfbe6de7f0096de78d950/4427d5/index.m3u8
+#EXTINF:-1 tvg-name="我是厨神学院唯一小师妹3" tvg-logo="https://empimage.slcache.com/metadata/artwork/source/poster/dbf3078c9f41f50550f223489221860f92d89222d0e2d6e3eca1046889e5eefd.jpg" x-year="2026" x-rating="0.0" group-title="juliang",我是厨神学院唯一小师妹3 (2026)
+https://jimaoys88.com/public/playback/b8a28a44af8fe68ef1d8fe18d3f630ec/smart.m3u8
+#EXTINF:-1 tvg-name="我替嫁后母仪天下" tvg-logo="https://p.bfp261112.com/upload/vod/20261117-1/e4069c37c7820372e38914589b6841b2.jpg" x-year="2026" x-rating="0.0" group-title="暴风采集",我替嫁后母仪天下 (2026)
+https://s3.bfllvip.com/video/wotijiahoumuyitianxia/ca3275b85533/index.m3u8
+#EXTINF:-1 tvg-name="我的有罪之人" tvg-logo="https://www.mdzypic.com/upload/vod/20261019-1/000dbb0e21f0163ebf1bd51c063b1711.webp" x-year="2026–" x-rating="0.0" group-title="魔都资源网",我的有罪之人 (2026–)
+https://play.modujx17.com/20261019/7cbiw8z4/index.m3u8
+#EXTINF:-1 tvg-name="我的老公失忆了" tvg-logo="https://tyyswimg3.com/upload/vod/20261117-1/3336306d0b5c8da4ec066f0296b244c5.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",我的老公失忆了 (2025)
+https://tyyszywvod2.com/videos/202611/17/6a3dfd26de7f0096de78df79/034831/index.m3u8
+#EXTINF:-1 tvg-name="扶摇云天" tvg-logo="https://tyyswimg3.com/upload/vod/20261117-1/28a8543c475a2eb667a92fd192408198.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",扶摇云天 (2025)
+https://tyyszywvod2.com/videos/202611/17/6a3dfcb8de7f0096de78df6f/f1844e/index.m3u8
+#EXTINF:-1 tvg-name="抢个新娘来当后娘第四季" tvg-logo="https://img.ukuapi88.com/upload/vod/20261117-1/85f106e5e9f141827718f8c8ff5dc465.jpg" x-year="2026" x-rating="0.0" group-title="U酷",抢个新娘来当后娘第四季 (2026)
+https://ukzyvod3.ukubf5.com/share/2Zu86sUhMl
+#EXTINF:-1 tvg-name="拜拜嘞前夫哥" tvg-logo="https://tyyswimg3.com/upload/vod/20261117-1/8e404ad5a6ec472137e21353fe43263a.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",拜拜嘞前夫哥 (2025)
+https://tyyszywvod2.com/videos/202611/17/6a3dfce1de7f0096de78df73/acb94e/index.m3u8
+#EXTINF:-1 tvg-name="捉迷藏：0秒前的女友" tvg-logo="https://img.ukuapi88.com/upload/vod/20261006-1/3f48629be286535fff43e16ed0d2e4b9.webp" x-year="2026" x-rating="0.0" group-title="U酷",捉迷藏：0秒前的女友 (2026)
+https://ukzy.ukubf8.com/share/Lgf7MLExbq
+#EXTINF:-1 tvg-name="捡来的老公是霍爷" tvg-logo="https://tyyswimg3.com/upload/vod/20261117-1/4c9b36a1bb82603c9db8478f43cb01ea.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",捡来的老公是霍爷 (2025)
+https://tyyszywvod2.com/videos/202611/17/6a3dfb82de7f0096de78d947/6ea4f5/index.m3u8
+#EXTINF:-1 tvg-name="换母疑云" tvg-logo="https://www.mdzypic.com/upload/vod/20261020-1/aadb68fcdb57b94fc6e7ca8a36ccec48.webp" x-year="2026–" x-rating="0.0" group-title="魔都资源网",换母疑云 (2026–)
+https://play.modujx17.com/20261020/L0jMsRxq/index.m3u8
+#EXTINF:-1 tvg-name="摄政王他又争又抢" tvg-logo="https://tyyswimg3.com/upload/vod/20261117-1/3c71d800341a6c9d42fec3f80babb2ef.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",摄政王他又争又抢 (2025)
+https://tyyszywvod2.com/videos/202611/17/6a3dfd00de7f0096de78df75/f6g572/index.m3u8
+#EXTINF:-1 tvg-name="效廉出发吧" tvg-logo="https://kuaichezyimg.com/upload/vod/20261117-1/dcdbd384626a5400bc97439a1b689000.jpg" x-year="2023" x-rating="0.0" group-title="快车资源网",效廉出发吧 (2023)
+https://v2.kuaichezym3u8.com/yyv2/202405/15/1KytpxXzaM10/video/index.m3u8
+#EXTINF:-1 tvg-name="救命病栋24小时第六季" tvg-logo="https://www.imgzy360.com:7788/upload/vod/20261013-1/36c129b60b8874a7ddf6b5f445ec0c38.webp" x-year="2026" x-rating="0.0" group-title="360资源站",救命病栋24小时第六季 (2026)
+https://vod1.maowushi.com/20261013/WZTLxCfB/index.m3u8
+#EXTINF:-1 tvg-name="斩神官：神灾之体第六季" tvg-logo="https://www.mdzypic.com/upload/vod/20261117-1/6bd926c492911380f5569559ee346d78.jpg" x-year="2026" x-rating="0.0" group-title="魔都资源网",斩神官：神灾之体第六季 (2026)
+https://play.modujx17.com/20261116/jJOa68bH/index.m3u8
+#EXTINF:-1 tvg-name="新人教练金软景2" tvg-logo="https://www.mdzypic.com/upload/vod/20261013-1/1839479541279b86526c7b7d92e8af39.webp" x-year="2026" x-rating="0.0" group-title="魔都资源网",新人教练金软景2 (2026)
+https://play.modujx17.com/20261013/JkWy7ue8/index.m3u8
+#EXTINF:-1 tvg-name="新版：照相馆的秘密" tvg-logo="https://tyyswimg3.com/upload/vod/20261118-1/955cb54462fe1a3e64a1e8cdb2d67786.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",新版：照相馆的秘密 (2025)
+https://tyyszywvod2.com/videos/202611/17/6a3dfdb2de7f0096de78df86/0983bc/index.m3u8
+#EXTINF:-1 tvg-name="日落之前2024" tvg-logo="https://www.mdzypic.com/upload/vod/20261117-1/18519af40480e213e167556ed704985a.webp" x-year="2024" x-rating="0.0" group-title="魔都资源网",日落之前2024 (2024)
+https://play.modujx17.com/20261117/NRHb7kdY/index.m3u8
+#EXTINF:-1 tvg-name="日落时分说爱你2" tvg-logo="https://www.mdzypic.com/upload/vod/20261116-1/0f91ad52656b9fec0ed597dd4c5f099c.png" x-year="2026" x-rating="0.0" group-title="魔都资源网",日落时分说爱你2 (2026)
+https://play.modujx17.com/20261116/CBJN3u2o/index.m3u8
+#EXTINF:-1 tvg-name="星语心愿" tvg-logo="https://www.mdzypic.com/upload/vod/20261117-1/b0e732e4ab65a7bb3c166e2a1c74f290.jpg" x-year="2026" x-rating="0.0" group-title="魔都资源网",星语心愿 (2026)
+https://play.modujx17.com/20261116/LSeyqvuU/index.m3u8
+#EXTINF:-1 tvg-name="晚晴错局" tvg-logo="https://tu.iqiyizyimg.com/upload/vod/20261117-1/4958a1608633a62a03bb0fc47a18554d.jpg" x-year="2026" x-rating="0.0" group-title="爱奇艺资源站",晚晴错局 (2026)
+https://play.ly166.com:65/videos/20261117/6afb2e3f475251072c1d31cf/3c3d26/index.m3u8
+#EXTINF:-1 tvg-name="暑假2026" tvg-logo="https://www.imgzy360.com:7788/upload/vod/20261027-1/4f5176b8c0568e35f6b357ee728e041e.webp" x-year="2026" x-rating="0.0" group-title="360资源站",暑假2026 (2026)
+https://vod1.maowushi.com/20261027/FAt4e5XJ/index.m3u8
+#EXTINF:-1 tvg-name="暴力罗曼史" tvg-logo="https://tyyswimg3.com/upload/vod/20261117-1/295743f453793def7c84460cd8be9f8f.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",暴力罗曼史 (2025)
+https://tyyszywvod2.com/videos/202611/17/6a3dfc89de7f0096de78d963/fegf5b/index.m3u8
+#EXTINF:-1 tvg-name="朕的宫女相当野" tvg-logo="https://tyyswimg3.com/upload/vod/20261117-1/b745207c8bf880c7e8a4936c6b383957.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",朕的宫女相当野 (2025)
+https://tyyszywvod2.com/videos/202611/17/6a3dfc1cde7f0096de78d957/f8fge6/index.m3u8
+#EXTINF:-1 tvg-name="朱门春闺" tvg-logo="https://www.imgzy360.com:7788/upload/vod/20261117-1/683999e731b2388a947ac8151c329f16.jpg" x-year="2026" x-rating="0.0" group-title="360资源站",朱门春闺 (2026)
+https://vod1.maowushi.com/20261116/tB6m8egi/index.m3u8
+#EXTINF:-1 tvg-name="极品辣妈好威武，爹地接招吧" tvg-logo="https://tyyswimg3.com/upload/vod/20261118-1/9293cb5720c1578cd43fece3ad32c06e.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",极品辣妈好威武，爹地接招吧 (2025)
+https://tyyszywvod2.com/videos/202611/17/6a3dfd52de7f0096de78df7f/ec607c/index.m3u8
+#EXTINF:-1 tvg-name="欧耶一级棒" tvg-logo="https://empimage.slcache.com/metadata/artwork/source/poster/80f64341950252cfc555c5d3cf1a5895b9b57b996006e1ac5a015c7b3b697d52.jpg" x-year="2026" x-rating="0.0" group-title="juliang",欧耶一级棒 (2026)
+https://jimaoys90.com/public/playback/deae97f1df664d26f798cbabe2bb4d3e/smart.m3u8
+#EXTINF:-1 tvg-name="欲望的陷阱" tvg-logo="https://img.ukuapi88.com/upload/vod/20260811-1/16fcf92135b2dcb5c03816268862a522.webp" x-year="2026" x-rating="0.0" group-title="U酷",欲望的陷阱 (2026)
+https://ukzy.ukubf8.com/share/vUAMx9UON9
+#EXTINF:-1 tvg-name="死后我成了冥界CEO       漫剧" tvg-logo="https://www.imgzy360.com:7788/upload/vod/20261117-1/b466d82fbba5372a0a7ede187542cd1c.jpg" x-year="2026" x-rating="0.0" group-title="360资源站",死后我成了冥界CEO       漫剧 (2026)
+https://vod1.maowushi.com/20261116/Ff0potgP/index.m3u8
+#EXTINF:-1 tvg-name="母凭子贵后被皇家宠上天3" tvg-logo="https://p.bfp261112.com/upload/vod/20261117-1/e09fd368987f2c10bddfc8afe8b4ca48.jpg" x-year="2026" x-rating="0.0" group-title="暴风采集",母凭子贵后被皇家宠上天3 (2026)
+https://s3.bfllvip.com/video/mupingziguihoubeihuangjiachongshangtian3/bb7d09d7d1b2/index.m3u8
+#EXTINF:-1 tvg-name="沈秘书怎会这样" tvg-logo="https://tyyswimg3.com/upload/vod/20261117-1/713441cf589aad38890aaebf6500dce4.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",沈秘书怎会这样 (2025)
+https://tyyszywvod2.com/videos/202611/17/6a3dfca6de7f0096de78dc32/007g2f/index.m3u8
+#EXTINF:-1 tvg-name="沉烟未了" tvg-logo="https://tyyswimg3.com/upload/vod/20261117-1/48976ccb3dd99367aa2ba0bcf444f6ed.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",沉烟未了 (2025)
+https://tyyszywvod2.com/videos/202611/17/6a3dfc62de7f0096de78d95f/0829b2/index.m3u8
+#EXTINF:-1 tvg-name="沉舟渡晚晴" tvg-logo="https://tyyswimg3.com/upload/vod/20261117-1/51d9865ec998dba86ced7b930f401a85.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",沉舟渡晚晴 (2025)
+https://tyyszywvod2.com/videos/202611/17/6a3dfd3cde7f0096de78df7b/bebc19/index.m3u8
+#EXTINF:-1 tvg-name="法警小队 第二季" tvg-logo="https://img.ukuapi88.com/upload/vod/20261007-1/4c03f51d1c3f6243acf2fd1e0ce54f56.webp" x-year="2026" x-rating="0.0" group-title="U酷",法警小队 第二季 (2026)
+https://ukzy.ukubf8.com/share/pkGmrQvuSh
+#EXTINF:-1 tvg-name="流氓帝师，皇家金牌县令" tvg-logo="https://www.imgzy360.com:7788/upload/vod/20261117-1/582e6bb661b0e01c28e1fa473dd86f20.jpg" x-year="2026" x-rating="0.0" group-title="360资源站",流氓帝师，皇家金牌县令 (2026)
+https://vod1.maowushi.com/20261116/qrlwxfhk/index.m3u8
+#EXTINF:-1 tvg-name="清冷权臣他又争又抢" tvg-logo="https://www.imgzy360.com:7788/upload/vod/20261117-1/4633398ab6f4c1157f4dc647d8c7722e.jpg" x-year="2026" x-rating="0.0" group-title="360资源站",清冷权臣他又争又抢 (2026)
+https://vod1.maowushi.com/20261116/XVkaoCRP/index.m3u8
+#EXTINF:-1 tvg-name="清野落星辰" tvg-logo="https://tyyswimg3.com/upload/vod/20261117-1/c5c2bf989020397376ce9a07b19a3b72.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",清野落星辰 (2025)
+https://tyyszywvod2.com/videos/202611/17/6a3dfcc4de7f0096de78df71/2daf44/index.m3u8
+#EXTINF:-1 tvg-name="温柔狩猎" tvg-logo="https://www.imgzy360.com:7788/upload/vod/20261117-1/fb60954657df38f99af3c92bdf4601dc.jpg" x-year="2026" x-rating="0.0" group-title="360资源站",温柔狩猎 (2026)
+https://vod1.maowushi.com/20261116/Btoswzxo/index.m3u8
+#EXTINF:-1 tvg-name="火线家族" tvg-logo="https://www.mdzypic.com/upload/vod/20260922-1/b472d95ecda33c5cd3609bf1897d092a.webp" x-year="2026–" x-rating="0.0" group-title="魔都资源网",火线家族 (2026–)
+https://play.modujx17.com/20260922/qddT5DfJ/index.m3u8
+#EXTINF:-1 tvg-name="焚烬之后有春风" tvg-logo="https://tyyswimg3.com/upload/vod/20261117-1/19a98ba7120e380449ecf29d560fda47.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",焚烬之后有春风 (2025)
+https://tyyszywvod2.com/videos/202611/17/6a3dfbfede7f0096de78d953/g5ed7e/index.m3u8
+#EXTINF:-1 tvg-name="爱·回家之三代同糖国语" tvg-logo="https://empimage.slcache.com/metadata/artwork/source/poster/0676ad49b8d9b1f94734615eade585501864ec29abf292d655f0fe7ff72ee1c4.webp" x-year="2026" x-rating="0.0" group-title="juliang",爱·回家之三代同糖国语 (2026)
+https://jimaoys94.com/public/playback/4f100f9f8168a167a26427c88238a97a/smart.m3u8
+#EXTINF:-1 tvg-name="爱可跨越山海" tvg-logo="https://tyyswimg3.com/upload/vod/20261117-1/178fb0a5437eeff0c8aa5572542531a1.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",爱可跨越山海 (2025)
+https://tyyszywvod2.com/videos/202611/17/6a3dfd32de7f0096de78df7a/ca4d28/index.m3u8
+#EXTINF:-1 tvg-name="爱在晚风低语时" tvg-logo="https://tyyswimg3.com/upload/vod/20261117-1/2072ae01ef01cf032421f0b176584971.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",爱在晚风低语时 (2025)
+https://tyyszywvod2.com/videos/202611/17/6a3dfbf9de7f0096de78d951/36466a/index.m3u8
+#EXTINF:-1 tvg-name="爱情来了" tvg-logo="https://img.ukuapi88.com/upload/vod/20260729-1/54c83d08085092f17f3d26769e7bcf7d.webp" x-year="2026" x-rating="0.0" group-title="U酷",爱情来了 (2026)
+https://ukzy.ukubf8.com/share/hjJpcHe5Hk
+#EXTINF:-1 tvg-name="爱的三次方" tvg-logo="https://img.ukuapi88.com/upload/vod/20260819-1/7c9d20a3d874af7463b5c6fae752661f.webp" x-year="2026" x-rating="0.0" group-title="U酷",爱的三次方 (2026)
+https://ukzy.ukubf8.com/share/TdcDcLVTub
+#EXTINF:-1 tvg-name="爱的烙印" tvg-logo="https://img.ukuapi88.com/upload/vod/20261117-1/7a3364e75c95c69301c85f1a0e92ee7b.webp" x-year="2026" x-rating="0.0" group-title="U酷",爱的烙印 (2026)
+https://ukzy.ukubf8.com/share/gZB58D03z6
+#EXTINF:-1 tvg-name="猎爱计划" tvg-logo="https://tyyswimg3.com/upload/vod/20261118-1/f2e28e8fbe64b6ee592843cb03aba6ac.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",猎爱计划 (2025)
+https://tyyszywvod2.com/videos/202611/17/6a3dfd75de7f0096de78df83/4d200d/index.m3u8
+#EXTINF:-1 tvg-name="玉落侯门,深宅掌家路" tvg-logo="https://p.bfp261112.com/upload/vod/20261117-1/f93a6ba7311e3f6f95bceaae74ad5e2e.jpg" x-year="2026" x-rating="0.0" group-title="暴风采集",玉落侯门,深宅掌家路 (2026)
+https://s3.bfllvip.com/video/yuluohoumenshenzhaizhangjialu/052ce812c980/index.m3u8
+#EXTINF:-1 tvg-name="王牌译妻飒翻八零       漫剧" tvg-logo="https://www.imgzy360.com:7788/upload/vod/20261117-1/85e8a13d85217ec2bd8d442b33720fb9.jpg" x-year="2026" x-rating="0.0" group-title="360资源站",王牌译妻飒翻八零       漫剧 (2026)
+https://vod1.maowushi.com/20261116/HGaGahdp/index.m3u8
+#EXTINF:-1 tvg-name="玫瑰战争国语" tvg-logo="https://kuaichezyimg.com/upload/vod/20261117-1/504a194baaf5e4a1faebe486be766ab8.jpg" x-year="2026" x-rating="0.0" group-title="快车资源网",玫瑰战争国语 (2026)
+https://v14.kuaichezym3u8.com/yyv14/202611/06/bfgQCV4LTe27/video/index.m3u8
+#EXTINF:-1 tvg-name="玫瑰战争粤语" tvg-logo="https://kuaichezyimg.com/upload/vod/20261117-1/adfb87d0b434c07d48842ff8cf757ed2.jpg" x-year="2026" x-rating="0.0" group-title="快车资源网",玫瑰战争粤语 (2026)
+https://v14.kuaichezym3u8.com/yyv14/202611/06/Y6X4MuspTQ27/video/index.m3u8
+#EXTINF:-1 tvg-name="百变智多星" tvg-logo="https://img.bdzyimg1.com/upload/vod/20261117-1/0de541383ae029f2865f2b97b54f9b57.jpg" x-year="2023" x-rating="0.0" group-title="百度资源",百变智多星 (2023)
+https://b2.bdzybf22.com/videos/202505/14/6823d6ba1bd9b41e0cb1ebe8/842ge2/index.m3u8
+#EXTINF:-1 tvg-name="相棒" tvg-logo="https://empimage.slcache.com/metadata/artwork/tmdb/tv/40663/poster/aa244a065668d9bbf8836325d529585a4dc51a9ab21c60e95ca6838202592087.jpg" x-year="2002" x-rating="0.0" group-title="juliang",相棒 (2002)
+https://jimaoys94.com/public/playback/d62309c50a73b6db55c10d95e7d0ea9c/smart.m3u8
+#EXTINF:-1 tvg-name="破译你的心" tvg-logo="https://img.ukuapi88.com/upload/vod/20261006-1/c7353f48f23504b6986c1c9c93ce516a.webp" x-year="2026" x-rating="0.0" group-title="U酷",破译你的心 (2026)
+https://ukzy.ukubf8.com/share/3k9oNiVnef
+#EXTINF:-1 tvg-name="碰撞搜查线" tvg-logo="https://empimage.slcache.com/metadata/artwork/tmdb/tv/226102/poster/92933a7302279237000180f4eebf47beacfafe3f02fd86520ebe5209c8532273.webp" x-year="2024" x-rating="0.0" group-title="juliang",碰撞搜查线 (2024)
+https://jimaoys94.com/public/playback/4547f4d8de5e814f6dcc2092955d5a2f/smart.m3u8
+#EXTINF:-1 tvg-name="神女梵音：她执掌三界       漫剧" tvg-logo="https://www.imgzy360.com:7788/upload/vod/20261117-1/45547c833d211d3e0ab72146d243a8fe.jpg" x-year="2026" x-rating="0.0" group-title="360资源站",神女梵音：她执掌三界       漫剧 (2026)
+https://vod1.maowushi.com/20261116/nNCdpsLY/index.m3u8
+#EXTINF:-1 tvg-name="神探默多克 第二十季" tvg-logo="https://img.ukuapi88.com/upload/vod/20261021-1/71e1da03fa7e7ecd9f9eb5919dd3713b.webp" x-year="2026" x-rating="0.0" group-title="U酷",神探默多克 第二十季 (2026)
+https://ukzy.ukubf8.com/share/suhuzNBHfQ
+#EXTINF:-1 tvg-name="租房遇甜妹，我追你笑什么" tvg-logo="https://tyyswimg3.com/upload/vod/20261117-1/5652e3a9e4ac723ebf01203b41795211.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",租房遇甜妹，我追你笑什么 (2025)
+https://tyyszywvod2.com/videos/202611/17/6a3dfc41de7f0096de78d95c/8d2g28/index.m3u8
+#EXTINF:-1 tvg-name="穿到死后第十年成全家白月光离开十年,我成了全家的白月光" tvg-logo="https://p.bfp261112.com/upload/vod/20261117-1/3d639e37e76af5daebca90bf9ae73a01.jpg" x-year="2026" x-rating="0.0" group-title="暴风采集",穿到死后第十年成全家白月光离开十年,我成了全家的白月光 (2026)
+https://s3.bfllvip.com/video/chuandaosihoudishinianchengquanjiabaiyueguanglikaishinianwochengliaoquanjiadebaiyueguang/6fbedb5af3f3/index.m3u8
+#EXTINF:-1 tvg-name="穿成恶毒后妈，全家真香了" tvg-logo="https://img.ukuapi88.com/upload/vod/20261117-1/3e02276e33ff31ec4b2e45a9dc9000c2.jpg" x-year="2026" x-rating="0.0" group-title="U酷",穿成恶毒后妈，全家真香了 (2026)
+https://ukzyvod3.ukubf5.com/share/fmyUsIl3YS
+#EXTINF:-1 tvg-name="穿成杀手后我把大佬都救了" tvg-logo="https://www.mdzypic.com/upload/vod/20261117-1/76d55fa19a04fb17ea1b80c60d91cb09.jpg" x-year="2026" x-rating="0.0" group-title="魔都资源网",穿成杀手后我把大佬都救了 (2026)
+https://play.modujx17.com/20261117/ssOMdh7m/index.m3u8
+#EXTINF:-1 tvg-name="穿越七零，我和继子组团吃瓜" tvg-logo="https://img.ukuapi88.com/upload/vod/20261117-1/f44a580cc494c8dc5397cd52d941cc81.jpg" x-year="2026" x-rating="0.0" group-title="U酷",穿越七零，我和继子组团吃瓜 (2026)
+https://ukzyvod3.ukubf5.com/share/1kJzsuDuG3
+#EXTINF:-1 tvg-name="第六感: B side" tvg-logo="https://www.mdzypic.com/upload/vod/20260915-1/ce0d7b4f3dedab79c5304e4c8a934ddf.webp" x-year="2026" x-rating="0.0" group-title="魔都资源网",第六感: B side (2026)
+https://play.modujx17.com/20260915/qBDRA6u1/index.m3u8
+#EXTINF:-1 tvg-name="糖渍告白吻" tvg-logo="https://tyyswimg3.com/upload/vod/20261117-1/152062d3b61b03360644d6773876f719.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",糖渍告白吻 (2025)
+https://tyyszywvod2.com/videos/202611/17/6a3dfc22de7f0096de78d958/gff81c/index.m3u8
+#EXTINF:-1 tvg-name="纨绔他陷入爱河了" tvg-logo="https://tyyswimg3.com/upload/vod/20261117-1/d46be8d08208b52e6d24174b2f324db1.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",纨绔他陷入爱河了 (2025)
+https://tyyszywvod2.com/videos/202611/17/6a3dfc7fde7f0096de78d962/gd1381/index.m3u8
+#EXTINF:-1 tvg-name="线上对骂三年，反差校花追到大学第四季" tvg-logo="https://www.mdzypic.com/upload/vod/20261117-1/68895be07531835e54082a5b6d948dbd.jpg" x-year="2026" x-rating="0.0" group-title="魔都资源网",线上对骂三年，反差校花追到大学第四季 (2026)
+https://play.modujx17.com/20261116/311HWihE/index.m3u8
+#EXTINF:-1 tvg-name="绑架游戏2026" tvg-logo="https://www.mdzypic.com/upload/vod/20261006-1/9a26115e77fc79c6f929da5708886c60.webp" x-year="2026–" x-rating="0.0" group-title="魔都资源网",绑架游戏2026 (2026–)
+https://play.modujx17.com/20261006/fcZuvb3I/index.m3u8
+#EXTINF:-1 tvg-name="绝世战魂 第二季" tvg-logo="https://img.ukuapi88.com/upload/vod/20260616-1/b16bb72d5c4d0589fe4b0fb46444fbec.jpg" x-year="2026" x-rating="0.0" group-title="U酷",绝世战魂 第二季 (2026)
+https://ukzy.ukubf3.com/share/seYx7wIKla
+#EXTINF:-1 tvg-name="综艺大集合" tvg-logo="https://kuaichezyimg.com/upload/vod/20261117-1/3c7ed372620f629b6d2af3d1e8288d79.jpg" x-year="2001" x-rating="0.0" group-title="快车资源网",综艺大集合 (2001)
+https://v5.kuaichezym3u8.com/yyv5/202308/28/xWue0WMAx61/video/index.m3u8
+#EXTINF:-1 tvg-name="综艺新时代" tvg-logo="https://img.bdzyimg1.com/upload/vod/20261117-1/1bc415e5886e708779b0491b05ba6705.jpg" x-year="2018" x-rating="0.0" group-title="百度资源",综艺新时代 (2018)
+https://b2.bdzybf22.com/videos/202505/14/6823b58c1bd9b41e0cb1e991/cc4be7/index.m3u8
+#EXTINF:-1 tvg-name="老婆别追了我跟你回家" tvg-logo="https://tyyswimg3.com/upload/vod/20261118-1/623702d121e1abaa4a508af83f69ef04.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",老婆别追了我跟你回家 (2025)
+https://tyyszywvod2.com/videos/202611/17/6a3dfd49de7f0096de78df7e/51a503/index.m3u8
+#EXTINF:-1 tvg-name="落花有痕犹带泪" tvg-logo="https://tyyswimg3.com/upload/vod/20261117-1/8a21a112a8df0fef5f8958158f2d4ea0.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",落花有痕犹带泪 (2025)
+https://tyyszywvod2.com/videos/202611/17/6a3dfcadde7f0096de78de21/8gf777/index.m3u8
+#EXTINF:-1 tvg-name="蓄意毁婚" tvg-logo="https://tyyswimg3.com/upload/vod/20261117-1/999040784e6d8486402f52c30151d767.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",蓄意毁婚 (2025)
+https://tyyszywvod2.com/videos/202611/17/6a3dfd1dde7f0096de78df78/g58420/index.m3u8
+#EXTINF:-1 tvg-name="詹姆士出走料理" tvg-logo="https://img.bdzyimg1.com/upload/vod/20261117-1/29f7c37c293323a773e795ac7fdc20b3.jpg" x-year="2019" x-rating="0.0" group-title="百度资源",詹姆士出走料理 (2019)
+https://b2.bdzybf22.com/videos/202505/15/6823b4fc1bd9b41e0cb1e97f/a9ba4g/index.m3u8
+#EXTINF:-1 tvg-name="让你悟道，没让你起飞啊！       漫剧" tvg-logo="https://www.imgzy360.com:7788/upload/vod/20261117-1/64bef2a1d74e247576154a03e1c4a213.jpg" x-year="2026" x-rating="0.0" group-title="360资源站",让你悟道，没让你起飞啊！       漫剧 (2026)
+https://vod1.maowushi.com/20261116/TMRlni8k/index.m3u8
+#EXTINF:-1 tvg-name="许你不二之臣" tvg-logo="https://tyyswimg3.com/upload/vod/20261118-1/545b8e094591e66a40936ae54bff691a.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",许你不二之臣 (2025)
+https://tyyszywvod2.com/videos/202611/17/6a3dfd5ede7f0096de78df80/8eeace/index.m3u8
+#EXTINF:-1 tvg-name="诀别三个青梅后京圈大小姐狂追我" tvg-logo="https://tyyswimg3.com/upload/vod/20261118-1/b00367dba356966dc16fcbd224d55b09.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",诀别三个青梅后京圈大小姐狂追我 (2025)
+https://tyyszywvod2.com/videos/202611/17/6a3dfdd2de7f0096de78e14e/03039f/index.m3u8
+#EXTINF:-1 tvg-name="诡雾降临：拜见诡主我来打工       漫剧" tvg-logo="https://www.imgzy360.com:7788/upload/vod/20261117-1/a8d5e1574ee932d694ffdedae1992964.jpg" x-year="2026" x-rating="0.0" group-title="360资源站",诡雾降临：拜见诡主我来打工       漫剧 (2026)
+https://vod1.maowushi.com/20261116/es264TJC/index.m3u8
+#EXTINF:-1 tvg-name="谢总快醒醒，你老婆在横扫祠堂" tvg-logo="https://www.mdzypic.com/upload/vod/20261117-1/d1c629d4b028a0070e8f4740a72aa112.jpg" x-year="2026" x-rating="0.0" group-title="魔都资源网",谢总快醒醒，你老婆在横扫祠堂 (2026)
+https://play.modujx17.com/20261116/6CHAPcH3/index.m3u8
+#EXTINF:-1 tvg-name="贵妃欺人太甚" tvg-logo="https://tu.iqiyizyimg.com/upload/vod/20261102-1/b265362c9393d49ded697e2b58ec487e.jpg" x-year="2026" x-rating="0.0" group-title="爱奇艺资源站",贵妃欺人太甚 (2026)
+https://play.ly166.com:65/videos/20261102/6ae8117c475251072c1a4746/2285f1/index.m3u8
+#EXTINF:-1 tvg-name="赤脚神医在乡村" tvg-logo="https://tyyswimg3.com/upload/vod/20261117-1/d3044280470a0f85cc69877b2e1c60ef.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",赤脚神医在乡村 (2025)
+https://tyyszywvod2.com/videos/202611/17/6a3dfcbade7f0096de78df70/f89cge/index.m3u8
 #EXTINF:-1 tvg-name="走马上任" tvg-logo="https://www.mdzypic.com/upload/vod/20261102-1/13244db3043467b7119b22cceec83356.webp" x-year="2026–" x-rating="0.0" group-title="魔都资源网",走马上任 (2026–)
 https://play.modujx17.com/20261102/dkGQHirS/index.m3u8
-#EXTINF:-1 tvg-name="跟着大明寻味 - 沿着海岸开饭吧！" tvg-logo="https://www.mdzypic.com/upload/vod/20261025-1/37d82ce711c6608b8cc66d28ba08d6ed.webp" x-year="2026" x-rating="0.0" group-title="魔都资源网",跟着大明寻味 - 沿着海岸开饭吧！ (2026)
-https://play.modujx17.com/20261025/36hsfWWr/index.m3u8
-#EXTINF:-1 tvg-name="转生贵族凭鉴定技能扭转人生第三季" tvg-logo="https://www.mdzypic.com/upload/vod/20260927-1/611ef3ad91f4901be91808bfbace1bff.webp" x-year="2026" x-rating="0.0" group-title="魔都资源网",转生贵族凭鉴定技能扭转人生第三季 (2026)
-https://play.modujx17.com/20260927/UKhj62Of/index.m3u8
-#EXTINF:-1 tvg-name="辗转漂泊，打算一直单身吗？" tvg-logo="https://empimage.slcache.com/metadata/artwork/source/poster/59270679ef60f94b626fc7555f657194138fd73aa0fc78bdafa6491e55d9f2af.webp" x-year="2026" x-rating="0.0" group-title="juliang",辗转漂泊，打算一直单身吗？ (2026)
-https://jimaoys96.com/public/playback/31f568cfa2753028802c87e7d96cb8e8/smart.m3u8
-#EXTINF:-1 tvg-name="边界者：警视厅特殊事件对策班" tvg-logo="https://kuaichezyimg.com/upload/vod/20261114-1/3943214a54d81f3687988b536333b190.jpg" x-year="2026" x-rating="0.0" group-title="快车资源网",边界者：警视厅特殊事件对策班 (2026)
-https://v15.kuaichezym3u8.com/yyv15/202610/17/BGv6zBmLTe27/video/index.m3u8
-#EXTINF:-1 tvg-name="这个六旬老太会透视" tvg-logo="https://www.imgzy360.com:7788/upload/vod/20261115-1/a0e8c172422f0f3e69a22a5985ee6245.jpg" x-year="2026" x-rating="0.0" group-title="360资源站",这个六旬老太会透视 (2026)
-https://vod1.maowushi.com/20261114/RyBKaAUE/index.m3u8
-#EXTINF:-1 tvg-name="这个柏拉图男主不对劲" tvg-logo="https://empimage.slcache.com/metadata/artwork/source/poster/fd0b03248b48e2b6f974ed859ec5fdf63d06c6c25780ab36931dc2bde6d4982b.png" x-year="2025" x-rating="0.0" group-title="juliang",这个柏拉图男主不对劲 (2025)
-https://jimaoys88.com/public/playback/1d047166d19c5da4413378b6a61aca79/smart.m3u8
-#EXTINF:-1 tvg-name="透视-人在古代黄金一挖一麻袋" tvg-logo="https://www.imgzy360.com:7788/upload/vod/20261115-1/31aba5755f2429aa31c538d92f3b2556.jpg" x-year="2026" x-rating="0.0" group-title="360资源站",透视-人在古代黄金一挖一麻袋 (2026)
-https://vod1.maowushi.com/20261114/ovesQSsj/index.m3u8
-#EXTINF:-1 tvg-name="造雨人第二季" tvg-logo="https://kuaichezyimg.com/upload/vod/20261114-1/97e164e964917f01181cabff099927cd.jpg" x-year="2026" x-rating="0.0" group-title="快车资源网",造雨人第二季 (2026)
-https://v13.kuaichezym3u8.com/yyv13/202610/17/FTiFkZYBUV27/video/index.m3u8
-#EXTINF:-1 tvg-name="重生八零，捡破烂迎娶白富美" tvg-logo="https://www.imgzy360.com:7788/upload/vod/20261115-1/e2745c6a3b642a0c2794737b8fa26d66.jpg" x-year="2026" x-rating="0.0" group-title="360资源站",重生八零，捡破烂迎娶白富美 (2026)
-https://vod1.maowushi.com/20261114/yJ1WbTxB/index.m3u8
-#EXTINF:-1 tvg-name="重生王爷，溺宠贪财小王妃" tvg-logo="https://www.imgzy360.com:7788/upload/vod/20261115-1/b4ef03378c1eff3f8a7bc115729ca7cf.jpg" x-year="2026" x-rating="0.0" group-title="360资源站",重生王爷，溺宠贪财小王妃 (2026)
-https://vod1.maowushi.com/20261114/G37TX3E7/index.m3u8
-#EXTINF:-1 tvg-name="野兽座驾" tvg-logo="https://img.ukuapi88.com/upload/vod/20261115-1/0cc708c841f97d9b772c6a14af3cf972.jpg" x-year="2026" x-rating="0.0" group-title="U酷",野兽座驾 (2026)
-https://ukzyvod3.ukubf5.com/share/EZgNNFo1YM
-#EXTINF:-1 tvg-name="金牌调解" tvg-logo="https://kuaichezyimg.com/upload/vod/20261115-1/a4d37b37dc2ec37d7b1a9d78c814c7fc.jpg" x-year="2011" x-rating="0.0" group-title="快车资源网",金牌调解 (2011)
-https://v14.kuaichezym3u8.com/yyv14/202602/10/P1cDuYiYZu27/video/index.m3u8
-#EXTINF:-1 tvg-name="金牌调解2026" tvg-logo="https://www.mdzypic.com/upload/vod/20260513-1/70d1efcd55b19b2e6adc81642359c87f.jpg" x-year="2026" x-rating="0.0" group-title="魔都资源网",金牌调解2026 (2026)
-https://play.modujx11.com/20260513/FtsDJS7y/index.m3u8
-#EXTINF:-1 tvg-name="金银岛2026" tvg-logo="https://www.mdzypic.com/upload/vod/20261013-1/6871e882b3fad57dadc7667b1e8f56ad.webp" x-year="2026–" x-rating="0.0" group-title="魔都资源网",金银岛2026 (2026–)
-https://play.modujx17.com/20261013/EAc73TAu/index.m3u8
-#EXTINF:-1 tvg-name="鉴定" tvg-logo="https://kuaichezyimg.com/upload/vod/20261114-1/e224134ddd817a786cf7083ce7967299.jpg" x-year="2026" x-rating="0.0" group-title="快车资源网",鉴定 (2026)
-https://v15.kuaichezym3u8.com/yyv15/202611/01/xvPYg4SqhB27/video/index.m3u8
-#EXTINF:-1 tvg-name="钻石王牌 第四季 Part 2" tvg-logo="https://img.ukuapi88.com/upload/vod/20261011-1/159ff28a399affa3b98eee937eecd709.webp" x-year="2026" x-rating="0.0" group-title="U酷",钻石王牌 第四季 Part 2 (2026)
-https://ukzy.ukubf3.com/share/yd3mwWWjii
-#EXTINF:-1 tvg-name="钻石王牌第四季 Part 2" tvg-logo="https://www.mdzypic.com/upload/vod/20261011-1/a43b372d2b444c84241366d14557dc25.webp" x-year="2026" x-rating="0.0" group-title="魔都资源网",钻石王牌第四季 Part 2 (2026)
-https://play.modujx17.com/20261011/UvLvrVSH/index.m3u8
-#EXTINF:-1 tvg-name="闺蜜穿书自救，男主男二都慌了" tvg-logo="https://www.imgzy360.com:7788/upload/vod/20261115-1/c1d253cccdad55c69044ae4c172fc7de.jpg" x-year="2026" x-rating="0.0" group-title="360资源站",闺蜜穿书自救，男主男二都慌了 (2026)
-https://vod1.maowushi.com/20261114/c4Ysxo9B/index.m3u8
-#EXTINF:-1 tvg-name="陆总别傲了，简小姐和顾总订婚了" tvg-logo="https://tyyswimg2.com/upload/vod/20261115-1/18a5d428353af0ba6d6200cedebee864.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",陆总别傲了，简小姐和顾总订婚了 (2025)
-https://tyyszywvod2.com/videos/202611/15/6a3dd9c4de7f0096de785b61/89gcd4/index.m3u8
-#EXTINF:-1 tvg-name="雾色渐褪时" tvg-logo="https://tyyswimg2.com/upload/vod/20261115-1/829f671668d2889e7893ddf8e862adc4.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",雾色渐褪时 (2025)
-https://tyyszywvod2.com/videos/202611/15/6a3dd9bade7f0096de785b60/d7c93f/index.m3u8
-#EXTINF:-1 tvg-name="震惊我和影帝闪婚了" tvg-logo="https://tyyswimg2.com/upload/vod/20261115-1/d8fc65f809a1bd66a0b1250ebf5b7a94.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",震惊我和影帝闪婚了 (2025)
-https://tyyszywvod2.com/videos/202611/15/6a3dda44de7f0096de785b6b/a0b82c/index.m3u8
-#EXTINF:-1 tvg-name="青衣追寻" tvg-logo="https://img.ukuapi88.com/upload/vod/20261115-1/bb1458db96478153c7c6cff0e29b58a2.jpg" x-year="2026" x-rating="0.0" group-title="U酷",青衣追寻 (2026)
-https://ukzyvod3.ukubf5.com/share/K0TWW4zbax
-#EXTINF:-1 tvg-name="音乐缘计划3" tvg-logo="https://kuaichezyimg.com/upload/vod/20261114-1/7091236e2f81505b32698cf52cb2a4e9.jpg" x-year="2026" x-rating="0.0" group-title="快车资源网",音乐缘计划3 (2026)
-https://v14.kuaichezym3u8.com/yyv14/202611/06/E1GPRjRSsv27/video/index.m3u8
-#EXTINF:-1 tvg-name="顺路载同事三个月，她们真当我是司机" tvg-logo="https://snzypic.vip/upload/vod/20261115-1/64605974d2b82949297c565204f0f8b6.jpg" x-year="2026" x-rating="0.0" group-title="🌍VIP专享2K",顺路载同事三个月，她们真当我是司机 (2026)
-https://v13.rstu6.com/202610/30/w4Ur7Cu01L27/video/index.m3u8
-#EXTINF:-1 tvg-name="风吹7零：穿成炮灰把家卖了去下乡" tvg-logo="https://img.ukuapi88.com/upload/vod/20261115-1/6630490e7fa51e4ac2a9adf3aba1453a.jpg" x-year="2026" x-rating="0.0" group-title="U酷",风吹7零：穿成炮灰把家卖了去下乡 (2026)
-https://ukzyvod3.ukubf5.com/share/JcFFw3IQBf
-#EXTINF:-1 tvg-name="首席秘书要辞职，总裁慌了" tvg-logo="https://snzypic.vip/upload/vod/20261115-1/a46cc29b7683267c4b4d0c09c5108798.jpg" x-year="2026" x-rating="0.0" group-title="🌍VIP专享2K",首席秘书要辞职，总裁慌了 (2026)
-https://v15.rstu6.com/202610/30/U2tn6Cbi2j27/video/index.m3u8
-#EXTINF:-1 tvg-name="高考刚结束父母就不装了" tvg-logo="https://img.ukuapi88.com/upload/vod/20261115-1/df665a717db1b9ce846136ea76801da7.jpg" x-year="2026" x-rating="0.0" group-title="U酷",高考刚结束父母就不装了 (2026)
-https://ukzyvod3.ukubf5.com/share/0gYtCzkPRF
-#EXTINF:-1 tvg-name="鬼影战士" tvg-logo="https://img.ukuapi88.com/upload/vod/20261115-1/5129e45ea11ff357e878be340be5ed3c.jpg" x-year="2026" x-rating="0.0" group-title="U酷",鬼影战士 (2026)
-https://ukzyvod3.ukubf5.com/share/o9MmtQUHuw
-#EXTINF:-1 tvg-name="魔法姐妹露露与莉莉" tvg-logo="https://empimage.slcache.com/metadata/artwork/source/poster/9340d3521ae6a8378ed284adefe854add3a2faa2dde99bf9e4a04b68f7a524df.jpg" x-year="2026" x-rating="0.0" group-title="juliang",魔法姐妹露露与莉莉 (2026)
-https://jimaoys92.com/public/playback/5ea19e98a7c3de590242bbd6576bf038/smart.m3u8
-#EXTINF:-1 tvg-name="鱼缸之眼" tvg-logo="https://snzypic.vip/upload/vod/20261115-1/54d7f6a380cf00f261df6ab554e23b7b.jpg" x-year="2026" x-rating="0.0" group-title="🌍VIP专享2K",鱼缸之眼 (2026)
-https://v14.rstu6.com/202610/30/8E9iVZcRy027/video/index.m3u8
+#EXTINF:-1 tvg-name="软心团宠" tvg-logo="https://img.ukuapi88.com/upload/vod/20261117-1/dd5685f0876a295e41896222fd2ecafe.jpg" x-year="2026" x-rating="0.0" group-title="U酷",软心团宠 (2026)
+https://ukzyvod3.ukubf5.com/share/g2IBSxuwx0
+#EXTINF:-1 tvg-name="遮天" tvg-logo="https://empimage.slcache.com/metadata/artwork/source/poster/d3f901456a6fc375bbf20cfbd89e8d43083c53f03806710719f4df56d0f7af5b.jpg" x-year="未知" x-rating="0.0" group-title="juliang",遮天
+https://jimaoys92.com/public/playback/f15aacd06dfd7f12dd5ba33e8be1649d/smart.m3u8
+#EXTINF:-1 tvg-name="那时爱意正浓" tvg-logo="https://tyyswimg3.com/upload/vod/20261118-1/6aa56b9c58daf355e55f767c43530d01.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",那时爱意正浓 (2025)
+https://tyyszywvod2.com/videos/202611/17/6a3dfd70de7f0096de78df82/243db4/index.m3u8
+#EXTINF:-1 tvg-name="重回1977，打猎赶山娶老婆" tvg-logo="https://www.imgzy360.com:7788/upload/vod/20261117-1/c0e850bf112e210591077e08f4352f46.jpg" x-year="2026" x-rating="0.0" group-title="360资源站",重回1977，打猎赶山娶老婆 (2026)
+https://vod1.maowushi.com/20261116/OPgl5l9r/index.m3u8
+#EXTINF:-1 tvg-name="重生之诱他沉沦" tvg-logo="https://www.imgzy360.com:7788/upload/vod/20261117-1/5ec620de99d1e7cc24a51573120140b0.jpg" x-year="2026" x-rating="0.0" group-title="360资源站",重生之诱他沉沦 (2026)
+https://vod1.maowushi.com/20261116/fZhTJuAz/index.m3u8
+#EXTINF:-1 tvg-name="重生归来,我带精神小妹重走学习路" tvg-logo="https://p.bfp261112.com/upload/vod/20261117-1/ef55f86a5877292c5e6ea4985432b8f7.jpg" x-year="2026" x-rating="0.0" group-title="暴风采集",重生归来,我带精神小妹重走学习路 (2026)
+https://s3.bfllvip.com/video/zhongshengguilaiwodaijingshenxiaomeizhongzouxuexilu/05fa298fcba2/index.m3u8
+#EXTINF:-1 tvg-name="重返天堂岛 第三季" tvg-logo="https://img.ukuapi88.com/upload/vod/20261117-1/7207e06d0b6b66bc3a5bca64ba65f8e2.webp" x-year="2026" x-rating="0.0" group-title="U酷",重返天堂岛 第三季 (2026)
+https://ukzy.ukubf8.com/share/PfD6V6iFlV
+#EXTINF:-1 tvg-name="针线缘" tvg-logo="https://www.mdzypic.com/upload/vod/20261017-1/6667fc69fbf398780ca310f540fcf186.webp" x-year="2026" x-rating="0.0" group-title="魔都资源网",针线缘 (2026)
+https://play.modujx17.com/20261016/XedLD3n9/index.m3u8
+#EXTINF:-1 tvg-name="铛铛驾到小叶快跑" tvg-logo="https://img.ukuapi88.com/upload/vod/20261117-1/69860bd131afa959d9341b5d10c20eb8.jpg" x-year="2026" x-rating="0.0" group-title="U酷",铛铛驾到小叶快跑 (2026)
+https://ukzyvod3.ukubf5.com/share/wBTmcnaZV3
+#EXTINF:-1 tvg-name="锻刃定情深：乱世共渡风尘        漫剧" tvg-logo="https://www.imgzy360.com:7788/upload/vod/20261117-1/76b8cddfada57e901ad70a4ba2fd1aec.jpg" x-year="2026" x-rating="0.0" group-title="360资源站",锻刃定情深：乱世共渡风尘        漫剧 (2026)
+https://vod1.maowushi.com/20261116/FWytsPVO/index.m3u8
+#EXTINF:-1 tvg-name="闪婚夫人竟是帮派大小姐" tvg-logo="https://tyyswimg3.com/upload/vod/20261118-1/3d578dc9dab95186248ba4dd55018070.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",闪婚夫人竟是帮派大小姐 (2025)
+https://tyyszywvod2.com/videos/202611/17/6a3dfd93de7f0096de78df84/cf412f/index.m3u8
+#EXTINF:-1 tvg-name="闹着玩" tvg-logo="https://img.bdzyimg1.com/upload/vod/20261117-1/85ac8a1385548363db03abc53c97822f.jpg" x-year="2022" x-rating="0.0" group-title="百度资源",闹着玩 (2022)
+https://b2.bdzybf22.com/videos/202505/14/6823d8561bd9b41e0cb1ec0a/c9ca29/index.m3u8
+#EXTINF:-1 tvg-name="阿妩" tvg-logo="https://tyyswimg3.com/upload/vod/20261117-1/b8f019e6f0119f7f03e1c2046dd269b3.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",阿妩 (2025)
+https://tyyszywvod2.com/videos/202611/17/6a3dfcb2de7f0096de78df6e/d74a6f/index.m3u8
+#EXTINF:-1 tvg-name="陈总别怼了，外面全是小黑子" tvg-logo="https://tyyswimg3.com/upload/vod/20261118-1/025dea0479d6d6abc2930989ec727565.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",陈总别怼了，外面全是小黑子 (2025)
+https://tyyszywvod2.com/videos/202611/17/6a3dfd46de7f0096de78df7d/g3c79d/index.m3u8
+#EXTINF:-1 tvg-name="雪映长明       漫剧" tvg-logo="https://www.imgzy360.com:7788/upload/vod/20261117-1/6a2d207a4847275c0cac5f5e715d61d2.jpg" x-year="2026" x-rating="0.0" group-title="360资源站",雪映长明       漫剧 (2026)
+https://vod1.maowushi.com/20261116/SZj6R2m9/index.m3u8
+#EXTINF:-1 tvg-name="雷吉·丁金斯的兴衰" tvg-logo="https://empimage.slcache.com/metadata/artwork/tmdb/tv/291334/poster/11c3ea5afd2ae4b688bd26366ddb6f8a5ac438d584725527f2264f89c3d9f25c.webp" x-year="2026" x-rating="0.0" group-title="juliang",雷吉·丁金斯的兴衰 (2026)
+https://jimaoys94.com/public/playback/f3de57a64a93a086cf2e29595d8d0687/smart.m3u8
+#EXTINF:-1 tvg-name="雾港庄园" tvg-logo="https://tyyswimg3.com/upload/vod/20261118-1/ac0d81d39f514fedea60c16566de7333.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",雾港庄园 (2025)
+https://tyyszywvod2.com/videos/202611/17/6a3dfdcbde7f0096de78e0a2/025251/index.m3u8
+#EXTINF:-1 tvg-name="雾色缠绵" tvg-logo="https://tyyswimg3.com/upload/vod/20261117-1/f9c0e46ee4976ecff30767b04327b997.jpg" x-year="2025" x-rating="0.0" group-title="天涯影视资源",雾色缠绵 (2025)
+https://tyyszywvod2.com/videos/202611/17/6a3dfc41de7f0096de78d95d/c16790/index.m3u8
+#EXTINF:-1 tvg-name="霓虹尽欢" tvg-logo="https://tu.iqiyizyimg.com/upload/vod/20261117-1/81bb8c0dc96d3a65032da4b87cd998ea.webp" x-year="2026" x-rating="0.0" group-title="爱奇艺资源站",霓虹尽欢 (2026)
+https://play.ly166.com:65/videos/20261117/6afbe344fc050207350b01ab/b83009/index.m3u8
+#EXTINF:-1 tvg-name="音乐缘计划" tvg-logo="https://empimage.slcache.com/metadata/artwork/tmdb/tv/261394/poster/f6efc31cda5f74a2f74afb7d889d8a87083b795e1af740312ecc9a390c52fb75.webp" x-year="2024" x-rating="0.0" group-title="juliang",音乐缘计划 (2024)
+https://jimaoys90.com/public/playback/3dd781ef29697dcb591898e975c8e838/smart.m3u8
+#EXTINF:-1 tvg-name="顶级团宠在宫少的心尖上烙个吻" tvg-logo="https://img.ukuapi88.com/upload/vod/20261117-1/2d6b974a3fdef929e36d3ac8cdfd1617.jpg" x-year="2026" x-rating="0.0" group-title="U酷",顶级团宠在宫少的心尖上烙个吻 (2026)
+https://ukzyvod3.ukubf5.com/share/IFQYtQ49sT
+#EXTINF:-1 tvg-name="骤雨2026" tvg-logo="https://img.ukuapi88.com/upload/vod/20261117-1/da545b4832aecf43b1ff5a7dff74d040.webp" x-year="2026" x-rating="0.0" group-title="U酷",骤雨2026 (2026)
+https://ukzy.ukubf8.com/share/desUsnC6os
+#EXTINF:-1 tvg-name="高声摇滚" tvg-logo="https://img.ukuapi88.com/upload/vod/20261117-1/960f792d9a6dfacc77a4f70777f75fd5.jpg" x-year="2026" x-rating="0.0" group-title="U酷",高声摇滚 (2026)
+https://ukzyvod3.ukubf5.com/share/oqTXYgU67E
