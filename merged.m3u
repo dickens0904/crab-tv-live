@@ -1,6 +1,4 @@
 #EXTM3U x-tvg-url="https://iptv.yang-1989.xyz/epg.xml.gz"
-#EXTINF:-1 tvg-name="春晚2024" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV1.png" group-title="央视",CCTV-1
-https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 #EXTINF:-1 tvg-name="CCTV-1" tvg-logo="https://i.imgur.com/TpA3cUl.png" group-title="央视",CCTV-1
 http://112.27.5.218:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1
 #EXTINF:-1 tvg-name="CCTV-1" tvg-logo="https://i.imgur.com/TpA3cUl.png" group-title="央视",CCTV-1
@@ -4891,8 +4889,6 @@ https://live.ottiptv.cc/yy/1354936141
 https://live.ottiptv.cc/yy/1354936203
 #EXTINF:-1 tvg-logo="http://emyfs.bs2cdn.yy.com/offlineIndividuationCover/PRwoEKRLlv6kSou4OD4CW.jpg?imageview/4/0/w/400/h/500/q/80" group-title="其他",岳云鹏宋小宝也来演电影了？
 https://live.ottiptv.cc/yy/1354926612
-#EXTINF:-1 tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/ZTBiMmJmNzktNzYwOS00MjY3LWI3ZGMtNDY5MjMwMjQ0Y2I3.jpg?imageview/4/0/w/400/h/500/q/80" group-title="其他",巩汉林春晚小品合集
-https://live.ottiptv.cc/yy/1354889035
 #EXTINF:-1 tvg-logo="https://mobilelivephoto.bs2dl.yy.com/group16/M00/9d688570fb504637ad822cc46dcfbbc2.jpg?imageview/4/0/w/400/h/500/q/80" group-title="其他",带你回味鹊刀门
 https://live.ottiptv.cc/yy/10392315
 #EXTINF:-1 tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/4RRlHCuJPfPjGHUQV5jLSJ.jpg?imageview/4/0/w/400/h/500/q/80" group-title="其他",带你领略四季的变化
@@ -5009,8 +5005,6 @@ https://yg.ygbox.de5.net/huya.php?id=11602032
 https://live.ottiptv.cc/yy/1354931498
 #EXTINF:-1 tvg-logo="https://mobilelivephoto.bs2dl.yy.com/group16/M00/d84305d2f4864a20b500d4f8b6e0ab34.jpg?imageview/4/0/w/400/h/500/q/80" group-title="其他",昕儿 正在直播
 https://live.ottiptv.cc/yy/1353852605
-#EXTINF:-1 tvg-name="春晚2023" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/春晚2023.png" group-title="其他",春晚2023
-https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2MTZfMF8z_b_B4851f43f5a2bc2871a9b0ec87294a6e7.mp4
 #EXTINF:-1 tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/6jTwwAsBrLEf8iTKbtNPIr.jpg?imageview/4/0/w/400/h/500/q/80" group-title="其他",智取威虎山
 https://live.ottiptv.cc/yy/1382736843
 #EXTINF:-1 tvg-logo="https://emyfs.bs2cdn.yy.com/anchorCover/4MOQs5jwnszYy4xRMyiJO3.jpg?imageview/4/0/w/400/h/500/q/80" group-title="其他",暗夜良人：暗夜出击护良善
@@ -5405,8 +5399,6 @@ https://live.ottiptv.cc/yy/1354889234
 https://live.ottiptv.cc/yy/1354930971
 #EXTINF:-1 tvg-logo="http://emyfs.bs2cdn.yy.com/YmRlMzU1MjgtMDg0My00YTcwLWFmNGEtYmQ5OWVhNjlmNmFk.jpg?imageview/4/0/w/400/h/500/q/80" group-title="其他",萌鸡小队S1-国漫
 https://live.ottiptv.cc/yy/1382736904
-#EXTINF:-1 tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/M2VlNTNjN2EtZTk3MC00MjBjLWFkMmMtMTg2YWE0Mjg2ODVl.jpg?imageview/4/0/w/400/h/500/q/80" group-title="其他",蔡明春晚小品
-https://live.ottiptv.cc/yy/1354936177
 #EXTINF:-1 tvg-logo="https://mobilelivephoto.bs2dl.yy.com/group16/M00/256f700880394580a1b4b0ef03744618.jpg?imageview/4/0/w/400/h/500/q/80" group-title="其他",薛仁贵传奇
 https://live.ottiptv.cc/yy/1355260662
 #EXTINF:-1 tvg-logo="https://emyfs.bs2cdn.yy.com/anchorCover/1L9vYm0OYwjamTAOWhXXlU.png?imageview/4/0/w/400/h/500/q/80" group-title="其他",蛇王 2021 巨兽来袭
@@ -5431,8 +5423,6 @@ https://live.ottiptv.cc/yy/1355052097
 https://live.ottiptv.cc/yy/1382735570
 #EXTINF:-1 tvg-logo="http://emyfs.bs2cdn.yy.com/YjAwZWE5YzctNmZjMi00MzhjLWJhZGEtNDJmZjg2MTk4YzY0.jpg?imageview/4/0/w/400/h/500/q/80" group-title="其他",豪哥带我们发财
 https://live.ottiptv.cc/yy/23402146
-#EXTINF:-1 tvg-logo="http://emyfs.bs2cdn.yy.com/anchorCover/YzgxZjgwYWUtNTNjNy00MDUzLWI4NTQtYzA5MTBhZTZiOWMx.jpg?imageview/4/0/w/400/h/500/q/80" group-title="其他",贾玲春晚小品
-https://live.ottiptv.cc/yy/1382736720
 #EXTINF:-1 tvg-logo="https://mobilelivephoto.bs2dl.yy.com/group16/M00/15ead22f698c47ecbc1c7c2ad1d60c37.jpg?imageview/4/0/w/400/h/500/q/80" group-title="其他",赌神 港片 喜剧
 https://live.ottiptv.cc/yy/1355112116
 #EXTINF:-1 tvg-logo="http://emyfs.bs2cdn.yy.com/offlineIndividuationCover/dkv5hEKGP1yGiuuT31q6x.jpg?imageview/4/0/w/400/h/500/q/80" group-title="其他",赌神-发哥
@@ -5645,8 +5635,6 @@ https://live.ottiptv.cc/douyu/8914709
 https://live.ottiptv.cc/huya/30693592
 #EXTINF:-1 tvg-logo="http://emyfs.bs2cdn.yy.com/individuationCover/51qHMuIaH9SsoQTWXl9tcE.jpg?imageview/4/0/w/400/h/500/q/80" group-title="其他",甜心 正在直播
 https://live.ottiptv.cc/yy/1454732419
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/凤凰中文.png" group-title="港澳台",凤凰中文
-http://183.237.95.108:9901/tsfile/live/1103_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CHC影迷电影.png" group-title="节目",CHC影迷电影
 http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/chcymdy/50/20250415/index.m3u8?msisdn=2026110906030270ed7b20892b41c88db2860a1450726c&mdspid=&spid=699004&netType=0&sid=5910022176&pid=2028597139&timestamp=20261109060302&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=952383261&ParentNodeID=-99&assertID=5910022176&client_ip=171.8.79.254&SecurityKey=20261109060302&promotionId=&mvid=5900006704&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=00fc420caa6fa12ac799edea579a7131
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/嘉佳卡通.png" group-title="其他",嘉佳卡通
@@ -5711,12 +5699,8 @@ http://222.223.41.27:8888/hls/2/index.m3u8
 http://124.228.160.40:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV2.png" group-title="央视",CCTV-2
 http://153.0.171.163:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV2.png" group-title="央视",CCTV-2
-http://119.39.9.8:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV3.png" group-title="央视",CCTV-3
 http://124.228.160.40:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV3.png" group-title="央视",CCTV-3
-http://119.39.9.8:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV3.png" group-title="央视",CCTV-3
 http://120.237.39.10:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV4.png" group-title="央视",CCTV-4
@@ -5731,8 +5715,6 @@ http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
 http://104.152.209.49:8181/720p/cctv4.m3u8
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV4.png" group-title="央视",CCTV-4
 http://36.136.38.87:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV4.png" group-title="央视",CCTV-4
-http://119.39.9.8:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV4.png" group-title="央视",CCTV-4
 http://221.226.51.220:50081/newlive/live/hls/4/live.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV5.png" group-title="央视",CCTV-5
@@ -5797,8 +5779,6 @@ http://45.192.97.170:8880/play/398.m3u8
 http://124.228.160.40:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV-9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视",CCTV-9 纪录
 https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=73c5c7afa7ecf8858b8ac0ab77361469
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV9.png" group-title="央视",CCTV-9
-http://119.39.9.8:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV10.png" group-title="央视",CCTV-10
 http://219.147.245.238:25480/newlive/live/hls/11/live.m3u8
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV10.png" group-title="央视",CCTV-10
@@ -5852,8 +5832,6 @@ http://45.192.97.170:8880/play/402.m3u8
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV13.png" group-title="央视",CCTV-13
 http://219.147.245.238:25480/newlive/live/hls/14/live.m3u8
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV13.png" group-title="央视",CCTV-13
-http://119.39.9.8:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV13.png" group-title="央视",CCTV-13
 http://124.90.45.52:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV14.png" group-title="央视",CCTV-14
 http://45.192.97.170:8880/play/403.m3u8
@@ -5881,8 +5859,6 @@ http://45.192.97.170:8880/play/404.m3u8
 http://219.147.245.238:25480/newlive/live/hls/16/live.m3u8
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV15.png" group-title="央视",CCTV-15
 http://124.228.160.40:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV15.png" group-title="央视",CCTV-15
-http://119.39.9.8:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV15.png" group-title="央视",CCTV-15
 http://124.90.45.52:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV16.png" group-title="央视",CCTV-16
@@ -5913,8 +5889,6 @@ http://ls.qingting.fm/live/23891.m3u8
 http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
 #EXTINF:-1 group-title="其他",宿州新闻
 http://live.ahsz.tv/video/s10001-szzh/index.m3u8?zanhd
-#EXTINF:-1 tvg-name="春晚2024" tvg-logo="https://epg.112114.xyz/logo/春晚2024.png" group-title="其他",春晚2024
-https://v.cdnlz13.com/20240210/24176_cd3c5aff/index.m3u8
 #EXTINF:-1 group-title="地方",璧山
 http://222.179.42.129:8181/hls1.m3u8
 #EXTINF:-1 group-title="地方",定西公共
